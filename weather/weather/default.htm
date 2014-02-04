@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <title>hw</title>
+        <link href="Content/bootstrap.css" rel="stylesheet" />
+        <link href="Content/hw.min.css" rel="stylesheet" />
+        <link href="Content/toastr.css" rel="stylesheet" />
+        <link href="Content/font-awesome.css" rel="stylesheet" />
+        <link href="Content/compass.min.css" rel="stylesheet" />
+        <script src="Scripts/jquery-2.0.3.min.js"></script>
+        <script src="Scripts/jquery-ui-1.10.3.min.js"></script>
+        <script src="Scripts/angular.min.js"></script>
+        <script src="Scripts/angular-animate.min.js"></script>
+        <script src="Scripts/angular-cookies.min.js"></script>
+        <script src="Scripts/angular-loader.min.js"></script>
+        <script src="Scripts/angular-resource.min.js"></script>
+        <script src="Scripts/angular-route.min.js"></script>
+        <script src="Scripts/angular-sanitize.min.js"></script>
+        <script src="Scripts/angular-touch.min.js"></script>
+        <script src="Scripts/angular-local-storage.js"></script>
+        <script src="app/directives/timer.js"></script>
+        <script src="Scripts/bootstrap.min.js"></script>
+        <script src="Scripts/ui-bootstrap-tpls-0.10.0.min.js"></script>
+        <script src="Scripts/toastr.min.js"></script>
+    </head>
+    <body ng-app="hwApp">
+        <div class="container">
+            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#home"><i class=" fa fa-home fa-2x"></i></a></li>
+                        <li><a href="#settings"><i class=" fa fa-gear fa-2x"></i></a></li>
+                        <li><a href="#alerts"><i class="fa fa-bell fa-2x"></i></a></li>
+                        <li><a href="#tests"><i class="fa fa-random fa-2x"></i></a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </nav>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div ng-view="" ng-cloak>
+
+                </div>
+            </div>
+        </div>
+        <script src="app/common/config.js"></script>
+        <script src="app.js"></script>
+        <script src="app/services/loadingService.js"></script>
+        <script src="app/services/weatherService.js"></script>
+        <script src="app/services/usgsService.js"></script>
+        <script src="app/services/userService.js"></script>
+        <script src="app/controllers/mainCtrl.js"></script>
+        <script src="app/controllers/settingsCtrl.js"></script>
+        <script src="app/controllers/alertsCtrl.js"></script>
+        <script src="app/controllers/testsCtrl.js"></script>
+    </body>
+</html>

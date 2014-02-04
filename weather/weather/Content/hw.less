@@ -1,0 +1,161 @@
+﻿/* Include this file in your html if you are using the CSP mode. */
+
+@charset "UTF-8";
+
+@color-base: #0072C6;
+@color-list-light: #fff;
+@color-list-dark: #666;
+@color-border-light: #FFF;
+@color-border-dark: #333;
+@color-error:#b94a48;
+@color-error-dark:#953b39;
+body{margin-top:100px;}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak],
+.ng-cloak, .x-ng-cloak,
+.ng-hide {
+  display: none !important;
+}
+
+ng\:form {
+  display: block;
+}
+
+body {
+    background-color: @color-base;
+  font-family: 'Actor', sans-serif;
+  color: @color-border-light;
+}
+a {
+    color: @color-border-light;
+}
+h3 {
+    font-size: 4em;
+     color:@color-base ! important;
+}
+#datetime {
+  text-align: center;
+}
+
+#datetime h1 {
+  font-size: 2em;
+}
+
+#datetime h2 {
+  font-size: 1.0em;
+}
+
+@font-face {
+  font-family: 'Actor';
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/DroidSansMono.ttf');
+}
+
+#forecast ul li {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#forecast ul li img {
+}
+
+#forecast ul li h3 {
+   
+  font-size: 1.5em;
+}
+#current h3 {
+
+  font-size: 4.5em;
+}
+/*hr {
+    background-color: @color-list-dark;
+    height:1px;
+}*/
+h4{
+    font-size: 1.5em;
+    color: @color-base ! important;
+}
+#actionbar {
+  position: absolute;
+  bottom: 0.5em;
+  right: 1.0em;
+}
+
+#actionbar a {
+  font-size: 2.2rem;
+  color: #000;
+}
+
+.typeahead ul {
+  max-height: 150px;
+  border: 1px solid #333;
+  padding: 3px;
+  overflow: auto;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.badge-error {
+  background-color: @color-error;
+}
+.badge-error:hover {
+  background-color:@color-error-dark;
+}
+.current {
+   border: 1px solid @color-border-light; 
+   border-radius:25px;
+   background-color: @color-border-light;
+   /*box-shadow: 10px 10px 5px #888888;*/
+}
+.rowspace {
+    height:10px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+}
+.current-dark {
+    background-color: @color-list-dark;
+    height: 100%;
+}
+.current-light {
+    text-align:center;
+    background-color: @color-list-light;
+    height: 100%;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+}
+
+.current-top
+{
+    width: 100%;
+    min-height: 100%;
+}
+#title
+{
+    text-align:center;
+}
+#location
+{
+    text-align:center;
+}
+.help-block {
+    color: #ffffff;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+legend {
+    color: #ffffff;
+    font-size: 2em ! important;
+}
+.currentHeader {
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px; 
+    background-color:@color-border-light;
+}
+.row.currentHeader > div {
+    color:@color-base;
+}
+li
+{
+    margin-top: 9pt;
+    margin-bottom: 9pt;
+}

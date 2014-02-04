@@ -1,0 +1,91 @@
+
+
+<!--<form ng-submit="save()">
+    <div>
+        <label for="location">Location:</label><input type="text" id="location"
+                                                      ng-model="user.location"
+                                                      timezone="user.timezone"
+                                                      auto-fill="fetchCities"
+                                                      autocomplete="off"
+                                                      placeholder="Location" />
+    </div>
+    <div>
+        <label for="usgsStation">USGS Station Number:</label>
+        <input type="text" ng-model="user.usgsStation" placeholder="USGS Station Number" id="usgsStation" />
+    </div>
+    <div>
+        <input class="btn btn-primary"
+               type="submit" value="Save" />
+        <button class="btn btn-danger">Cancel</button>
+    </div>
+
+
+    <br />
+</form>-->
+<form class="form-horizontal" ng-submit="save()">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <fieldset>
+                <!-- Form Name -->
+                <legend>Settings</legend>
+                <!-- Trip title-->
+                <div class="control-group">
+                    <label class="control-label" for="textinputtripTitle">Trip Title:</label>
+                    <div class="controls">
+                        <input name="textinputtripTitle" ng-model="user.tripTitle" id="textinputtripTitle" type="text" placeholder="Trip Title">
+                    </div>
+                </div>
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="textinput">Location:</label>
+                    <div class="controls">
+                        <input type="text" id="selectedlocation"
+                               ng-model="user.location"
+                               timezone="user.timezone"
+                               auto-fill="fetchCities"
+                               autocomplete="off"
+                               placeholder="Location" />
+                        <p class="help-block">example: ar/Mena</p>
+                    </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="textinputUSGS Station">USGS Station:</label>
+                    <div class="controls">
+                        <input type="text" ng-model="user.usgsStation" placeholder="USGS Station Number" id="usgsStation" />
+                    </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="textinputtripDate">Trip Date:</label>
+                    <div class="controls">
+                        <input name="textinputtripDate" ng-model="user.tripDate" id="textinputtripDate" type="text" placeholder="Trip Date">
+
+                    </div>
+                </div>
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="daystoshow">Forcast Days</label>
+                    <div class="controls">
+                        <select id="daystoshow" ng-model="user.daysToShow">
+                            <option value="10">10</option>
+                            <option value="3">3</option>
+                        </select>
+                    </div>
+                </div>
+                <!-- Button (Double) -->
+                <div class="control-group">
+                    <label class="control-label" for="button1id"></label>
+                    <div class="controls">
+                        <input class="btn btn-primary"
+                               type="submit" value="Save" />
+                        <button class="btn btn-danger">Cancel</button>
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+</form>
+
