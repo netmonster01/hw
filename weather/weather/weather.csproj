@@ -57,7 +57,22 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\controllers\alertsCtrl.min.js">
+      <DependentUpon>alertsCtrl.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\homeCtrl.min.js">
+      <DependentUpon>homeCtrl.js</DependentUpon>
+    </Content>
     <Content Include="app\controllers\menuCtrl.js" />
+    <Content Include="app\controllers\menuCtrl.min.js">
+      <DependentUpon>menuCtrl.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\settingsCtrl.min.js">
+      <DependentUpon>settingsCtrl.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\testsCtrl.min.js">
+      <DependentUpon>testsCtrl.js</DependentUpon>
+    </Content>
     <Content Include="app\directives\ngAutocomplete.js" />
     <Content Include="Content\compass.less" />
     <Content Include="Content\hw.less" />
@@ -98,6 +113,21 @@
     <Content Include="Eagle-Rock-Loop.kmz" />
     <Content Include="Glendale-Eagle-Rock-loop.kml" />
     <Content Include="myplaces.kml" />
+    <Content Include="app\controllers\alertsCtrl.min.js.map">
+      <DependentUpon>alertsCtrl.min.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\homeCtrl.min.js.map">
+      <DependentUpon>homeCtrl.min.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\menuCtrl.min.js.map">
+      <DependentUpon>menuCtrl.min.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\settingsCtrl.min.js.map">
+      <DependentUpon>settingsCtrl.min.js</DependentUpon>
+    </Content>
+    <Content Include="app\controllers\testsCtrl.min.js.map">
+      <DependentUpon>testsCtrl.min.js</DependentUpon>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -110,7 +140,7 @@
     <Content Include="app\common\config.js" />
     <Content Include="app\common\utils.js" />
     <Content Include="app\controllers\alertsCtrl.js" />
-    <Content Include="app\controllers\mainCtrl.js" />
+    <Content Include="app\controllers\homeCtrl.js" />
     <Content Include="app\controllers\settingsCtrl.js" />
     <Content Include="app\controllers\testsCtrl.js" />
     <Content Include="app\directives\autoFill.js" />

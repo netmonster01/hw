@@ -3,7 +3,7 @@ angular.module('hwApp', ['ngRoute', 'LocalStorageModule', 'timer', 'google-maps'
   $routeProvider
     .when('/', {
       templateUrl: 'app/partials/home.html', 
-      controller: 'mainCtrl'
+      controller: 'homeCtrl'
     })
     .when('/settings', {
       templateUrl: 'app/partials/settings.html',

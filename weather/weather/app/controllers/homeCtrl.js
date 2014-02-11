@@ -1,5 +1,5 @@
 ﻿angular.module('hwApp')
-    .controller('mainCtrl',
+    .controller('homeCtrl',
         function ($scope, $timeout, $log, $location, Weather, UserService, localStorageService, usgsService) {
             $scope.date = {};
             $scope.weather = {};
