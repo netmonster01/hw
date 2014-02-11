@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder>
+<name>Waypoints</name>
+<Folder>
+<Style id="">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Grayscale/Waypoint.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Putman_Cemtry</name>
+<description>Putman Cemetery</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.89870600,34.36558900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trail_Head_11</name>
+<description>Trailhead, northbound, Albert Pike Recreation Area</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.87951300,34.37608600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>THAPSW</name>
+<description>Trailhead, southwest bound, Albert Pike Recreation Area</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.87793600,34.37522800,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>THWST</name>
+<description>Trailhead, Winding Stairs spur trail</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.90188400,34.36553100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TJLMR0</name>
+<description>Trail junction, spur from Winding Stairs area, Little Missouri River Trail to somewhere.</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.90993700,34.35261100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TJLMRV</name>
+<description>Trail junction, Little Missouri River and Viles Branch trails</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.92066800,34.34791300,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TJVBAB</name>
+<description>Trail junction, Viles Branch and Athens-Big Fork trails</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.97532100,34.35484600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trail_Xing_10</name>
+<description>Trail junction, spur to Winding Stairs Trailhead</description>
+<styleUrl>#</styleUrl>
+<Point>
+<coordinates>-93.90163200,34.36411800,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Picnic Area</name>
+<Style id="PicnicArea">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Picnic_Area.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Albert Pike Recreation Area</name>
+<description>Albert Pike Recreation Area</description>
+<styleUrl>#PicnicArea</styleUrl>
+<Point>
+<coordinates>-93.87659000,34.37485000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Rec_Area</name>
+<description>Little Missouri Falls Recreation Area</description>
+<styleUrl>#PicnicArea</styleUrl>
+<Point>
+<coordinates>-93.91964000,34.42263000,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Crossing-S</name>
+<Style id="Crossing-S">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Crossing.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_RiverXing_2</name>
+<description>River crossing #2, LIttle Missouri River</description>
+<styleUrl>#Crossing-S</styleUrl>
+<Point>
+<coordinates>-93.95493822,34.43053619,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Crossing-E</name>
+<Style id="Crossing-E">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Crossing.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_StreamXng_6</name>
+<description>Stream crossing, Crooked Creek, Little Missouri River Trail.</description>
+<styleUrl>#Crossing-E</styleUrl>
+<Point>
+<coordinates>-93.91120381,34.40926937,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM-RiverXing_5</name>
+<description>Bridge #2, crossing #5, Little Missouri River located at the Little Missouri River Recreation Area</description>
+<styleUrl>#Crossing-E</styleUrl>
+<Point>
+<coordinates>-93.91933193,34.42217067,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_RiverXing_7</name>
+<description>River crossing #7, Little Missouri River</description>
+<styleUrl>#Crossing-E</styleUrl>
+<Point>
+<coordinates>-93.88457925,34.39793068,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Crossing-W</name>
+<Style id="Crossing-W">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Crossing.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_RiverXing_6</name>
+<description>River crossing #6, Little Missouri River</description>
+<styleUrl>#Crossing-W</styleUrl>
+<Point>
+<coordinates>-93.91149336,34.40935972,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Crossing-NE</name>
+<Style id="Crossing-NE">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Crossing.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_StreamXng_7</name>
+<description>Stream crossing, unnamed stream, just before river crossing #7, Little Missouri River Trail</description>
+<styleUrl>#Crossing-NE</styleUrl>
+<Point>
+<coordinates>-93.88927190,34.40133227,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_RiverXing_3</name>
+<description>River crossing #3, Little Missouri River</description>
+<styleUrl>#Crossing-NE</styleUrl>
+<Point>
+<coordinates>-93.95355024,34.43042847,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Restrooms</name>
+<Style id="Restrooms">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Restroom.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM-Restroom</name>
+<description>Toilet, vault, Little Missouri River Recreation area</description>
+<styleUrl>#Restrooms</styleUrl>
+<Point>
+<coordinates>-93.91962300,34.42286400,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Showers_11</name>
+<description>Showers, Albert Pike Recreation Area</description>
+<styleUrl>#Restrooms</styleUrl>
+<Point>
+<coordinates>-93.87856700,34.37569200,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Restroom_11</name>
+<description>Toilet, flush, Albert Pike Recreation Area</description>
+<styleUrl>#Restrooms</styleUrl>
+<Point>
+<coordinates>-93.87854000,34.37568500,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Dam</name>
+<Style id="Dam">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Dam.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM-falls</name>
+<styleUrl>#Dam</styleUrl>
+<Point>
+<coordinates>-93.91882705,34.42140085,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Spring</name>
+<Style id="Spring">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Drinking_Water.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Rock_Spring</name>
+<description>Rock Spring, spring flowing from rock, Little Missouri River Trail</description>
+<styleUrl>#Spring</styleUrl>
+<Point>
+<coordinates>-93.87937000,34.38902000,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Crossing-N</name>
+<Style id="Crossing-N">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Crossing.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_StreamXng_2</name>
+<description>Stream crossing, unnamed stream coming from Missouri Mountains, just after Little Missouri River crossing #2, LIttle Missouri River Trail.</description>
+<styleUrl>#Crossing-N</styleUrl>
+<Point>
+<coordinates>-93.95456309,34.43064147,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Trailhead</name>
+<Style id="Trailhead">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Trail_Head.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>TVWST</name>
+<description>Toilet, vault, Winding Stairs Trailhead</description>
+<styleUrl>#Trailhead</styleUrl>
+<Point>
+<coordinates>-93.90202700,34.36592700,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Trail Head</name>
+<Style id="TrailHead">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Trail_Head.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name> FR106_N_TrlHd</name>
+<description>Trailhead, north, FR 106, Athens-Big Fork Trail</description>
+<styleUrl>#TrailHead</styleUrl>
+<Point>
+<coordinates>-93.96241100,34.38192500,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> FR106_S_TrlHd</name>
+<description>Trailhead, south, FR 106, Athens-Big Fork Trail</description>
+<styleUrl>#TrailHead</styleUrl>
+<Point>
+<coordinates>-93.96249000,34.38146000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TH512A</name>
+<description>Trailhead, FM512, Athens-Big Fork Trail</description>
+<styleUrl>#TrailHead</styleUrl>
+<Point>
+<coordinates>-93.97019400,34.41180300,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TJLMAB</name>
+<description>Trail junction, Little Missouri River and Athen-Big Fork trails</description>
+<styleUrl>#TrailHead</styleUrl>
+<Point>
+<coordinates>-93.97373400,34.43343100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Brush_Heap_mtn</name>
+<description>Brush Heap mtn Spur Trailhead</description>
+<styleUrl>#TrailHead</styleUrl>
+<Point>
+<coordinates>-93.96239361,34.36829827,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Crossing</name>
+<Style id="Crossing">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Crossing.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_RiverXing_4</name>
+<description>Bridge #1, crossing #4, Little Missouri River</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.92354218,34.42450869,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RCLMR1</name>
+<description>River crossing #1, Little Missouri River</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.97360700,34.43354900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RCLMR8</name>
+<description>River crossing #8, Little Missouri River</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.91059000,34.35512600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RCLMVB</name>
+<description>River crossing, Little Missouri River, Viles Branch Trail</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.92119600,34.34843000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABFStreamXin_2</name>
+<description>Stream crossing, unnamed creek, Athens-Big Fork Trail</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.96084232,34.37703101,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_StreaXing13</name>
+<description>Stream crossing, just after river crossing #8, unnamed stream from Cossatot Mountains, LIttle Missouri River Trail.</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.91063700,34.35470900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_StreaXing14</name>
+<description>Stream crossing, unnamed stream from Little Raven Mountain, LIttle Missouri River Trail.</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.90942000,34.34952600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABFStreamXin_4</name>
+<description>Stream crossing, Brier Creek, Athens-Big Fork Trail</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.97028300,34.41173500,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_StreamXng11</name>
+<description>Stream crossing, Brier Creek, Little Missouri Trail</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.88649200,34.37854300,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABFStreamXin_3</name>
+<description>Stream Xing, Blaylock Creek, Athens-Big Fork Trail.</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.96227800,34.38251900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_StreamXng12</name>
+<description>Stream crossing, Blaylock Creek, Little Missouri Trail</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.90169300,34.36363600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABFStreamXin_1</name>
+<description>Stream Xing, East Saline Creek, Athens-Big Fork Trail.</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.97530000,34.36362900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABFStreamXin_5</name>
+<description>Stream crossing, Long Creek, Athens-Big Fork Trail.</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.97011500,34.41224300,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_StreamXng10</name>
+<description>Stream crossing, Long Creek, Little Missouri River Trail.</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.88618500,34.38255900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABFStreamXin_6</name>
+<description>Stream Xing, Straight Creek, Athens-Big Fork Trail</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.97095500,34.42118000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_StreaXing_1</name>
+<description>Stream crossing #1, Viles Branch</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.93859800,34.35053600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_StreaXing_3</name>
+<description>Stream crossing #3, Viles Branch</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.95552700,34.35203300,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_StreaXing_4</name>
+<description>Stream crossing #4, Viles Branch</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.96629700,34.35316100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_StreaXing_5</name>
+<description>Stream crossing #5, Viles Branch</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.97306700,34.35488100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_StreaXing_2</name>
+<description>Stream crossing #2, Viles Branch</description>
+<styleUrl>#Crossing</styleUrl>
+<Point>
+<coordinates>-93.93989600,34.35058700,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Scenic Area</name>
+<Style id="ScenicArea">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Scenic_Area.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Eagle_Rock_Vista</name>
+<description>should be a trail to a Vista</description>
+<styleUrl>#ScenicArea</styleUrl>
+<Point>
+<coordinates>-93.97615917,34.35986122,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>BayLock_Falls</name>
+<description>Baylock Creek water Falls</description>
+<styleUrl>#ScenicArea</styleUrl>
+<Point>
+<coordinates>-93.96242888,34.38236592,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Brush_Overlook</name>
+<description>Brush Heap Overlook</description>
+<styleUrl>#ScenicArea</styleUrl>
+<Point>
+<coordinates>-93.95677488,34.36900273,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Road</name>
+<Style id="Road">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Navaid_Red.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>FR106_Xing</name>
+<description>Forest Road 106 crossing, LIttle Missouri River trail</description>
+<styleUrl>#Road</styleUrl>
+<Point>
+<coordinates>-93.88852000,34.37371100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>FM512_Xing</name>
+<description>Forest Road 512 crossing, LIttle Missouri River trail</description>
+<styleUrl>#Road</styleUrl>
+<Point>
+<coordinates>-93.88446100,34.38242900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RDABF1</name>
+<description>Road crossing (near Straight Creek crossing), unnamed four-wheel drive.</description>
+<styleUrl>#Road</styleUrl>
+<Point>
+<coordinates>-93.97116600,34.42164600,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Campground</name>
+<Style id="Campground">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Campground.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>LM_Camp_14</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.90987500,34.35297700,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_14</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.90987500,34.35297700,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_13</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.91025800,34.35390900,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABF_Camp_63</name>
+<description>Established campsite with fire ring, Athens-Big Fork trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.97528100,34.36355400,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_9</name>
+<description>Campsite #9  Little Missouri trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.89175600,34.40163600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_8</name>
+<description>Campsite_8 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.90839100,34.40691400,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_4</name>
+<description>Campsite_4 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.93880300,34.42738400,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABF_Camp_61</name>
+<description>Established campsite with fire ring, Athens-Big Fork trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.97272000,34.35639000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABF_Camp_62</name>
+<description>Established campsite with fire ring, Athens-Big Fork trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.97408900,34.36051100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_Camp_64</name>
+<description>Established campsite with fire ring, Athens-Big Fork trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.96037256,34.37667745,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ABF_Camp_65</name>
+<description>Brier Creek campsite with fire ring, Athens-Big Fork trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.96348900,34.39549600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_7</name>
+<description>Campsite_7 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.91129600,34.40960100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_10</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.88604900,34.38244600,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_11</name>
+<description>Campsite_11 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.90101500,34.36414000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_12</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.91043200,34.35452400,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_15</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.91002700,34.35279500,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_16</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.90930600,34.35018100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_17</name>
+<description>Established campsite with fire ring, Little Missouri River trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.90935500,34.34972500,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_Camp_41</name>
+<description>Established campsite with fire ring, Viles Branch trail</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.95098300,34.35155300,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_Camp_42</name>
+<description>Established campsite with fire ring, Viles Branch trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.95171100,34.35162000,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>VB_Camp_43</name>
+<description>Established campsite with fire ring, Viles Branch trail.</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.96283500,34.35374100,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_1</name>
+<description>Campsite_1 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.96711900,34.43221500,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_2</name>
+<description>Campsite_2 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.95512542,34.43050978,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_3</name>
+<description>Campsite_3 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.95484341,34.43080701,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_5</name>
+<description>Campsite_5 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.93097900,34.42625500,0.000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LM_Camp_6</name>
+<description>Campsite_6 Little Missouri Tr</description>
+<styleUrl>#Campground</styleUrl>
+<Point>
+<coordinates>-93.91635300,34.41304900,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Drinking Water</name>
+<Style id="DrinkingWater">
+<IconStyle>
+<Icon>
+<href>http://www.topografix.com/symbols/Garmin_Color/Drinking_Water.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>PWAT1</name>
+<description>Water, potable #1, Albert Pike Recreation Area</description>
+<styleUrl>#DrinkingWater</styleUrl>
+<Point>
+<coordinates>-93.87746700,34.37529300,0.000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Folder>
+<Folder>
+<name>Tracks</name>
+<Folder>
+<name>Marine</name>
+<Style id="Marine">
+<LineStyle>
+<color>ffa49700</color>
+<width>3.1</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Athns-Bg frk-7</name>
+<styleUrl>#Marine</styleUrl>
+<LineString>
+<coordinates>-93.97196500,34.41538100,1 -93.97194400,34.41540200,1 -93.97190100,34.41538100,1 -93.97185800,34.41536000,1 -93.97181500,34.41533800,1 -93.97177200,34.41533800,1 -93.97175100,34.41531700,1 -93.97172900,34.41529500,1 -93.97168600,34.41531700,1 -93.97164300,34.41531700,1 -93.97160100,34.41531700,1 -93.97153600,34.41527400,1 -93.97151500,34.41525200,1 -93.97149300,34.41523100,1 -93.97145000,34.41520900,1 -93.97138600,34.41516600,1 -93.97130000,34.41514500,1 -93.97125700,34.41512300,1 -93.97121400,34.41512300,1 -93.97117100,34.41510200,1 -93.97115000,34.41510200,1 -93.97110700,34.41510200,1 -93.97106400,34.41510200,1 -93.97100000,34.41512300,1 -93.97097800,34.41512300,1 -93.97093500,34.41512300,1 -93.97091400,34.41512300,1 -93.97087100,34.41514500,1 -93.97082800,34.41514500,1 -93.97078500,34.41512300,1 -93.97074200,34.41512300,1 -93.97072100,34.41514500,1 -93.97067800,34.41516600,1 -93.97065600,34.41516600,1 -93.97061300,34.41518800,1 -93.97059200,34.41520900,1 -93.97054900,34.41520900,1 -93.97046300,34.41523100,1 -93.97042000,34.41523100,1 -93.97037700,34.41523100,1 -93.97033500,34.41525200,1 -93.97031300,34.41527400,1 -93.97027000,34.41527400,1 -93.97024900,34.41529500,1 -93.97024900,34.41531700,1 -93.97020600,34.41533800,1 -93.97018400,34.41536000,1 -93.97001300,34.41542400,1 -93.96999100,34.41544500,1 -93.96999100,34.41548800,1 -93.96999100,34.41553100,1 -93.96999100,34.41557400,1 -93.96999100,34.41559600,1 -93.96997000,34.41561700,1 -93.96997000,34.41566000,1 -93.96997000,34.41568100,1 -93.96997000,34.41570300,1 -93.96994800,34.41574600,1 -93.96994800,34.41576700,1 -93.96992700,34.41581000,1 -93.96990500,34.41583200,1 -93.96990500,34.41587400,1 -93.96990500,34.41589600,1 -93.96990500,34.41596000,1 -93.96988400,34.41598200,1 -93.96986200,34.41602500,1 -93.96986200,34.41604600,1 -93.96986200,34.41606800,1 -93.96984100,34.41608900,1 -93.96982000,34.41611100,1 -93.96977700,34.41611100,1 -93.96973400,34.41613200,1 -93.96969100,34.41615300,1 -93.96966900,34.41617500,1 -93.96962600,34.41619600,1 -93.96958400,34.41621800,1 -93.96958400,34.41623900,1 -93.96954100,34.41626100,1 -93.96951900,34.41630400,1 -93.96947600,34.41630400,1 -93.96943300,34.41628200,1 -93.96939000,34.41630400,1 -93.96934700,34.41630400,1 -93.96928300,34.41630400,1 -93.96924000,34.41628200,1 -93.96917600,34.41628200,1 -93.96909000,34.41630400,1 -93.96906900,34.41628200,1 -93.96902600,34.41626100,1 -93.96898300,34.41626100,1 -93.96896100,34.41623900,1 -93.96891800,34.41623900,1 -93.96889700,34.41623900,1 -93.96885400,34.41626100,1 -93.96881100,34.41626100,1 -93.96876800,34.41626100,1 -93.96872500,34.41626100,1 -93.96866100,34.41626100,1 -93.96863900,34.41628200,1 -93.96861800,34.41630400,1 -93.96859600,34.41632500,1 -93.96855400,34.41636800,1 -93.96851100,34.41641100,1 -93.96846800,34.41643200,1 -93.96844600,34.41645400,1 -93.96840300,34.41645400,1 -93.96836000,34.41645400,1 -93.96831800,34.41647500,1 -93.96829600,34.41647500,1 -93.96825300,34.41647500,1 -93.96821000,34.41649700,1 -93.96818900,34.41651800,1 -93.96812400,34.41651800,1 -93.96810300,34.41654000,1 -93.96806000,34.41654000,1 -93.96801700,34.41654000,1 -93.96799600,34.41656100,1 -93.96795300,34.41656100,1 -93.96791000,34.41656100,1 -93.96786700,34.41656100,1 -93.96782400,34.41656100,1 -93.96778100,34.41658300,1 -93.96776000,34.41658300,1 -93.96771700,34.41660400,1 -93.96765200,34.41664700,1 -93.96765200,34.41669000,1 -93.96765200,34.41673300,1 -93.96765200,34.41675400,1 -93.96767400,34.41679700,1 -93.96767400,34.41681900,1 -93.96769500,34.41684000,1 -93.96771700,34.41686200,1 -93.96773800,34.41688300,1 -93.96773800,34.41692600,1 -93.96776000,34.41694700,1 -93.96780300,34.41699000,1 -93.96782400,34.41703300,1 -93.96782400,34.41705500,1 -93.96784500,34.41707600,1 -93.96784500,34.41711900,1 -93.96786700,34.41714000,1 -93.96788800,34.41716200,1 -93.96788800,34.41718300,1 -93.96793100,34.41720500,1 -93.96795300,34.41722600,1 -93.96797400,34.41724800,1 -93.96799600,34.41724800,1 -93.96801700,34.41726900,1 -93.96806000,34.41731200,1 -93.96810300,34.41735500,1 -93.96812400,34.41737700,1 -93.96816700,34.41741900,1 -93.96818900,34.41744100,1 -93.96823200,34.41746200,1 -93.96825300,34.41748400,1 -93.96827500,34.41752700,1 -93.96831800,34.41757000,1 -93.96833900,34.41759100,1 -93.96836000,34.41761300,1 -93.96838200,34.41767700,1 -93.96842500,34.41769800,1 -93.96844600,34.41769800,1 -93.96846800,34.41769800,1 -93.96848900,34.41772000,1 -93.96851100,34.41774100,1 -93.96855400,34.41778400,1 -93.96859600,34.41780600,1 -93.96861800,34.41782700,1 -93.96863900,34.41784900,1 -93.96868200,34.41784900,1 -93.96870400,34.41787000,1 -93.96872500,34.41789200,1 -93.96876800,34.41791300,1 -93.96876800,34.41793400,1 -93.96879000,34.41797700,1 -93.96879000,34.41799900,1 -93.96881100,34.41802000,1 -93.96883300,34.41802000,1 -93.96887500,34.41804200,1 -93.96887500,34.41806300,1 -93.96891800,34.41808500,1 -93.96894000,34.41812800,1 -93.96896100,34.41814900,1 -93.96898300,34.41819200,1 -93.96902600,34.41821300,1 -93.96902600,34.41823500,1 -93.96904700,34.41825600,1 -93.96906900,34.41829900,1 -93.96909000,34.41832100,1 -93.96911100,34.41836400,1 -93.96915400,34.41838500,1 -93.96917600,34.41840600,1 -93.96919700,34.41842800,1 -93.96924000,34.41842800,1 -93.96928300,34.41844900,1 -93.96930500,34.41847100,1 -93.96932600,34.41849200,1 -93.96932600,34.41851400,1 -93.96932600,34.41855700,1 -93.96934700,34.41855700,1 -93.96939000,34.41857800,1 -93.96941200,34.41857800,1 -93.96943300,34.41860000,1 -93.96947600,34.41862100,1 -93.96949800,34.41864300,1 -93.96951900,34.41866400,1 -93.96956200,34.41870700,1 -93.96958400,34.41870700,1 -93.96958400,34.41872800,1 -93.96960500,34.41875000,1 -93.96960500,34.41879300,1 -93.96960500,34.41881400,1 -93.96960500,34.41883600,1 -93.96960500,34.41887900,1 -93.96960500,34.41890000,1 -93.96960500,34.41892100,1 -93.96960500,34.41896400,1 -93.96960500,34.41896400,1 -93.96958400,34.41898600,1 -93.96958400,34.41900700,1 -93.96960500,34.41905000,1 -93.96960500,34.41907200,1 -93.96960500,34.41911500,1 -93.96960500,34.41915800,1 -93.96962600,34.41917900,1 -93.96962600,34.41920000,1 -93.96962600,34.41920000,1 -93.96964800,34.41922200,1 -93.96964800,34.41924300,1 -93.96969100,34.41926500,1 -93.96971200,34.41926500,1 -93.96973400,34.41928600,1 -93.96973400,34.41930800,1 -93.96975500,34.41932900,1 -93.96977700,34.41935100,1 -93.96982000,34.41937200,1 -93.96984100,34.41939400,1 -93.96986200,34.41943600,1 -93.96988400,34.41943600,1 -93.96988400,34.41945800,1 -93.96990500,34.41950100,1 -93.96990500,34.41952200,1 -93.96990500,34.41956500,1 -93.96990500,34.41958700,1 -93.96992700,34.41963000,1 -93.96992700,34.41967200,1 -93.96992700,34.41969400,1 -93.96994800,34.41973700,1 -93.96994800,34.41975800,1 -93.96997000,34.41978000,1 -93.96997000,34.41980100,1 -93.96999100,34.41982300,1 -93.97001300,34.41986600,1 -93.97001300,34.41986600,1 -93.97003400,34.41990900,1 -93.97005600,34.41993000,1 -93.97007700,34.41997300,1 -93.97007700,34.41999400,1 -93.97009900,34.42003700,1 -93.97012000,34.42008000,1 -93.97014100,34.42010200,1 -93.97016300,34.42014500,1 -93.97016300,34.42018700,1 -93.97018400,34.42020900,1 -93.97020600,34.42027300,1 -93.97020600,34.42029500,1 -93.97020600,34.42033800,1 -93.97022700,34.42035900,1 -93.97024900,34.42038100,1 -93.97024900,34.42042400,1 -93.97027000,34.42044500,1 -93.97027000,34.42046600,1 -93.97029200,34.42050900,1 -93.97029200,34.42053100,1 -93.97031300,34.42059500,1 -93.97033500,34.42063800,1 -93.97035600,34.42066000,1 -93.97037700,34.42070200,1 -93.97037700,34.42074500,1 -93.97037700,34.42076700,1 -93.97037700,34.42078800,1 -93.97039900,34.42078800,1 -93.97042000,34.42081000,1 -93.97042000,34.42085300,1 -93.97046300,34.42089600,1 -93.97050600,34.42091700,1 -93.97052800,34.42093800,1 -93.97054900,34.42098100,1 -93.97059200,34.42100300,1 -93.97061300,34.42100300,1 -93.97065600,34.42102400,1 -93.97067800,34.42104600,1 -93.97072100,34.42106700,1 -93.97076400,34.42106700,1 -93.97078500,34.42108900,1 -93.97080700,34.42111000,1 -93.97085000,34.42113200,1 -93.97087100,34.42115300,1 -93.97100000,34.42119600,1 -93.97102100,34.42123900,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Athns-Bg frk-2</name>
+<styleUrl>#Marine</styleUrl>
+<LineString>
+<coordinates>-93.97531300,34.35482700,1 -93.97533400,34.35484900,1 -93.97529100,34.35502100,1 -93.97524800,34.35504200,1 -93.97518400,34.35504200,1 -93.97514100,34.35506300,1 -93.97507700,34.35506300,1 -93.97503400,34.35506300,1 -93.97496900,34.35506300,1 -93.97494800,34.35506300,1 -93.97488400,34.35506300,1 -93.97484100,34.35508500,1 -93.97479800,34.35512800,1 -93.97475500,34.35514900,1 -93.97471200,34.35519200,1 -93.97469000,34.35521400,1 -93.97464800,34.35523500,1 -93.97460500,34.35529900,1 -93.97458300,34.35534200,1 -93.97456200,34.35540700,1 -93.97451900,34.35545000,1 -93.97447600,34.35549300,1 -93.97445400,34.35553600,1 -93.97443300,34.35555700,1 -93.97441100,34.35560000,1 -93.97439000,34.35564300,1 -93.97434700,34.35566400,1 -93.97430400,34.35568600,1 -93.97426100,34.35570700,1 -93.97415400,34.35572900,1 -93.97409000,34.35572900,1 -93.97406800,34.35572900,1 -93.97400400,34.35575000,1 -93.97398200,34.35577200,1 -93.97393900,34.35579300,1 -93.97389700,34.35583600,1 -93.97385400,34.35585700,1 -93.97381100,34.35587900,1 -93.97376800,34.35590000,1 -93.97372500,34.35594300,1 -93.97368200,34.35596500,1 -93.97363900,34.35596500,1 -93.97361800,34.35600800,1 -93.97357500,34.35605000,1 -93.97353200,34.35605000,1 -93.97348900,34.35605000,1 -93.97344600,34.35607200,1 -93.97342400,34.35609300,1 -93.97340300,34.35611500,1 -93.97336000,34.35613600,1 -93.97331700,34.35615800,1 -93.97329600,34.35617900,1 -93.97327400,34.35620100,1 -93.97325300,34.35624400,1 -93.97321000,34.35628700,1 -93.97318800,34.35630800,1 -93.97314500,34.35632900,1 -93.97310300,34.35632900,1 -93.97306000,34.35635100,1 -93.97301700,34.35637200,1 -93.97297400,34.35637200,1 -93.97293100,34.35637200,1 -93.97288800,34.35637200,1 -93.97284500,34.35637200,1 -93.97278100,34.35637200,1 -93.97273800,34.35637200,1 -93.97263100,34.35650100,1 -93.97256600,34.35652300,1 -93.97254500,34.35658700,1 -93.97252300,34.35660800,1 -93.97254500,34.35667300,1 -93.97256600,34.35673700,1 -93.97258800,34.35678000,1 -93.97260900,34.35682300,1 -93.97260900,34.35686600,1 -93.97263100,34.35690900,1 -93.97265200,34.35697300,1 -93.97265200,34.35701600,1 -93.97265200,34.35705900,1 -93.97250200,34.35712300,1 -93.97245900,34.35712300,1 -93.97241600,34.35712300,1 -93.97237300,34.35714500,1 -93.97233000,34.35714500,1 -93.97228700,34.35714500,1 -93.97224400,34.35714500,1 -93.97220100,34.35718800,1 -93.97215800,34.35720900,1 -93.97211600,34.35720900,1 -93.97207300,34.35723100,1 -93.97203000,34.35725200,1 -93.97200800,34.35727400,1 -93.97196500,34.35729500,1 -93.97192200,34.35729500,1 -93.97187900,34.35733800,1 -93.97183700,34.35733800,1 -93.97179400,34.35735900,1 -93.97175100,34.35738100,1 -93.97168600,34.35738100,1 -93.97164300,34.35738100,1 -93.97155800,34.35740200,1 -93.97153600,34.35740200,1 -93.97149300,34.35742400,1 -93.97145000,34.35742400,1 -93.97140700,34.35744500,1 -93.97136500,34.35744500,1 -93.97132200,34.35746700,1 -93.97127900,34.35748800,1 -93.97125700,34.35751000,1 -93.97121400,34.35753100,1 -93.97119300,34.35753100,1 -93.97115000,34.35757400,1 -93.97112800,34.35759500,1 -93.97110700,34.35759500,1 -93.97108600,34.35761700,1 -93.97104300,34.35766000,1 -93.97102100,34.35772400,1 -93.97097800,34.35772400,1 -93.97095700,34.35776700,1 -93.97093500,34.35778900,1 -93.97089200,34.35783100,1 -93.97087100,34.35787400,1 -93.97085000,34.35789600,1 -93.97087100,34.35796000,1 -93.97102100,34.35800300,1 -93.97106400,34.35800300,1 -93.97110700,34.35802500,1 -93.97119300,34.35808900,1 -93.97121400,34.35813200,1 -93.97121400,34.35817500,1 -93.97123600,34.35821800,1 -93.97123600,34.35823900,1 -93.97123600,34.35828200,1 -93.97125700,34.35830400,1 -93.97125700,34.35832500,1 -93.97130000,34.35836800,1 -93.97132200,34.35838900,1 -93.97134300,34.35841100,1 -93.97138600,34.35843200,1 -93.97138600,34.35847500,1 -93.97138600,34.35849700,1 -93.97142900,34.35854000,1 -93.97142900,34.35856100,1 -93.97142900,34.35858200,1 -93.97145000,34.35862500,1 -93.97147200,34.35864700,1 -93.97151500,34.35866800,1 -93.97155800,34.35871100,1 -93.97157900,34.35873300,1 -93.97162200,34.35875400,1 -93.97164300,34.35879700,1 -93.97166500,34.35881900,1 -93.97166500,34.35886100,1 -93.97166500,34.35888300,1 -93.97166500,34.35890400,1 -93.97166500,34.35894700,1 -93.97168600,34.35896900,1 -93.97170800,34.35901200,1 -93.97172900,34.35903300,1 -93.97175100,34.35905500,1 -93.97177200,34.35909700,1 -93.97177200,34.35911900,1 -93.97179400,34.35914000,1 -93.97181500,34.35916200,1 -93.97181500,34.35920500,1 -93.97185800,34.35922600,1 -93.97187900,34.35926900,1 -93.97190100,34.35929100,1 -93.97192200,34.35933400,1 -93.97194400,34.35937600,1 -93.97196500,34.35941900,1 -93.97198700,34.35944100,1 -93.97200800,34.35946200,1 -93.97200800,34.35948400,1 -93.97203000,34.35952700,1 -93.97203000,34.35959100,1 -93.97209400,34.35961200,1 -93.97211600,34.35965500,1 -93.97215800,34.35965500,1 -93.97220100,34.35969800,1 -93.97222300,34.35972000,1 -93.97224400,34.35974100,1 -93.97226600,34.35978400,1 -93.97230900,34.35980600,1 -93.97233000,34.35982700,1 -93.97237300,34.35984900,1 -93.97241600,34.35987000,1 -93.97245900,34.35987000,1 -93.97250200,34.35989100,1 -93.97254500,34.35989100,1 -93.97258800,34.35991300,1 -93.97263100,34.35993400,1 -93.97267300,34.35993400,1 -93.97271600,34.35993400,1 -93.97275900,34.35993400,1 -93.97280200,34.35993400,1 -93.97284500,34.35995600,1 -93.97288800,34.35995600,1 -93.97290900,34.35995600,1 -93.97295200,34.35999900,1 -93.97297400,34.36002000,1 -93.97301700,34.36006300,1 -93.97303800,34.36006300,1 -93.97306000,34.36008500,1 -93.97308100,34.36010600,1 -93.97310300,34.36012700,1 -93.97312400,34.36014900,1 -93.97314500,34.36017000,1 -93.97316700,34.36021300,1 -93.97321000,34.36025600,1 -93.97323100,34.36027800,1 -93.97329600,34.36027800,1 -93.97333900,34.36027800,1 -93.97338200,34.36027800,1 -93.97342400,34.36027800,1 -93.97348900,34.36027800,1 -93.97353200,34.36029900,1 -93.97355300,34.36029900,1 -93.97361800,34.36029900,1 -93.97366000,34.36029900,1 -93.97372500,34.36032100,1 -93.97374600,34.36032100,1 -93.97378900,34.36034200,1 -93.97383200,34.36034200,1 -93.97387500,34.36036300,1 -93.97387500,34.36038500,1 -93.97389700,34.36040600,1 -93.97391800,34.36042800,1 -93.97396100,34.36047100,1 -93.97398200,34.36049200,1 -93.97402500,34.36051400,1 -93.97404700,34.36053500,1 -93.97406800,34.36051400,1 -93.97415400,34.36051400,1 -93.97417500,34.36055700,1 -93.97419700,34.36060000,1 -93.97421800,34.36062100,1 -93.97426100,34.36064200,1 -93.97428300,34.36066400,1 -93.97432600,34.36068500,1 -93.97434700,34.36072800,1 -93.97436900,34.36075000,1 -93.97439000,34.36077100,1 -93.97443300,34.36079300,1 -93.97445400,34.36079300,1 -93.97449700,34.36081400,1 -93.97451900,34.36085700,1 -93.97454000,34.36087800,1 -93.97456200,34.36092100,1 -93.97458300,34.36094300,1 -93.97462600,34.36096400,1 -93.97464800,34.36100700,1 -93.97466900,34.36102900,1 -93.97471200,34.36105000,1 -93.97473300,34.36107200,1 -93.97477600,34.36109300,1 -93.97481900,34.36109300,1 -93.97484100,34.36109300,1 -93.97488400,34.36111500,1 -93.97490500,34.36111500,1 -93.97492600,34.36113600,1 -93.97496900,34.36113600,1 -93.97501200,34.36115700,1 -93.97505500,34.36115700,1 -93.97509800,34.36117900,1 -93.97514100,34.36117900,1 -93.97518400,34.36120000,1 -93.97522700,34.36120000,1 -93.97527000,34.36120000,1 -93.97533400,34.36122200,1 -93.97537700,34.36124300,1 -93.97542000,34.36124300,1 -93.97546300,34.36126500,1 -93.97550600,34.36126500,1 -93.97554900,34.36128600,1 -93.97557000,34.36128600,1 -93.97561300,34.36130800,1 -93.97565600,34.36130800,1 -93.97569900,34.36132900,1 -93.97574200,34.36132900,1 -93.97576300,34.36135100,1 -93.97580600,34.36137200,1 -93.97584900,34.36139300,1 -93.97589200,34.36141500,1 -93.97593500,34.36141500,1 -93.97597800,34.36143600,1 -93.97602100,34.36145800,1 -93.97606400,34.36147900,1 -93.97608500,34.36150100,1 -93.97610700,34.36152200,1 -93.97612800,34.36154400,1 -93.97617100,34.36156500,1 -93.97619200,34.36158700,1 -93.97621400,34.36160800,1 -93.97623500,34.36162900,1 -93.97625700,34.36167200,1 -93.97625700,34.36169400,1 -93.97627800,34.36171500,1 -93.97630000,34.36175800,1 -93.97630000,34.36180100,1 -93.97630000,34.36182300,1 -93.97630000,34.36186600,1 -93.97632100,34.36188700,1 -93.97630000,34.36193000,1 -93.97630000,34.36197300,1 -93.97630000,34.36201600,1 -93.97630000,34.36203700,1 -93.97630000,34.36208000,1 -93.97630000,34.36210200,1 -93.97630000,34.36214400,1 -93.97627800,34.36218700,1 -93.97627800,34.36220900,1 -93.97625700,34.36225200,1 -93.97623500,34.36227300,1 -93.97621400,34.36229500,1 -93.97619200,34.36231600,1 -93.97617100,34.36233800,1 -93.97615000,34.36238100,1 -93.97612800,34.36238100,1 -93.97608500,34.36238100,1 -93.97606400,34.36238100,1 -93.97604200,34.36242300,1 -93.97599900,34.36244500,1 -93.97597800,34.36246600,1 -93.97593500,34.36248800,1 -93.97597800,34.36248800,1 -93.97602100,34.36248800,1 -93.97606400,34.36250900,1 -93.97612800,34.36250900,1 -93.97617100,34.36253100,1 -93.97623500,34.36253100,1 -93.97627800,34.36255200,1 -93.97632100,34.36255200,1 -93.97636400,34.36259500,1 -93.97638600,34.36261700,1 -93.97638600,34.36265900,1 -93.97638600,34.36272400,1 -93.97636400,34.36276700,1 -93.97634300,34.36278800,1 -93.97632100,34.36283100,1 -93.97630000,34.36285300,1 -93.97627800,34.36287400,1 -93.97627800,34.36289500,1 -93.97625700,34.36293800,1 -93.97623500,34.36293800,1 -93.97617100,34.36296000,1 -93.97612800,34.36298100,1 -93.97610700,34.36300300,1 -93.97606400,34.36302400,1 -93.97602100,34.36302400,1 -93.97597800,34.36302400,1 -93.97593500,34.36302400,1 -93.97591400,34.36302400,1 -93.97587100,34.36302400,1 -93.97582800,34.36302400,1 -93.97576300,34.36300300,1 -93.97572000,34.36300300,1 -93.97569900,34.36300300,1 -93.97563500,34.36300300,1 -93.97561300,34.36300300,1 -93.97557000,34.36302400,1 -93.97552700,34.36302400,1 -93.97550600,34.36304600,1 -93.97544100,34.36306700,1 -93.97539900,34.36304600,1 -93.97537700,34.36306700,1 -93.97533400,34.36306700,1 -93.97529100,34.36308900,1 -93.97527000,34.36308900,1 -93.97522700,34.36313200,1 -93.97520500,34.36315300,1 -93.97520500,34.36317400,1 -93.97522700,34.36321700,1 -93.97524800,34.36326000,1 -93.97529100,34.36328200,1 -93.97533400,34.36332500,1 -93.97533400,34.36336800,1 -93.97533400,34.36341000,1 -93.97533400,34.36345300,1 -93.97535600,34.36349600,1 -93.97533400,34.36351800,1 -93.97533400,34.36356100,1 -93.97529100,34.36362500,1 -93.97529100,34.36356100,1 -93.97518400,34.36345300,1 -93.97514100,34.36343200,1 -93.97512000,34.36341000,1 -93.97507700,34.36338900,1 -93.97505500,34.36338900,1 -93.97501200,34.36341000,1 -93.97496900,34.36341000,1 -93.97492600,34.36338900,1 -93.97488400,34.36338900,1 -93.97484100,34.36341000,1 -93.97479800,34.36341000,1 -93.97473300,34.36343200,1 -93.97471200,34.36343200,1 -93.97466900,34.36343200,1 -93.97462600,34.36345300,1 -93.97458300,34.36345300,1 -93.97454000,34.36347500,1 -93.97449700,34.36347500,1 -93.97445400,34.36345300,1 -93.97439000,34.36345300,1 -93.97434700,34.36345300,1 -93.97430400,34.36345300,1 -93.97426100,34.36343200,1 -93.97421800,34.36343200,1 -93.97417500,34.36341000,1 -93.97413300,34.36341000,1 -93.97409000,34.36341000,1 -93.97406800,34.36341000,1 -93.97402500,34.36341000,1 -93.97398200,34.36343200,1 -93.97393900,34.36345300,1 -93.97391800,34.36347500,1 -93.97387500,34.36349600,1 -93.97385400,34.36351800,1 -93.97383200,34.36353900,1 -93.97381100,34.36356100,1 -93.97376800,34.36360400,1 -93.97372500,34.36362500,1 -93.97370300,34.36364700,1 -93.97366000,34.36366800,1 -93.97363900,34.36366800,1 -93.97359600,34.36368900,1 -93.97355300,34.36371100,1 -93.97353200,34.36373200,1 -93.97351000,34.36375400,1 -93.97346700,34.36377500,1 -93.97344600,34.36379700,1 -93.97340300,34.36381800,1 -93.97336000,34.36381800,1 -93.97331700,34.36384000,1 -93.97327400,34.36384000,1 -93.97323100,34.36386100,1 -93.97318800,34.36386100,1 -93.97316700,34.36388300,1 -93.97312400,34.36390400,1 -93.97308100,34.36390400,1 -93.97303800,34.36392500,1 -93.97299500,34.36394700,1 -93.97295200,34.36396800,1 -93.97290900,34.36399000,1 -93.97286700,34.36401100,1 -93.97282400,34.36403300,1 -93.97278100,34.36403300,1 -93.97275900,34.36405400,1 -93.97271600,34.36407600,1 -93.97267300,34.36409700,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Trail</name>
+<Style id="Trail">
+<LineStyle>
+<color>ff0000ff</color>
+<width>3.8</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>LiL-missori-5</name>
+<styleUrl>#Trail</styleUrl>
+<LineString>
+<coordinates>-93.90318410,34.36062020,1 -93.90322710,34.36057720,1 -93.90324810,34.36055520,1 -93.90329110,34.36053420,1 -93.90331310,34.36051220,1 -93.90335610,34.36046920,1 -93.90339910,34.36044820,1 -93.90342010,34.36042620,1 -93.90346310,34.36040520,1 -93.90348410,34.36036220,1 -93.90350610,34.36034120,1 -93.90352710,34.36029820,1 -93.90354910,34.36027620,1 -93.90357010,34.36023320,1 -93.90359210,34.36021220,1 -93.90361310,34.36019020,1 -93.90365610,34.36014720,1 -93.90367810,34.36012620,1 -93.90369910,34.36010520,1 -93.90372010,34.36008320,1 -93.90376310,34.36004020,1 -93.90380610,34.36001920,1 -93.90382820,34.35997620,1 -93.90384910,34.35993320,1 -93.90387120,34.35991120,1 -93.90387120,34.35989020,1 -93.90391410,34.35984720,1 -93.90393510,34.35982620,1 -93.90397810,34.35980420,1 -93.90402110,34.35978320,1 -93.90404210,34.35974020,1 -93.90408510,34.35971820,1 -93.90410710,34.35967520,1 -93.90415010,34.35965420,1 -93.90417110,34.35961120,1 -93.90419310,34.35956820,1 -93.90421410,34.35954720,1 -93.90425710,34.35950420,1 -93.90427810,34.35948220,1 -93.90430010,34.35946120,1 -93.90432110,34.35941820,1 -93.90434310,34.35939620,1 -93.90436410,34.35937520,1 -93.90438610,34.35935420,1 -93.90440710,34.35931120,1 -93.90442910,34.35928920,1 -93.90445010,34.35926820,1 -93.90447110,34.35924620,1 -93.90451410,34.35922520,1 -93.90453610,34.35920320,1 -93.90455710,34.35918220,1 -93.90457910,34.35916020,1 -93.90460010,34.35913920,1 -93.90462210,34.35911720,1 -93.90464310,34.35909620,1 -93.90464310,34.35907520,1 -93.90466510,34.35903220,1 -93.90468610,34.35901020,1 -93.90470810,34.35898920,1 -93.90470810,34.35894620,1 -93.90470810,34.35892420,1 -93.90472910,34.35890320,1 -93.90472910,34.35888120,1 -93.90475010,34.35883920,1 -93.90475010,34.35881720,1 -93.90477210,34.35879620,1 -93.90477210,34.35875320,1 -93.90479310,34.35873120,1 -93.90479310,34.35868820,1 -93.90481510,34.35866720,1 -93.90481510,34.35864520,1 -93.90483610,34.35860220,1 -93.90485810,34.35858120,1 -93.90487910,34.35856020,1 -93.90490110,34.35851720,1 -93.90492210,34.35849520,1 -93.90494410,34.35845220,1 -93.90494410,34.35843120,1 -93.90490110,34.35838820,1 -93.90490110,34.35834520,1 -93.90492210,34.35834520,1 -93.90494410,34.35834520,1 -93.90498610,34.35832420,1 -93.90502910,34.35834520,1 -93.90507210,34.35832420,1 -93.90509410,34.35830220,1 -93.90511510,34.35832420,1 -93.90515810,34.35832420,1 -93.90518010,34.35834520,1 -93.90520110,34.35838820,1 -93.90522320,34.35840920,1 -93.90524410,34.35843120,1 -93.90524410,34.35847420,1 -93.90526510,34.35849520,1 -93.90528710,34.35853820,1 -93.90530810,34.35856020,1 -93.90533010,34.35858120,1 -93.90535110,34.35860220,1 -93.90539410,34.35862420,1 -93.90543710,34.35864520,1 -93.90548010,34.35864520,1 -93.90550110,34.35866720,1 -93.90554410,34.35866720,1 -93.90556610,34.35868820,1 -93.90560910,34.35871020,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>LiL-missori-7</name>
+<styleUrl>#Trail</styleUrl>
+<LineString>
+<coordinates>-93.90937300,34.35047100,1 -93.90937300,34.35042900,1 -93.90937300,34.35038600,1 -93.90937300,34.35034300,1 -93.90937300,34.35030000,1 -93.90937300,34.35027800,1 -93.90937300,34.35025700,1 -93.90935200,34.35023500,1 -93.90933000,34.35019300,1 -93.90915900,34.35002100,1 -93.90920200,34.34997800,1 -93.90920200,34.34993500,1 -93.90920200,34.34991400,1 -93.90920200,34.34989200,1 -93.90924500,34.34984900,1 -93.90926600,34.34982800,1 -93.90928700,34.34978500,1 -93.90930900,34.34974200,1 -93.90973800,34.34948400,1 -93.90978100,34.34948400,1 -93.90982400,34.34948400,1 -93.90986700,34.34948400,1 -93.90991000,34.34946300,1 -93.90995300,34.34944200,1 -93.90997400,34.34944200,1 -93.91001700,34.34942000,1 -93.91006000,34.34942000,1 -93.91008100,34.34939900,1 -93.91012400,34.34937700,1 -93.91016700,34.34937700,1 -93.91021000,34.34935600,1 -93.91025300,34.34933400,1 -93.91027500,34.34933400,1 -93.91031700,34.34931300,1 -93.91036000,34.34929100,1 -93.91038200,34.34927000,1 -93.91042500,34.34927000,1 -93.91046800,34.34924800,1 -93.91051100,34.34922700,1 -93.91055300,34.34922700,1 -93.91059600,34.34922700,1 -93.91063900,34.34920500,1 -93.91068200,34.34918400,1 -93.91070400,34.34916300,1 -93.91074700,34.34914100,1 -93.91078900,34.34914100,1 -93.91083200,34.34909800,1 -93.91087500,34.34907700,1 -93.91091800,34.34905500,1 -93.91096100,34.34903400,1 -93.91100400,34.34903400,1 -93.91102600,34.34901200,1 -93.91106800,34.34899100,1 -93.91109000,34.34896900,1 -93.91115400,34.34894800,1 -93.91117600,34.34894800,1 -93.91121900,34.34894800,1 -93.91126200,34.34892700,1 -93.91130400,34.34890500,1 -93.91134700,34.34890500,1 -93.91136900,34.34888400,1 -93.91139000,34.34886200,1 -93.91143300,34.34886200,1 -93.91147600,34.34884100,1 -93.91149800,34.34881900,1 -93.91151900,34.34877600,1 -93.91154100,34.34875500,1 -93.91156200,34.34873300,1 -93.91160500,34.34873300,1 -93.91162600,34.34871200,1 -93.91166900,34.34871200,1 -93.91169100,34.34871200,1 -93.91173400,34.34871200,1 -93.91177700,34.34871200,1 -93.91181900,34.34871200,1 -93.91186200,34.34869100,1 -93.91190500,34.34869100,1 -93.91194800,34.34871200,1 -93.91201300,34.34871200,1 -93.91205600,34.34873300,1 -93.91209800,34.34875500,1 -93.91214100,34.34875500,1 -93.91218400,34.34877600,1 -93.91222700,34.34877600,1 -93.91224900,34.34877600,1 -93.91229200,34.34875500,1 -93.91233400,34.34875500,1 -93.91239900,34.34875500,1 -93.91244200,34.34873300,1 -93.91246300,34.34873300,1 -93.91250600,34.34873300,1 -93.91254900,34.34871200,1 -93.91259200,34.34871200,1 -93.91263500,34.34871200,1 -93.91267800,34.34869100,1 -93.91272100,34.34869100,1 -93.91274200,34.34869100,1 -93.91278500,34.34869100,1 -93.91282800,34.34866900,1 -93.91287100,34.34866900,1 -93.91289200,34.34864800,1 -93.91293500,34.34864800,1 -93.91297800,34.34862600,1 -93.91302100,34.34862600,1 -93.91304300,34.34862600,1 -93.91308500,34.34860500,1 -93.91312800,34.34860500,1 -93.91315000,34.34858300,1 -93.91319300,34.34856200,1 -93.91321400,34.34856200,1 -93.91325700,34.34851900,1 -93.91327900,34.34849700,1 -93.91330000,34.34847600,1 -93.91336400,34.34847600,1 -93.91340700,34.34849700,1 -93.91345000,34.34854000,1 -93.91349300,34.34856200,1 -93.91353600,34.34856200,1 -93.91360000,34.34858300,1 -93.91364300,34.34858300,1 -93.91368600,34.34860500,1 -93.91372900,34.34860500,1 -93.91377200,34.34860500,1 -93.91379400,34.34860500,1 -93.91383600,34.34862600,1 -93.91390100,34.34862600,1 -93.91394400,34.34862600,1 -93.91398700,34.34864800,1 -93.91405100,34.34866900,1 -93.91409400,34.34866900,1 -93.91413700,34.34866900,1 -93.91418000,34.34869100,1 -93.91422300,34.34871200,1 -93.91426600,34.34873300,1 -93.91430900,34.34875500,1 -93.91437300,34.34877600,1 -93.91441600,34.34877600,1 -93.91448000,34.34879800,1 -93.91452300,34.34881900,1 -93.91456600,34.34881900,1 -93.91460900,34.34879800,1 -93.91467300,34.34881900,1 -93.91471600,34.34881900,1 -93.91475900,34.34881900,1 -93.91482400,34.34886200,1 -93.91486600,34.34884100,1 -93.91490900,34.34884100,1 -93.91495200,34.34881900,1 -93.91497400,34.34879800,1 -93.91501700,34.34879800,1 -93.91506000,34.34877600,1 -93.91512400,34.34877600,1 -93.91516700,34.34877600,1 -93.91521000,34.34875500,1 -93.91525300,34.34875500,1 -93.91529600,34.34873300,1 -93.91536000,34.34873300,1 -93.91540300,34.34873300,1 -93.91546700,34.34871200,1 -93.91551000,34.34871200,1 -93.91555300,34.34869100,1 -93.91559600,34.34866900,1 -93.91563900,34.34866900,1 -93.91568200,34.34866900,1 -93.91572500,34.34864800,1 -93.91576800,34.34864800,1 -93.91583200,34.34862600,1 -93.91585400,34.34860500,1 -93.91589600,34.34860500,1 -93.91593900,34.34858300,1 -93.91598200,34.34858300,1 -93.91602500,34.34856200,1 -93.91606800,34.34856200,1 -93.91611100,34.34856200,1 -93.91615400,34.34856200,1 -93.91619700,34.34858300,1 -93.91624000,34.34858300,1 -93.91628300,34.34858300,1 -93.91632600,34.34858300,1 -93.91636800,34.34858300,1 -93.91639000,34.34856200,1 -93.91643300,34.34856200,1 -93.91647600,34.34856200,1 -93.91651900,34.34856200,1 -93.91656200,34.34856200,1 -93.91660500,34.34856200,1 -93.91664700,34.34854000,1 -93.91669000,34.34856200,1 -93.91673300,34.34856200,1 -93.91679800,34.34856200,1 -93.91684100,34.34856200,1 -93.91690500,34.34856200,1 -93.91694800,34.34856200,1 -93.91701200,34.34854000,1 -93.91705500,34.34854000,1 -93.91709800,34.34854000,1 -93.91716200,34.34854000,1 -93.91720500,34.34851900,1 -93.91724800,34.34851900,1 -93.91727000,34.34851900,1 -93.91733400,34.34851900,1 -93.91737700,34.34849700,1 -93.91744100,34.34849700,1 -93.91748400,34.34845400,1 -93.91752700,34.34845400,1 -93.91757000,34.34845400,1 -93.91761300,34.34843300,1 -93.91765600,34.34843300,1 -93.91769900,34.34843300,1 -93.91774200,34.34843300,1 -93.91778500,34.34843300,1 -93.91782800,34.34839000,1 -93.91787100,34.34839000,1 -93.91791300,34.34839000,1 -93.91795600,34.34839000,1 -93.91799900,34.34841200,1 -93.91804200,34.34839000,1 -93.91808500,34.34839000,1 -93.91810700,34.34836900,1 -93.91814900,34.34836900,1 -93.91819200,34.34836900,1 -93.91823500,34.34836900,1 -93.91827800,34.34836900,1 -93.91832100,34.34836900,1 -93.91836400,34.34839000,1 -93.91842800,34.34839000,1 -93.91847100,34.34836900,1 -93.91853600,34.34836900,1 -93.91857900,34.34839000,1 -93.91862200,34.34836900,1 -93.91866400,34.34836900,1 -93.91870700,34.34836900,1 -93.91875000,34.34836900,1 -93.91879300,34.34834700,1 -93.91883600,34.34834700,1 -93.91887900,34.34834700,1 -93.91890000,34.34832600,1 -93.91894300,34.34832600,1 -93.91898600,34.34832600,1 -93.91905100,34.34832600,1 -93.91907200,34.34832600,1 -93.91911500,34.34832600,1 -93.91915800,34.34830400,1 -93.91920100,34.34830400,1 -93.91926500,34.34830400,1 -93.91928700,34.34828300,1 -93.91933000,34.34828300,1 -93.91939400,34.34828300,1 -93.91943700,34.34828300,1 -93.91948000,34.34828300,1 -93.91952300,34.34828300,1 -93.91954400,34.34826100,1 -93.91958700,34.34826100,1 -93.91963000,34.34824000,1 -93.91967300,34.34824000,1 -93.91971600,34.34824000,1 -93.91978000,34.34824000,1 -93.91982300,34.34824000,1 -93.91986600,34.34821800,1 -93.91988800,34.34819700,1 -93.91993000,34.34817600,1 -93.91999500,34.34817600,1 -93.92003800,34.34817600,1 -93.92005900,34.34815400,1 -93.92010200,34.34815400,1 -93.92016700,34.34815400,1 -93.92020900,34.34813300,1 -93.92025200,34.34813300,1 -93.92029500,34.34811100,1 -93.92033800,34.34809000,1 -93.92038100,34.34806800,1 -93.92042400,34.34804700,1 -93.92046700,34.34804700,1 -93.92048800,34.34802500,1 -93.92053100,34.34800400,1 -93.92057400,34.34798200,1 -93.92057400,34.34798200,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Athns-Bg frk-3</name>
+<styleUrl>#Trail</styleUrl>
+<LineString>
+<coordinates>-93.97265200,34.36409700,1 -93.97260900,34.36411900,1 -93.97256600,34.36414000,1 -93.97252300,34.36414000,1 -93.97250200,34.36416100,1 -93.97245900,34.36418300,1 -93.97243700,34.36420400,1 -93.97239400,34.36422600,1 -93.97237300,34.36426900,1 -93.97233000,34.36429000,1 -93.97228700,34.36431200,1 -93.97224400,34.36435500,1 -93.97222300,34.36435500,1 -93.97218000,34.36437600,1 -93.97215800,34.36439800,1 -93.97211600,34.36441900,1 -93.97209400,34.36444000,1 -93.97205100,34.36446200,1 -93.97200800,34.36448300,1 -93.97198700,34.36450500,1 -93.97196500,34.36454800,1 -93.97192200,34.36456900,1 -93.97190100,34.36459100,1 -93.97185800,34.36461200,1 -93.97183700,34.36463400,1 -93.97181500,34.36465500,1 -93.97177200,34.36469800,1 -93.97175100,34.36471900,1 -93.97172900,34.36474100,1 -93.97166500,34.36480500,1 -93.97149300,34.36495500,1 -93.97095700,34.36609300,1 -93.97091400,34.36611400,1 -93.97087100,34.36613600,1 -93.97082800,34.36615700,1 -93.97078500,34.36617900,1 -93.97074200,34.36617900,1 -93.97069900,34.36620000,1 -93.97065600,34.36620000,1 -93.97061300,34.36622100,1 -93.97057100,34.36622100,1 -93.97052800,34.36624300,1 -93.97048500,34.36626400,1 -93.97044200,34.36628600,1 -93.97039900,34.36630700,1 -93.97037700,34.36630700,1 -93.97031300,34.36632900,1 -93.97027000,34.36632900,1 -93.97022700,34.36632900,1 -93.97016300,34.36632900,1 -93.97012000,34.36632900,1 -93.97009900,34.36632900,1 -93.97003400,34.36632900,1 -93.96999100,34.36632900,1 -93.96992700,34.36632900,1 -93.96988400,34.36635000,1 -93.96984100,34.36635000,1 -93.96977700,34.36635000,1 -93.96973400,34.36635000,1 -93.96966900,34.36635000,1 -93.96960500,34.36637200,1 -93.96954100,34.36639300,1 -93.96947600,34.36639300,1 -93.96941200,34.36641500,1 -93.96934700,34.36641500,1 -93.96926200,34.36641500,1 -93.96919700,34.36641500,1 -93.96915400,34.36643600,1 -93.96906900,34.36643600,1 -93.96900400,34.36643600,1 -93.96894000,34.36645700,1 -93.96889700,34.36645700,1 -93.96885400,34.36645700,1 -93.96879000,34.36647900,1 -93.96872500,34.36650000,1 -93.96866100,34.36652200,1 -93.96861800,34.36654300,1 -93.96857500,34.36656500,1 -93.96853200,34.36658600,1 -93.96846800,34.36658600,1 -93.96842500,34.36658600,1 -93.96838200,34.36658600,1 -93.96833900,34.36656500,1 -93.96827500,34.36656500,1 -93.96823200,34.36656500,1 -93.96816700,34.36656500,1 -93.96812400,34.36656500,1 -93.96808100,34.36656500,1 -93.96803900,34.36656500,1 -93.96797400,34.36658600,1 -93.96791000,34.36658600,1 -93.96786700,34.36662900,1 -93.96780300,34.36662900,1 -93.96778100,34.36662900,1 -93.96773800,34.36665100,1 -93.96769500,34.36667200,1 -93.96765200,34.36667200,1 -93.96760900,34.36667200,1 -93.96756600,34.36667200,1 -93.96750200,34.36667200,1 -93.96743800,34.36669300,1 -93.96737300,34.36669300,1 -93.96733000,34.36669300,1 -93.96728800,34.36669300,1 -93.96722300,34.36667200,1 -93.96718000,34.36667200,1 -93.96713700,34.36667200,1 -93.96707300,34.36667200,1 -93.96703000,34.36667200,1 -93.96698700,34.36667200,1 -93.96694400,34.36669300,1 -93.96690100,34.36669300,1 -93.96685800,34.36669300,1 -93.96681500,34.36669300,1 -93.96677300,34.36671500,1 -93.96670800,34.36671500,1 -93.96668700,34.36671500,1 -93.96664400,34.36669300,1 -93.96660100,34.36669300,1 -93.96655800,34.36669300,1 -93.96653700,34.36669300,1 -93.96647200,34.36667200,1 -93.96642900,34.36667200,1 -93.96638600,34.36667200,1 -93.96634300,34.36667200,1 -93.96630000,34.36665100,1 -93.96625800,34.36665100,1 -93.96621500,34.36665100,1 -93.96617200,34.36662900,1 -93.96612900,34.36662900,1 -93.96610700,34.36660800,1 -93.96606400,34.36660800,1 -93.96602200,34.36658600,1 -93.96597900,34.36658600,1 -93.96593600,34.36658600,1 -93.96589300,34.36656500,1 -93.96585000,34.36656500,1 -93.96580700,34.36654300,1 -93.96578600,34.36654300,1 -93.96576400,34.36654300,1 -93.96572100,34.36654300,1 -93.96567800,34.36654300,1 -93.96563500,34.36654300,1 -93.96559200,34.36654300,1 -93.96554900,34.36654300,1 -93.96550700,34.36654300,1 -93.96544200,34.36654300,1 -93.96539900,34.36654300,1 -93.96535600,34.36652200,1 -93.96531300,34.36652200,1 -93.96529200,34.36650000,1 -93.96522800,34.36650000,1 -93.96520600,34.36647900,1 -93.96514200,34.36647900,1 -93.96509900,34.36645700,1 -93.96505600,34.36645700,1 -93.96501300,34.36645700,1 -93.96499200,34.36643600,1 -93.96494900,34.36643600,1 -93.96488400,34.36643600,1 -93.96482000,34.36643600,1 -93.96477700,34.36643600,1 -93.96473400,34.36645700,1 -93.96469100,34.36645700,1 -93.96462700,34.36645700,1 -93.96456200,34.36645700,1 -93.96452000,34.36645700,1 -93.96447700,34.36647900,1 -93.96441200,34.36647900,1 -93.96436900,34.36647900,1 -93.96430500,34.36650000,1 -93.96426200,34.36650000,1 -93.96421900,34.36650000,1 -93.96415500,34.36652200,1 -93.96411200,34.36652200,1 -93.96404700,34.36652200,1 -93.96400500,34.36654300,1 -93.96396200,34.36656500,1 -93.96391900,34.36656500,1 -93.96389700,34.36660800,1 -93.96385400,34.36660800,1 -93.96381100,34.36665100,1 -93.96374700,34.36667200,1 -93.96370400,34.36669300,1 -93.96368300,34.36671500,1 -93.96366100,34.36673600,1 -93.96361800,34.36675800,1 -93.96357500,34.36680100,1 -93.96355400,34.36684400,1 -93.96351100,34.36688700,1 -93.96346800,34.36690800,1 -93.96342500,34.36695100,1 -93.96340400,34.36699400,1 -93.96338200,34.36701500,1 -93.96333900,34.36703700,1 -93.96331800,34.36708000,1 -93.96327500,34.36712300,1 -93.96325400,34.36716600,1 -93.96323200,34.36720800,1 -93.96321100,34.36725100,1 -93.96321100,34.36729400,1 -93.96318900,34.36733700,1 -93.96316800,34.36740200,1 -93.96314600,34.36746600,1 -93.96312500,34.36750900,1 -93.96310300,34.36755200,1 -93.96308200,34.36759500,1 -93.96306000,34.36761600,1 -93.96303900,34.36763800,1 -93.96303900,34.36774500,1 -93.96301700,34.36778800,1 -93.96301700,34.36783100,1 -93.96299600,34.36787400,1 -93.96299600,34.36789500,1 -93.96295300,34.36796000,1 -93.96293200,34.36798100,1 -93.96291000,34.36802400,1 -93.96288900,34.36804500,1 -93.96286700,34.36806700,1 -93.96282400,34.36811000,1 -93.96280300,34.36813100,1 -93.96278100,34.36817400,1 -93.96276000,34.36819600,1 -93.96273900,34.36823800,1 -93.96271700,34.36823800,1 -93.96269600,34.36828100,1 -93.96267400,34.36828100,1 -93.96263100,34.36832400,1 -93.96258800,34.36834600,1 -93.96256700,34.36838900,1 -93.96254500,34.36845300,1 -93.96252400,34.36847400,1 -93.96252400,34.36849600,1 -93.96250200,34.36851700,1 -93.96248100,34.36856000,1 -93.96246000,34.36856000,1 -93.96243800,34.36858200,1 -93.96241700,34.36860300,1 -93.96239500,34.36864600,1 -93.96237400,34.36864600,1 -93.96235200,34.36868900,1 -93.96235200,34.36871100,1 -93.96233100,34.36875300,1 -93.96230900,34.36877500,1 -93.96228800,34.36883900,1 -93.96228800,34.36888200,1 -93.96226600,34.36890400,1 -93.96226600,34.36896800,1 -93.96224500,34.36898900,1 -93.96222400,34.36901100,1 -93.96222400,34.36905400,1 -93.96220200,34.36907500,1 -93.96220200,34.36909700,1 -93.96218100,34.36914000,1 -93.96218100,34.36916100,1 -93.96215900,34.36918300,1 -93.96215900,34.36922600,1 -93.96215900,34.36924700,1 -93.96215900,34.36929000,1 -93.96218100,34.36933300,1 -93.96220200,34.36935400,1 -93.96220200,34.36939700,1 -93.96220200,34.36941900,1 -93.96222400,34.36946200,1 -93.96222400,34.36948300,1 -93.96220200,34.36954700,1 -93.96220200,34.36956900,1 -93.96218100,34.36961200,1 -93.96218100,34.36963300,1 -93.96218100,34.36967600,1 -93.96215900,34.36971900,1 -93.96215900,34.36974000,1 -93.96213800,34.36976200,1 -93.96211600,34.36978300,1 -93.96207300,34.36980500,1 -93.96205200,34.36982600,1 -93.96200900,34.36982600,1 -93.96196600,34.36984800,1 -93.96194500,34.36986900,1 -93.96192300,34.36989100,1 -93.96188000,34.36989100,1 -93.96185900,34.36984800,1 -93.96181600,34.36982600,1 -93.96179400,34.36982600,1 -93.96175100,34.36982600,1 -93.96170900,34.36982600,1 -93.96166600,34.36982600,1 -93.96162300,34.36984800,1 -93.96160100,34.36986900,1 -93.96155800,34.36986900,1 -93.96151500,34.36991200,1 -93.96147300,34.36993400,1 -93.96145100,34.36995500,1 -93.96140800,34.36999800,1 -93.96138700,34.37001900,1 -93.96136500,34.37004100,1 -93.96132200,34.37006200,1 -93.96130100,34.37008400,1 -93.96127900,34.37010500,1 -93.96123600,34.37012700,1 -93.96121500,34.37014800,1 -93.96119400,34.37019100,1 -93.96123600,34.37036300,1 -93.96127900,34.37044900,1 -93.96125800,34.37047000,1 -93.96125800,34.37049200,1 -93.96125800,34.37053400,1 -93.96125800,34.37057700,1 -93.96125800,34.37059900,1 -93.96125800,34.37064200,1 -93.96125800,34.37066300,1 -93.96123600,34.37068500,1 -93.96123600,34.37072800,1 -93.96123600,34.37077000,1 -93.96121500,34.37079200,1 -93.96121500,34.37083500,1 -93.96121500,34.37087800,1 -93.96121500,34.37089900,1 -93.96121500,34.37094200,1 -93.96127900,34.37096400,1 -93.96130100,34.37098500,1 -93.96134400,34.37098500,1 -93.96138700,34.37100600,1 -93.96143000,34.37102800,1 -93.96147300,34.37104900,1 -93.96143000,34.37107100,1 -93.96138700,34.37109200,1 -93.96134400,34.37109200,1 -93.96132200,34.37111400,1 -93.96127900,34.37111400,1 -93.96123600,34.37111400,1 -93.96121500,34.37113500,1 -93.96117200,34.37113500,1 -93.96112900,34.37113500,1 -93.96110800,34.37113500,1 -93.96106500,34.37113500,1 -93.96102200,34.37113500,1 -93.96097900,34.37113500,1 -93.96095800,34.37115700,1 -93.96091500,34.37115700,1 -93.96087200,34.37115700,1 -93.96085000,34.37115700,1 -93.96080700,34.37117800,1 -93.96076400,34.37117800,1 -93.96074300,34.37117800,1 -93.96070000,34.37120000,1 -93.96065700,34.37117800,1 -93.96063600,34.37117800,1 -93.96059300,34.37117800,1 -93.96055000,34.37117800,1 -93.96050700,34.37117800,1 -93.96046400,34.37117800,1 -93.96040000,34.37117800,1 -93.96035700,34.37120000,1 -93.96031400,34.37122100,1 -93.96027100,34.37122100,1 -93.96024900,34.37126400,1 -93.96020700,34.37128500,1 -93.96018500,34.37130700,1 -93.96018500,34.37132800,1 -93.96016400,34.37135000,1 -93.96014200,34.37137100,1 -93.96012100,34.37139300,1 -93.96009900,34.37141400,1 -93.96007800,34.37143600,1 -93.96007800,34.37145700,1 -93.96005600,34.37147900,1 -93.96003500,34.37152100,1 -93.96001300,34.37152100,1 -93.96001300,34.37156400,1 -93.95999200,34.37158600,1 -93.95994900,34.37162900,1 -93.96055000,34.37192900,1 -93.96048500,34.37195100,1 -93.96044300,34.37195100,1 -93.96042100,34.37195100,1 -93.96037800,34.37197200,1 -93.96033500,34.37197200,1 -93.96033500,34.37199400,1 -93.96029200,34.37199400,1 -93.96027100,34.37199400,1 -93.96022800,34.37199400,1 -93.96018500,34.37201500,1 -93.96014200,34.37201500,1 -93.96012100,34.37201500,1 -93.96005600,34.37201500,1 -93.96001300,34.37201500,1 -93.95997000,34.37201500,1 -93.95992800,34.37199400,1 -93.95988500,34.37201500,1 -93.95984200,34.37201500,1 -93.95979900,34.37201500,1 -93.95975600,34.37203600,1 -93.95969200,34.37203600,1 -93.95964900,34.37203600,1 -93.95962700,34.37203600,1 -93.95958400,34.37203600,1 -93.95954100,34.37205800,1 -93.95952000,34.37205800,1 -93.95947700,34.37207900,1 -93.95947700,34.37207900,1 -93.95943400,34.37210100,1 -93.95939100,34.37210100,1 -93.95937000,34.37212200,1 -93.95934800,34.37214400,1 -93.95930500,34.37214400,1 -93.95926200,34.37216500,1 -93.95924100,34.37216500,1 -93.95921900,34.37218700,1 -93.95919800,34.37218700,1 -93.95917700,34.37220800,1 -93.95913400,34.37223000,1 -93.95911200,34.37225100,1 -93.95906900,34.37225100,1 -93.95900500,34.37229400,1 -93.95898300,34.37229400,1 -93.95896200,34.37231500,1 -93.95896200,34.37238000,1 -93.95896200,34.37246600,1 -93.95896200,34.37250900,1 -93.95894100,34.37255100,1 -93.95894100,34.37259400,1 -93.95889800,34.37261600,1 -93.95887600,34.37265900,1 -93.95885500,34.37270200,1 -93.95881200,34.37272300,1 -93.95876900,34.37276600,1 -93.95870400,34.37280900,1 -93.95870400,34.37283000,1 -93.95872600,34.37289500,1 -93.95870400,34.37293800,1 -93.95870400,34.37298100,1 -93.95870400,34.37300200,1 -93.95870400,34.37302400,1 -93.95868300,34.37306600,1 -93.95866200,34.37308800,1 -93.95859700,34.37319500,1 -93.95857600,34.37323800,1 -93.95855400,34.37328100,1 -93.95853300,34.37332400,1 -93.95853300,34.37336700,1 -93.95851100,34.37341000,1 -93.95849000,34.37345300,1 -93.95844700,34.37347400,1 -93.95844700,34.37356000,1 -93.95842600,34.37358100,1 -93.95844700,34.37362400,1 -93.95844700,34.37364600,1 -93.95844700,34.37366700,1 -93.95844700,34.37371000,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>LiL-missori-6</name>
+<styleUrl>#Trail</styleUrl>
+<LineString>
+<coordinates>-93.90561110,34.35871040,1 -93.90565410,34.35871040,1 -93.90569610,34.35868940,1 -93.90573910,34.35868940,1 -93.90578210,34.35866740,1 -93.90582510,34.35864640,1 -93.90586810,34.35864640,1 -93.90589010,34.35862440,1 -93.90593310,34.35860340,1 -93.90595410,34.35856040,1 -93.90599710,34.35853930,1 -93.90604010,34.35853930,1 -93.90608310,34.35849630,1 -93.90612610,34.35845330,1 -93.90616910,34.35843140,1 -93.90621110,34.35836730,1 -93.90623310,34.35804540,1 -93.90631910,34.35791640,1 -93.90631910,34.35778840,1 -93.90634010,34.35776640,1 -93.90634010,34.35774540,1 -93.90636210,34.35770240,1 -93.90638310,34.35768040,1 -93.90640510,34.35763740,1 -93.90642610,34.35761640,1 -93.90646910,34.35759440,1 -93.90651210,34.35757340,1 -93.90653310,34.35753040,1 -93.90655510,34.35750940,1 -93.90659810,34.35748740,1 -93.90661910,34.35746640,1 -93.90664110,34.35742340,1 -93.90666210,34.35740140,1 -93.90668410,34.35738040,1 -93.90670510,34.35733740,1 -93.90670510,34.35731540,1 -93.90672610,34.35727340,1 -93.90674810,34.35725140,1 -93.90674810,34.35720840,1 -93.90676910,34.35718730,1 -93.90676910,34.35714430,1 -93.90679110,34.35712240,1 -93.90679110,34.35710130,1 -93.90681210,34.35705830,1 -93.90683410,34.35703740,1 -93.90683410,34.35699440,1 -93.90683410,34.35695140,1 -93.90685510,34.35690840,1 -93.90687710,34.35688630,1 -93.90689810,34.35684330,1 -93.90694110,34.35682240,1 -93.90698410,34.35680130,1 -93.90700510,34.35677940,1 -93.90702710,34.35673640,1 -93.90704810,34.35671530,1 -93.90707010,34.35669340,1 -93.90709110,34.35667230,1 -93.90709110,34.35665040,1 -93.90711310,34.35662930,1 -93.90711310,34.35658630,1 -93.90711310,34.35656440,1 -93.90713410,34.35654330,1 -93.90713410,34.35652240,1 -93.90715610,34.35643640,1 -93.90709110,34.35637140,1 -93.90707010,34.35632840,1 -93.90704810,34.35630740,1 -93.90702710,34.35628640,1 -93.90702710,34.35624340,1 -93.90700510,34.35622140,1 -93.90696210,34.35617840,1 -93.90692020,34.35615740,1 -93.90689810,34.35613540,1 -93.90685510,34.35613540,1 -93.90683410,34.35611440,1 -93.90679110,34.35609240,1 -93.90672610,34.35611440,1 -93.90670510,34.35611440,1 -93.90664110,34.35613540,1 -93.90659810,34.35617840,1 -93.90655510,34.35620040,1 -93.90651210,34.35622140,1 -93.90649010,34.35624340,1 -93.90644810,34.35626440,1 -93.90638310,34.35626440,1 -93.90634010,34.35626440,1 -93.90629710,34.35626440,1 -93.90625410,34.35628640,1 -93.90621110,34.35626440,1 -93.90619010,34.35626440,1 -93.90614710,34.35626440,1 -93.90612610,34.35628640,1 -93.90606110,34.35626440,1 -93.90601810,34.35626440,1 -93.90597510,34.35622140,1 -93.90595410,34.35620040,1 -93.90591110,34.35617840,1 -93.90589010,34.35615740,1 -93.90584710,34.35613540,1 -93.90580410,34.35613540,1 -93.90576110,34.35611440,1 -93.90571810,34.35611440,1 -93.90567510,34.35609240,1 -93.90563210,34.35609240,1 -93.90558910,34.35609240,1 -93.90554610,34.35609240,1 -93.90550310,34.35609240,1 -93.90548210,34.35611440,1 -93.90543910,34.35609240,1 -93.90537510,34.35609240,1 -93.90533210,34.35607140,1 -93.90531010,34.35604940,1 -93.90526710,34.35602840,1 -93.90524610,34.35598540,1 -93.90520310,34.35596440,1 -93.90518210,34.35594240,1 -93.90516010,34.35592140,1 -93.90511710,34.35589940,1 -93.90507410,34.35587840,1 -93.90505310,34.35585640,1 -93.90501010,34.35581340,1 -93.90498810,34.35579230,1 -93.90494510,34.35577140,1 -93.90492410,34.35572840,1 -93.90488110,34.35568540,1 -93.90483810,34.35566330,1 -93.90479510,34.35566330,1 -93.90477410,34.35562030,1 -93.90475210,34.35562030,1 -93.90470910,34.35559940,1 -93.90466710,34.35557730,1 -93.90462410,34.35557730,1 -93.90458110,34.35555640,1 -93.90453810,34.35553530,1 -93.90449510,34.35551340,1 -93.90445210,34.35549230,1 -93.90440910,34.35547040,1 -93.90438810,34.35544930,1 -93.90436610,34.35544930,1 -93.90432310,34.35542740,1 -93.90428010,34.35540630,1 -93.90423710,34.35538440,1 -93.90419410,34.35536330,1 -93.90417320,34.35534140,1 -93.90421610,34.35532030,1 -93.90428010,34.35529840,1 -93.90432310,34.35527730,1 -93.90436610,34.35525640,1 -93.90436610,34.35523430,1 -93.90436610,34.35519130,1 -93.90432310,34.35517040,1 -93.90428010,34.35514830,1 -93.90423710,34.35512740,1 -93.90417320,34.35506230,1 -93.90413020,34.35504140,1 -93.90408710,34.35499840,1 -93.90406610,34.35497740,1 -93.90406610,34.35493440,1 -93.90404410,34.35491240,1 -93.90406610,34.35489140,1 -93.90406610,34.35484840,1 -93.90408710,34.35482640,1 -93.90406610,34.35476240,1 -93.90350810,34.35456940,1 -93.90329310,34.35450540,1 -93.90327210,34.35446240,1 -93.90325010,34.35444040,1 -93.90322910,34.35441940,1 -93.90318610,34.35437640,1 -93.90318610,34.35435430,1 -93.90322910,34.35429040,1 -93.90325010,34.35424740,1 -93.90316410,34.35418330,1 -93.90320710,34.35416140,1 -93.90327210,34.35411840,1 -93.90335810,34.35407540,1 -93.90346510,34.35405430,1 -93.90348610,34.35405430,1 -93.90352910,34.35407540,1 -93.90357210,34.35407540,1 -93.90359410,34.35407540,1 -93.90365810,34.35409730,1 -93.90370110,34.35409730,1 -93.90372210,34.35409730,1 -93.90376510,34.35411840,1 -93.90380810,34.35409730,1 -93.90385110,34.35409730,1 -93.90389410,34.35407540,1 -93.90398010,34.35405430,1 -93.90402310,34.35405430,1 -93.90404410,34.35405430,1 -93.90408710,34.35405430,1 -93.90410910,34.35405430,1 -93.90419410,34.35405430,1 -93.90419410,34.35405430,1 -93.90595410,34.35452640,1 -93.90597510,34.35454740,1 -93.90601810,34.35456940,1 -93.90604010,34.35459040,1 -93.90606110,34.35461240,1 -93.90610410,34.35463340,1 -93.90614710,34.35467640,1 -93.90616910,34.35469840,1 -93.90621110,34.35471940,1 -93.90623310,34.35474140,1 -93.90625410,34.35476240,1 -93.90625410,34.35480540,1 -93.90627610,34.35484840,1 -93.90627610,34.35484840,1 -93.90631910,34.35486940,1 -93.90634010,34.35486940,1 -93.90638310,34.35486940,1 -93.90642610,34.35489140,1 -93.90644810,34.35495540,1 -93.90649010,34.35495540,1 -93.90651210,34.35495540,1 -93.90655510,34.35497740,1 -93.90659810,34.35495540,1 -93.90661910,34.35493440,1 -93.90666210,34.35493440,1 -93.90668410,34.35493440,1 -93.90672610,34.35491240,1 -93.90676910,34.35491240,1 -93.90681210,34.35495540,1 -93.90683410,34.35497740,1 -93.90685510,34.35502040,1 -93.90692020,34.35504140,1 -93.90694110,34.35504140,1 -93.90698410,34.35506230,1 -93.90702710,34.35508440,1 -93.90707010,34.35508440,1 -93.90711310,34.35512740,1 -93.90715610,34.35510530,1 -93.90719910,34.35512740,1 -93.90724110,34.35514830,1 -93.90730610,34.35519130,1 -93.90732710,34.35519130,1 -93.90737010,34.35521340,1 -93.90741310,34.35523430,1 -93.90743510,34.35525640,1 -93.90747710,34.35527730,1 -93.90749910,34.35527730,1 -93.90754210,34.35532030,1 -93.90758510,34.35536330,1 -93.90760610,34.35540630,1 -93.90764910,34.35542740,1 -93.90769210,34.35544930,1 -93.90771410,34.35547040,1 -93.90775610,34.35547040,1 -93.90779910,34.35551340,1 -93.90782110,34.35551340,1 -93.90786410,34.35551340,1 -93.90792810,34.35551340,1 -93.90795010,34.35551340,1 -93.90801410,34.35549230,1 -93.90805710,34.35551340,1 -93.90805710,34.35555640,1 -93.90807810,34.35557730,1 -93.90807810,34.35564240,1 -93.90807810,34.35568540,1 -93.90805710,34.35570630,1 -93.90805710,34.35574930,1 -93.90810010,34.35577140,1 -93.90814310,34.35577140,1 -93.90818610,34.35574930,1 -93.90822810,34.35574930,1 -93.90827110,34.35574930,1 -93.90831410,34.35574930,1 -93.90835710,34.35572840,1 -93.90840010,34.35568540,1 -93.90840010,34.35564240,1 -93.90844310,34.35562030,1 -93.90846510,34.35559940,1 -93.90850710,34.35559940,1 -93.90855010,34.35559940,1 -93.90857210,34.35559940,1 -93.90861510,34.35559940,1 -93.90865810,34.35559940,1 -93.90870110,34.35557730,1 -93.90874310,34.35555640,1 -93.90878610,34.35555640,1 -93.90882910,34.35553530,1 -93.90885110,34.35553530,1 -93.90889410,34.35551340,1 -93.90893710,34.35551340,1 -93.90898010,34.35551340,1 -93.90902210,34.35551340,1 -93.90906510,34.35551340,1 -93.90910810,34.35551340,1 -93.90913010,34.35551340,1 -93.90919410,34.35553530,1 -93.90921610,34.35553530,1 -93.90925810,34.35553530,1 -93.90930110,34.35551340,1 -93.90934410,34.35551340,1 -93.90938710,34.35553530,1 -93.90943010,34.35551340,1 -93.90945210,34.35551340,1 -93.90949420,34.35551340,1 -93.90951610,34.35549230,1 -93.90955910,34.35549230,1 -93.90960210,34.35549230,1 -93.90964510,34.35547040,1 -93.90968810,34.35547040,1 -93.90970910,34.35544930,1 -93.90973110,34.35542740,1 -93.90977310,34.35542740,1 -93.90981610,34.35542740,1 -93.90985910,34.35540630,1 -93.90990210,34.35540630,1 -93.90994510,34.35540630,1 -93.90998810,34.35538440,1 -93.91003110,34.35538440,1 -93.91007410,34.35536330,1 -93.91011710,34.35536330,1 -93.91016010,34.35534140,1 -93.91018110,34.35534140,1 -93.91024610,34.35534140,1 -93.91028810,34.35534140,1 -93.91031010,34.35532030,1 -93.91035310,34.35532030,1 -93.91039610,34.35529840,1 -93.91043910,34.35529840,1 -93.91046010,34.35527730,1 -93.91050310,34.35527730,1 -93.91054610,34.35525640,1 -93.91058910,34.35525640,1 -93.91063210,34.35523430,1 -93.91054610,34.35514830,1 -93.91058910,34.35508440,1 -93.91063210,34.35502040,1 -93.91065310,34.35502040,1 -93.91065310,34.35499840,1 -93.91065310,34.35502040,1 -93.91065310,34.35499840,1 -93.91065310,34.35497740,1 -93.91067510,34.35493440,1 -93.91065310,34.35491240,1 -93.91063210,34.35486940,1 -93.91063210,34.35482640,1 -93.91061010,34.35480540,1 -93.91061010,34.35478340,1 -93.91061010,34.35476240,1 -93.91061010,34.35471940,1 -93.91054610,34.35467640,1 -93.91050310,34.35465540,1 -93.91048210,34.35463340,1 -93.91046010,34.35461240,1 -93.91043910,34.35459040,1 -93.91039610,34.35456940,1 -93.91039610,34.35454740,1 -93.91037410,34.35450540,1 -93.91037410,34.35446240,1 -93.91037410,34.35439730,1 -93.91039610,34.35435430,1 -93.91039610,34.35429040,1 -93.91039610,34.35424740,1 -93.91039610,34.35420440,1 -93.91039610,34.35416140,1 -93.91037410,34.35411840,1 -93.91035310,34.35407540,1 -93.91035310,34.35403240,1 -93.91031010,34.35401130,1 -93.91028810,34.35399040,1 -93.91026710,34.35396830,1 -93.91024610,34.35392530,1 -93.91022410,34.35390440,1 -93.91022410,34.35373240,1 -93.91022410,34.35368940,1 -93.91022410,34.35362540,1 -93.91020310,34.35358240,1 -93.91020310,34.35351740,1 -93.91020310,34.35349640,1 -93.91018110,34.35345340,1 -93.91018110,34.35338940,1 -93.91016010,34.35334640,1 -93.91013810,34.35330340,1 -93.91013810,34.35326040,1 -93.91013810,34.35323940,1 -93.91016010,34.35321740,1 -93.91016010,34.35317440,1 -93.91013810,34.35313140,1 -93.91011710,34.35308840,1 -93.91007410,34.35306740,1 -93.91005210,34.35302440,1 -93.91000910,34.35300330,1 -93.90998810,34.35298140,1 -93.90994510,34.35298140,1 -93.90990210,34.35298140,1 -93.90983810,34.35296030,1 -93.90990210,34.35293840,1 -93.90994510,34.35291730,1 -93.91000910,34.35283130,1 -93.90988110,34.35261630,1 -93.90985910,34.35259540,1 -93.90985910,34.35253030,1 -93.90981610,34.35246640,1 -93.90979510,34.35242340,1 -93.90979510,34.35235940,1 -93.90979510,34.35233740,1 -93.90979510,34.35227340,1 -93.90979510,34.35223040,1 -93.90977310,34.35218740,1 -93.90975210,34.35216640,1 -93.90975210,34.35212340,1 -93.90973110,34.35208040,1 -93.90970910,34.35203740,1 -93.90968810,34.35197340,1 -93.90968810,34.35195140,1 -93.90966610,34.35190840,1 -93.90964510,34.35188740,1 -93.90962310,34.35184440,1 -93.90960210,34.35180140,1 -93.90960210,34.35175840,1 -93.90960210,34.35173730,1 -93.90960210,34.35171540,1 -93.90960210,34.35167240,1 -93.90960210,34.35162940,1 -93.90958010,34.35158640,1 -93.90958010,34.35154340,1 -93.90955910,34.35152230,1 -93.90958010,34.35150040,1 -93.90951610,34.35137240,1 -93.90951610,34.35135030,1 -93.90949420,34.35128640,1 -93.90947310,34.35126430,1 -93.90947310,34.35122230,1 -93.90947310,34.35120040,1 -93.90945210,34.35115740,1 -93.90943010,34.35113630,1 -93.90940910,34.35109330,1 -93.90938710,34.35105040,1 -93.90938710,34.35100740,1 -93.90936610,34.35096440,1 -93.90934410,34.35092140,1 -93.90932310,34.35087840,1 -93.90930110,34.35085740,1 -93.90928010,34.35081440,1 -93.90928010,34.35079240,1 -93.90928010,34.35077140,1 -93.90928010,34.35074940,1 -93.90925810,34.35070740,1 -93.90928010,34.35070740,1 -93.90930110,34.35068540,1 -93.90932310,34.35064240,1 -93.90934410,34.35062140,1 -93.90934410,34.35057840,1 -93.90934410,34.35055640,1 -93.90934410,34.35051340,1 -93.90934410,34.35049240,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Blue</name>
+<Style id="Blue">
+<LineStyle>
+<color>ffff0000</color>
+<width>3.8</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Viles-Brnch-1</name>
+<styleUrl>#Blue</styleUrl>
+<LineString>
+<coordinates>-93.92076700,34.34804700,1 -93.92078900,34.34804700,1 -93.92081000,34.34806800,1 -93.92083200,34.34809000,1 -93.92085300,34.34809000,1 -93.92087500,34.34809000,1 -93.92089600,34.34811100,1 -93.92093900,34.34813300,1 -93.92096000,34.34815400,1 -93.92098200,34.34817600,1 -93.92102500,34.34819700,1 -93.92102500,34.34819700,1 -93.92106800,34.34824000,1 -93.92108900,34.34826100,1 -93.92111100,34.34828300,1 -93.92113200,34.34830400,1 -93.92115400,34.34832600,1 -93.92117500,34.34836900,1 -93.92115400,34.34839000,1 -93.92115400,34.34841200,1 -93.92115400,34.34845400,1 -93.92115400,34.34847600,1 -93.92115400,34.34851900,1 -93.92115400,34.34854000,1 -93.92113200,34.34858300,1 -93.92113200,34.34860500,1 -93.92113200,34.34866900,1 -93.92113200,34.34877600,1 -93.92169000,34.34886200,1 -93.92173300,34.34886200,1 -93.92175400,34.34886200,1 -93.92179700,34.34888400,1 -93.92184000,34.34888400,1 -93.92186200,34.34890500,1 -93.92190500,34.34890500,1 -93.92196900,34.34881900,1 -93.92201200,34.34881900,1 -93.92205500,34.34888400,1 -93.92209800,34.34886200,1 -93.92211900,34.34886200,1 -93.92216200,34.34884100,1 -93.92220500,34.34884100,1 -93.92224800,34.34881900,1 -93.92229100,34.34881900,1 -93.92233400,34.34877600,1 -93.92235500,34.34875500,1 -93.92239800,34.34875500,1 -93.92244100,34.34873300,1 -93.92246200,34.34871200,1 -93.92250500,34.34871200,1 -93.92254800,34.34869100,1 -93.92259100,34.34869100,1 -93.92261300,34.34866900,1 -93.92398600,34.34864800,1 -93.92402900,34.34864800,1 -93.92407200,34.34864800,1 -93.92413600,34.34862600,1 -93.92417900,34.34860500,1 -93.92420100,34.34860500,1 -93.92424300,34.34858300,1 -93.92426500,34.34856200,1 -93.92430800,34.34856200,1 -93.92435100,34.34854000,1 -93.92437200,34.34854000,1 -93.92441500,34.34851900,1 -93.92445800,34.34851900,1 -93.92447900,34.34849700,1 -93.92452200,34.34849700,1 -93.92456500,34.34847600,1 -93.92463000,34.34854000,1 -93.92465100,34.34854000,1 -93.92471600,34.34851900,1 -93.92473700,34.34849700,1 -93.92478000,34.34849700,1 -93.92482300,34.34847600,1 -93.92486600,34.34847600,1 -93.92490900,34.34845400,1 -93.92495200,34.34845400,1 -93.92497300,34.34843300,1 -93.92501600,34.34843300,1 -93.92602400,34.34875500,1 -93.92611000,34.34877600,1 -93.92615300,34.34877600,1 -93.92621800,34.34873300,1 -93.92632500,34.34871200,1 -93.92641100,34.34873300,1 -93.92645400,34.34873300,1 -93.92647500,34.34873300,1 -93.92651800,34.34873300,1 -93.92656100,34.34875500,1 -93.92658200,34.34875500,1 -93.92662500,34.34875500,1 -93.92666800,34.34875500,1 -93.92671100,34.34875500,1 -93.92677500,34.34873300,1 -93.92681800,34.34875500,1 -93.92686100,34.34873300,1 -93.92688300,34.34873300,1 -93.92692600,34.34871200,1 -93.92694700,34.34871200,1 -93.92696900,34.34866900,1 -93.92705400,34.34862600,1 -93.92709700,34.34864800,1 -93.92711900,34.34869100,1 -93.92716200,34.34871200,1 -93.92718300,34.34875500,1 -93.92720500,34.34877600,1 -93.92724800,34.34881900,1 -93.92729000,34.34884100,1 -93.92733300,34.34884100,1 -93.92737600,34.34888400,1 -93.92741900,34.34890500,1 -93.92744100,34.34892700,1 -93.92748400,34.34894800,1 -93.92752600,34.34899100,1 -93.92756900,34.34901200,1 -93.92761200,34.34903400,1 -93.92765500,34.34905500,1 -93.92769800,34.34907700,1 -93.92774100,34.34909800,1 -93.92776300,34.34912000,1 -93.92780500,34.34914100,1 -93.92784800,34.34918400,1 -93.92787000,34.34920500,1 -93.92791300,34.34922700,1 -93.92793400,34.34924800,1 -93.92799900,34.34927000,1 -93.92804100,34.34927000,1 -93.92808400,34.34929100,1 -93.92812700,34.34931300,1 -93.92817000,34.34933400,1 -93.92821300,34.34935600,1 -93.92825600,34.34937700,1 -93.92829900,34.34939900,1 -93.92832000,34.34944200,1 -93.92836300,34.34946300,1 -93.92838500,34.34948400,1 -93.92842800,34.34952700,1 -93.92844900,34.34954900,1 -93.92847100,34.34957000,1 -93.92851400,34.34961300,1 -93.92853500,34.34963500,1 -93.92857800,34.34965600,1 -93.92859900,34.34967800,1 -93.92866400,34.34969900,1 -93.92870700,34.34969900,1 -93.92875000,34.34972000,1 -93.92881400,34.34974200,1 -93.92887800,34.34976300,1 -93.92890000,34.34978500,1 -93.92894300,34.34978500,1 -93.92898600,34.34980600,1 -93.92902900,34.34982800,1 -93.92905000,34.34984900,1 -93.92909300,34.34989200,1 -93.92913600,34.34991400,1 -93.92920000,34.34991400,1 -93.92924300,34.34993500,1 -93.92928600,34.34993500,1 -93.92932900,34.34993500,1 -93.92937200,34.34995700,1 -93.92941500,34.34995700,1 -93.92945800,34.34995700,1 -93.92952200,34.34995700,1 -93.92956500,34.34995700,1 -93.92965100,34.34995700,1 -93.92971500,34.34993500,1 -93.92978000,34.34993500,1 -93.92984400,34.34991400,1 -93.92990800,34.34991400,1 -93.92997300,34.34991400,1 -93.93003700,34.34991400,1 -93.93010100,34.34991400,1 -93.93014400,34.34991400,1 -93.93018700,34.34991400,1 -93.93025200,34.34993500,1 -93.93031600,34.34991400,1 -93.93035900,34.34991400,1 -93.93042300,34.34991400,1 -93.93046600,34.34991400,1 -93.93050900,34.34991400,1 -93.93057300,34.34991400,1 -93.93061600,34.34991400,1 -93.93068100,34.34991400,1 -93.93070200,34.34993500,1 -93.93074500,34.34993500,1 -93.93081000,34.34993500,1 -93.93085200,34.34993500,1 -93.93126000,34.34993500,1 -93.93136700,34.34993500,1 -93.93143200,34.34993500,1 -93.93147500,34.34993500,1 -93.93151800,34.34993500,1 -93.93153900,34.34993500,1 -93.93158200,34.34993500,1 -93.93162500,34.34993500,1 -93.93164600,34.34995700,1 -93.93168900,34.34995700,1 -93.93173200,34.34995700,1 -93.93177500,34.34995700,1 -93.93181800,34.34995700,1 -93.93186100,34.34993500,1 -93.93190400,34.34993500,1 -93.93194700,34.34993500,1 -93.93199000,34.34995700,1 -93.93205400,34.34995700,1 -93.93209700,34.34997800,1 -93.93214000,34.34999900,1 -93.93218300,34.34999900,1 -93.93222600,34.35002100,1 -93.93226900,34.35002100,1 -93.93231200,34.35004200,1 -93.93235400,34.35004200,1 -93.93239700,34.35004200,1 -93.93244000,34.35006400,1 -93.93248300,34.35006400,1 -93.93254800,34.35006400,1 -93.93259000,34.35006400,1 -93.93263300,34.35006400,1 -93.93267600,34.35008500,1 -93.93269800,34.35008500,1 -93.93276200,34.35010700,1 -93.93280500,34.35010700,1 -93.93284800,34.35010700,1 -93.93289100,34.35010700,1 -93.93293400,34.35010700,1 -93.93297700,34.35010700,1 -93.93302000,34.35012800,1 -93.93306300,34.35015000,1 -93.93308400,34.35017100,1 -93.93310500,34.35017100,1 -93.93314800,34.35019300,1 -93.93319100,34.35019300,1 -93.93323400,34.35021400,1 -93.93325600,34.35023500,1 -93.93329900,34.35025700,1 -93.93332000,34.35027800,1 -93.93336300,34.35027800,1 -93.93340600,34.35030000,1 -93.93342700,34.35032100,1 -93.93349200,34.35034300,1 -93.93355600,34.35034300,1 -93.93359900,34.35034300,1 -93.93366300,34.35036400,1 -93.93372800,34.35034300,1 -93.93379200,34.35034300,1 -93.93424300,34.35019300,1 -93.93428600,34.35017100,1 -93.93458600,34.35008500,1 -93.93462900,34.35004200,1 -93.93462900,34.35004200,1 -93.93467200,34.35002100,1 -93.93469300,34.34999900,1 -93.93473600,34.34999900,1 -93.93477900,34.34997800,1 -93.93484400,34.34995700,1 -93.93486500,34.34995700,1 -93.93490800,34.34993500,1 -93.93497200,34.34993500,1 -93.93501500,34.34991400,1 -93.93503700,34.34989200,1 -93.93510100,34.34989200,1 -93.93514400,34.34989200,1 -93.93518700,34.34989200,1 -93.93525100,34.34989200,1 -93.93527300,34.34989200,1 -93.93533700,34.34989200,1 -93.93538000,34.34989200,1 -93.93542300,34.34989200,1 -93.93546600,34.34991400,1 -93.93553000,34.34993500,1 -93.93557300,34.34995700,1 -93.93572300,34.34999900,1 -93.93576600,34.35002100,1 -93.93583100,34.35002100,1 -93.93595900,34.35002100,1 -93.93602400,34.35004200,1 -93.93606700,34.35004200,1 -93.93617400,34.35004200,1 -93.93623800,34.35006400,1 -93.93632400,34.35006400,1 -93.93638900,34.35006400,1 -93.93645300,34.35006400,1 -93.93651700,34.35008500,1 -93.93656000,34.35008500,1 -93.93664600,34.35010700,1 -93.93668900,34.35012800,1 -93.93673200,34.35012800,1 -93.93683900,34.35015000,1 -93.93688200,34.35017100,1 -93.93692500,34.35019300,1 -93.93696800,34.35021400,1 -93.93703200,34.35023500,1 -93.93707500,34.35025700,1 -93.93714000,34.35025700,1 -93.93720400,34.35027800,1 -93.93724700,34.35027800,1 -93.93729000,34.35030000,1 -93.93733300,34.35032100,1 -93.93735400,34.35034300,1 -93.93739700,34.35034300,1 -93.93744000,34.35036400,1 -93.93746100,34.35038600,1 -93.93750400,34.35040700,1 -93.93754700,34.35040700,1 -93.93761200,34.35042900,1 -93.93765500,34.35042900,1 -93.93771900,34.35042900,1 -93.93778300,34.35042900,1 -93.93782600,34.35042900,1 -93.93789100,34.35042900,1 -93.93793300,34.35042900,1 -93.93795500,34.35042900,1 -93.93799800,34.35042900,1 -93.93806200,34.35042900,1 -93.93810500,34.35042900,1 -93.93814800,34.35042900,1 -93.93819100,34.35042900,1 -93.93823400,34.35042900,1 -93.93827700,34.35042900,1 -93.93832000,34.35042900,1 -93.93834100,34.35042900,1 -93.93838400,34.35042900,1 -93.93842700,34.35042900,1 -93.93847000,34.35047100,1 -93.93853400,34.35049300,1 -93.93855600,34.35049300,1 -93.93859900,34.35051400,1 -93.93857700,34.35062200,1 -93.93864200,34.35062200,1 -93.93868400,34.35062200,1 -93.93872700,34.35062200,1 -93.93879200,34.35060000,1 -93.93885600,34.35060000,1 -93.93889900,34.35060000,1 -93.93894200,34.35060000,1 -93.93900600,34.35062200,1 -93.93902800,34.35060000,1 -93.93909200,34.35062200,1 -93.93915700,34.35064300,1 -93.93922100,34.35064300,1 -93.93926400,34.35066500,1 -93.93932800,34.35066500,1 -93.93939300,34.35066500,1 -93.93945700,34.35066500,1 -93.93952100,34.35066500,1 -93.93956400,34.35064300,1 -93.93960700,34.35064300,1 -93.93962900,34.35064300,1 -93.93967200,34.35064300,1 -93.93971400,34.35062200,1 -93.93973600,34.35062200,1 -93.93977900,34.35060000,1 -93.93982200,34.35060000,1 -93.93986500,34.35057900,1 -93.93986500,34.35057900,1 -93.93992900,34.35057900,1 -93.94012200,34.35064300,1 -93.94018700,34.35064300,1 -93.94025100,34.35068600,1 -93.94033700,34.35070800,1 -93.94038000,34.35072900,1 -93.94042300,34.35075000,1 -93.94046500,34.35077200,1 -93.94050800,34.35079300,1 -93.94055100,34.35081500,1 -93.94059400,34.35083600,1 -93.94061600,34.35083600,1 -93.94065900,34.35085800,1 -93.94070100,34.35085800,1 -93.94074400,34.35087900,1 -93.94078700,34.35087900,1 -93.94083000,34.35087900,1 -93.94087300,34.35087900,1 -93.94091600,34.35087900,1 -93.94095900,34.35087900,1 -93.94102300,34.35087900,1 -93.94108800,34.35087900,1 -93.94110900,34.35087900,1 -93.94115200,34.35087900,1 -93.94119500,34.35085800,1 -93.94121600,34.35085800,1 -93.94125900,34.35085800,1 -93.94130200,34.35085800,1 -93.94134500,34.35085800,1 -93.94138800,34.35085800,1 -93.94141000,34.35085800,1 -93.94145300,34.35085800,1 -93.94149500,34.35085800,1 -93.94153800,34.35085800,1 -93.94158100,34.35085800,1 -93.94160300,34.35085800,1 -93.94164600,34.35085800,1 -93.94168900,34.35087900,1 -93.94173100,34.35085800,1 -93.94179600,34.35085800,1 -93.94181700,34.35085800,1 -93.94186000,34.35085800,1 -93.94190300,34.35085800,1 -93.94194600,34.35085800,1 -93.94201000,34.35083600,1 -93.94205300,34.35083600,1 -93.94209600,34.35081500,1 -93.94213900,34.35081500,1 -93.94218200,34.35079300,1 -93.94224600,34.35077200,1 -93.94228900,34.35075000,1 -93.94235400,34.35075000,1 -93.94239700,34.35072900,1 -93.94241800,34.35070800,1 -93.94246100,34.35068600,1 -93.94248200,34.35066500,1 -93.94252500,34.35064300,1 -93.94256800,34.35062200,1 -93.94259000,34.35060000,1 -93.94265400,34.35060000,1 -93.94269700,34.35060000,1 -93.94274000,34.35060000,1 -93.94276100,34.35057900,1 -93.94280400,34.35055700,1 -93.94284700,34.35053600,1 -93.94289000,34.35051400,1 -93.94293300,34.35049300,1 -93.94297600,34.35047100,1 -93.94301900,34.35045000,1 -93.94306200,34.35042900,1 -93.94308300,34.35042900,1 -93.94312600,34.35040700,1 -93.94319100,34.35038600,1 -93.94323300,34.35034300,1 -93.94327600,34.35030000,1 -93.94329800,34.35027800,1 -93.94336200,34.35027800,1 -93.94342700,34.35027800,1 -93.94347000,34.35027800,1 -93.94351200,34.35027800,1 -93.94357700,34.35027800,1 -93.94362000,34.35027800,1 -93.94368400,34.35025700,1 -93.94372700,34.35023500,1 -93.94377000,34.35025700,1 -93.94379100,34.35025700,1 -93.94383400,34.35025700,1 -93.94387700,34.35025700,1 -93.94394200,34.35025700,1 -93.94409200,34.35032100,1 -93.94413500,34.35034300,1 -93.94415600,34.35038600,1 -93.94417800,34.35040700,1 -93.94422100,34.35042900,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Athns-Bg frk-4</name>
+<styleUrl>#Blue</styleUrl>
+<LineString>
+<coordinates>-93.95840400,34.37381700,1 -93.95842600,34.37386000,1 -93.95842600,34.37390300,1 -93.95842600,34.37394600,1 -93.95842600,34.37396800,1 -93.95842600,34.37403200,1 -93.95844700,34.37405300,1 -93.95846800,34.37413900,1 -93.95849000,34.37420400,1 -93.95849000,34.37422500,1 -93.95849000,34.37426800,1 -93.95851100,34.37429000,1 -93.95855400,34.37433200,1 -93.95857600,34.37435400,1 -93.95857600,34.37439700,1 -93.95859700,34.37444000,1 -93.95859700,34.37446100,1 -93.95859700,34.37446100,1 -93.95859700,34.37450400,1 -93.95859700,34.37452600,1 -93.95861900,34.37459000,1 -93.95861900,34.37465400,1 -93.95864000,34.37474000,1 -93.95864000,34.37476200,1 -93.95866200,34.37480400,1 -93.95868300,34.37486900,1 -93.95870400,34.37491200,1 -93.95872600,34.37499800,1 -93.95872600,34.37504100,1 -93.95872600,34.37506200,1 -93.95872600,34.37508300,1 -93.95874700,34.37512600,1 -93.95874700,34.37514800,1 -93.95874700,34.37519100,1 -93.95876900,34.37523400,1 -93.95879000,34.37527700,1 -93.95879000,34.37529800,1 -93.95881200,34.37531900,1 -93.95881200,34.37536200,1 -93.95883300,34.37538400,1 -93.95881200,34.37542700,1 -93.95881200,34.37544800,1 -93.95883300,34.37549100,1 -93.95883300,34.37553400,1 -93.95889800,34.37553400,1 -93.95891900,34.37549100,1 -93.95894100,34.37547000,1 -93.95900500,34.37544800,1 -93.95906900,34.37544800,1 -93.95909100,34.37549100,1 -93.95913400,34.37551300,1 -93.95915500,34.37555600,1 -93.95917700,34.37557700,1 -93.95921900,34.37562000,1 -93.95924100,34.37566300,1 -93.95926200,34.37570600,1 -93.95930500,34.37572700,1 -93.95932700,34.37577000,1 -93.95934800,34.37581300,1 -93.95937000,34.37583400,1 -93.95939100,34.37587700,1 -93.95941300,34.37592000,1 -93.95943400,34.37596300,1 -93.95945500,34.37598500,1 -93.95947700,34.37600600,1 -93.95952000,34.37609200,1 -93.95954100,34.37611300,1 -93.95956300,34.37615600,1 -93.95958400,34.37619900,1 -93.95960600,34.37628500,1 -93.95962700,34.37630700,1 -93.95964900,34.37634900,1 -93.95964900,34.37637100,1 -93.95967000,34.37641400,1 -93.95969200,34.37645700,1 -93.95969200,34.37650000,1 -93.95971300,34.37652100,1 -93.95973400,34.37656400,1 -93.95975600,34.37660700,1 -93.95977700,34.37665000,1 -93.95982000,34.37667100,1 -93.95986300,34.37669300,1 -93.95988500,34.37671400,1 -93.95997000,34.37677900,1 -93.96001300,34.37677900,1 -93.96007800,34.37677900,1 -93.96012100,34.37680000,1 -93.96016400,34.37682200,1 -93.96024900,34.37682200,1 -93.96029200,34.37682200,1 -93.96033500,34.37682200,1 -93.96037800,34.37682200,1 -93.96044300,34.37684300,1 -93.96048500,34.37686400,1 -93.96050700,34.37688600,1 -93.96055000,34.37686400,1 -93.96057100,34.37680000,1 -93.96085000,34.37692900,1 -93.96091500,34.37690700,1 -93.96095800,34.37688600,1 -93.96100000,34.37688600,1 -93.96104300,34.37692900,1 -93.96104300,34.37701500,1 -93.96106500,34.37707900,1 -93.96106500,34.37710000,1 -93.96110800,34.37712200,1 -93.96115100,34.37714300,1 -93.96117200,34.37714300,1 -93.96119400,34.37718600,1 -93.96121500,34.37720800,1 -93.96123600,34.37725100,1 -93.96125800,34.37725100,1 -93.96127900,34.37729400,1 -93.96132200,34.37729400,1 -93.96132200,34.37731500,1 -93.96134400,34.37735800,1 -93.96134400,34.37740100,1 -93.96134400,34.37742200,1 -93.96134400,34.37744400,1 -93.96134400,34.37746500,1 -93.96132200,34.37750800,1 -93.96132200,34.37753000,1 -93.96132200,34.37755100,1 -93.96136500,34.37759400,1 -93.96138700,34.37765800,1 -93.96145100,34.37770100,1 -93.96155800,34.37780900,1 -93.96158000,34.37783000,1 -93.96160100,34.37787300,1 -93.96160100,34.37791600,1 -93.96160100,34.37795900,1 -93.96160100,34.37800200,1 -93.96162300,34.37802300,1 -93.96162300,34.37808800,1 -93.96162300,34.37813000,1 -93.96160100,34.37815200,1 -93.96160100,34.37819500,1 -93.96158000,34.37823800,1 -93.96158000,34.37828100,1 -93.96155800,34.37832400,1 -93.96153700,34.37836600,1 -93.96151500,34.37840900,1 -93.96149400,34.37845200,1 -93.96147300,34.37847400,1 -93.96147300,34.37851700,1 -93.96145100,34.37856000,1 -93.96143000,34.37860300,1 -93.96143000,34.37864500,1 -93.96140800,34.37866700,1 -93.96140800,34.37873100,1 -93.96138700,34.37875300,1 -93.96138700,34.37879600,1 -93.96136500,34.37881700,1 -93.96136500,34.37886000,1 -93.96134400,34.37890300,1 -93.96132200,34.37894600,1 -93.96132200,34.37896700,1 -93.96130100,34.37903200,1 -93.96130100,34.37909600,1 -93.96130100,34.37916000,1 -93.96130100,34.37924600,1 -93.96127900,34.37931100,1 -93.96130100,34.37935400,1 -93.96130100,34.37943900,1 -93.96130100,34.37948200,1 -93.96130100,34.37952500,1 -93.96132200,34.37954700,1 -93.96132200,34.37959000,1 -93.96134400,34.37965400,1 -93.96136500,34.37967500,1 -93.96138700,34.37971800,1 -93.96138700,34.37974000,1 -93.96143000,34.37980400,1 -93.96145100,34.37984700,1 -93.96147300,34.37986900,1 -93.96149400,34.37989000,1 -93.96151500,34.37993300,1 -93.96153700,34.37995400,1 -93.96158000,34.37999700,1 -93.96160100,34.38001900,1 -93.96164400,34.38006200,1 -93.96166600,34.38008300,1 -93.96170900,34.38012600,1 -93.96173000,34.38014700,1 -93.96177300,34.38016900,1 -93.96179400,34.38019000,1 -93.96218100,34.38016900,1 -93.96230900,34.38023300,1 -93.96226600,34.38027600,1 -93.96222400,34.38044800,1 -93.96220200,34.38053400,1 -93.96220200,34.38057700,1 -93.96220200,34.38059800,1 -93.96220200,34.38064100,1 -93.96220200,34.38068400,1 -93.96218100,34.38072700,1 -93.96220200,34.38079100,1 -93.96220200,34.38083400,1 -93.96220200,34.38087700,1 -93.96222400,34.38092000,1 -93.96224500,34.38094100,1 -93.96226600,34.38096300,1 -93.96228800,34.38100600,1 -93.96230900,34.38102700,1 -93.96235200,34.38107000,1 -93.96237400,34.38111300,1 -93.96248100,34.38130600,1 -93.96248100,34.38139200,1 -93.96246000,34.38143500,1 -93.96237400,34.38154200,1 -93.96233100,34.38158500,1 -93.96233100,34.38162800,1 -93.96235200,34.38164900,1 -93.96235200,34.38169200,1 -93.96235200,34.38171400,1 -93.96237400,34.38175700,1 -93.96237400,34.38180000,1 -93.96239500,34.38182100,1 -93.96239500,34.38188600,1 -93.96241700,34.38190700,1 -93.96241700,34.38192800,1 -93.96233100,34.38192800,1 -93.96228800,34.38197100,1 -93.96224500,34.38197100,1 -93.96220200,34.38199300,1 -93.96218100,34.38201400,1 -93.96215900,34.38203600,1 -93.96211600,34.38207900,1 -93.96233100,34.38225000,1 -93.96237400,34.38227200,1 -93.96239500,34.38229300,1 -93.96243800,34.38231500,1 -93.96243800,34.38235800,1 -93.96246000,34.38240100,1 -93.96246000,34.38244300,1 -93.96248100,34.38246500,1 -93.96246000,34.38248600,1 -93.96246000,34.38252900,1 -93.96243800,34.38257200,1 -93.96241700,34.38259400,1 -93.96241700,34.38263700,1 -93.96241700,34.38267900,1 -93.96246000,34.38274400,1 -93.96299600,34.38306600,1 -93.96301700,34.38308700,1 -93.96306000,34.38310900,1 -93.96310300,34.38315200,1 -93.96314600,34.38317300,1 -93.96318900,34.38319400,1 -93.96321100,34.38319400,1 -93.96325400,34.38321600,1 -93.96329600,34.38323700,1 -93.96331800,34.38325900,1 -93.96336100,34.38328000,1 -93.96338200,34.38328000,1 -93.96342500,34.38330200,1 -93.96346800,34.38332300,1 -93.96351100,34.38334500,1 -93.96355400,34.38336600,1 -93.96359700,34.38343000,1 -93.96364000,34.38345200,1 -93.96368300,34.38349500,1 -93.96372600,34.38353800,1 -93.96374700,34.38355900,1 -93.96376800,34.38358100,1 -93.96379000,34.38360200,1 -93.96383300,34.38362400,1 -93.96385400,34.38364500,1 -93.96387600,34.38366700,1 -93.96391900,34.38368800,1 -93.96394000,34.38370900,1 -93.96396200,34.38370900,1 -93.96400500,34.38373100,1 -93.96402600,34.38375200,1 -93.96406900,34.38377400,1 -93.96411200,34.38379500,1 -93.96413300,34.38381700,1 -93.96417600,34.38383800,1 -93.96421900,34.38386000,1 -93.96424100,34.38388100,1 -93.96430500,34.38392400,1 -93.96434800,34.38394500,1 -93.96507700,34.38428900,1 -93.96507700,34.38437500,1 -93.96507700,34.38443900,1 -93.96512000,34.38448200,1 -93.96516300,34.38450300,1 -93.96518500,34.38454600,1 -93.96522800,34.38456800,1 -93.96524900,34.38458900,1 -93.96529200,34.38461100,1 -93.96533500,34.38463200,1 -93.96535600,34.38467500,1 -93.96539900,34.38469600,1 -93.96542100,34.38471800,1 -93.96546400,34.38476100,1 -93.96548500,34.38478200,1 -93.96550700,34.38480400,1 -93.96552800,34.38484700,1 -93.96557100,34.38486800,1 -93.96559200,34.38489000,1 -93.96561400,34.38493300,1 -93.96563500,34.38495400,1 -93.96565700,34.38497500,1 -93.96563500,34.38501800,1 -93.96565700,34.38506100,1 -93.96565700,34.38508300,1 -93.96563500,34.38512600,1 -93.96552800,34.38525400,1 -93.96546400,34.38527600,1 -93.96542100,34.38529700,1 -93.96535600,34.38529700,1 -93.96529200,34.38531900,1 -93.96522800,34.38534000,1 -93.96518500,34.38534000,1 -93.96514200,34.38538300,1 -93.96509900,34.38540500,1 -93.96505600,34.38542600,1 -93.96501300,34.38544800,1 -93.96497000,34.38546900,1 -93.96492700,34.38549000,1 -93.96488400,34.38551200,1 -93.96486300,34.38553300,1 -93.96482000,34.38555500,1 -93.96477700,34.38557600,1 -93.96473400,34.38561900,1 -93.96473400,34.38564100,1 -93.96471300,34.38566200,1 -93.96469100,34.38568400,1 -93.96469100,34.38572600,1 -93.96467000,34.38574800,1 -93.96464800,34.38579100,1 -93.96462700,34.38583400,1 -93.96460500,34.38587700,1 -93.96460500,34.38589800,1 -93.96458400,34.38594100,1 -93.96456200,34.38598400,1 -93.96454100,34.38600500,1 -93.96454100,34.38604800,1 -93.96454100,34.38609100,1 -93.96454100,34.38613400,1 -93.96454100,34.38615600,1 -93.96454100,34.38619900,1 -93.96452000,34.38624100,1 -93.96449800,34.38628400,1 -93.96449800,34.38630600,1 -93.96447700,34.38632700,1 -93.96445500,34.38637000,1 -93.96445500,34.38639200,1 -93.96443400,34.38645600,1 -93.96445500,34.38647700,1 -93.96445500,34.38652000,1 -93.96447700,34.38656300,1 -93.96447700,34.38660600,1 -93.96447700,34.38664900,1 -93.96449800,34.38667100,1 -93.96449800,34.38671400,1 -93.96452000,34.38675600,1 -93.96456200,34.38677800,1 -93.96456200,34.38682100,1 -93.96458400,34.38684200,1 -93.96460500,34.38686400,1 -93.96462700,34.38692800,1 -93.96467000,34.38695000,1 -93.96467000,34.38699200,1 -93.96469100,34.38707800,1 -93.96471300,34.38712100,1 -93.96471300,34.38718600,1 -93.96473400,34.38722800,1 -93.96475600,34.38727100,1 -93.96477700,34.38731400,1 -93.96475600,34.38735700,1 -93.96475600,34.38737900,1 -93.96477700,34.38742200,1 -93.96475600,34.38744300,1 -93.96475600,34.38748600,1 -93.96475600,34.38750700,1 -93.96475600,34.38755000,1 -93.96475600,34.38759300,1 -93.96475600,34.38763600,1 -93.96477700,34.38767900,1 -93.96477700,34.38770100,1 -93.96482000,34.38778600,1 -93.96492700,34.38785100,1 -93.96499200,34.38785100,1 -93.96501300,34.38787200,1 -93.96503400,34.38789400,1 -93.96501300,34.38793700,1 -93.96501300,34.38798000,1 -93.96501300,34.38802200,1 -93.96499200,34.38806500,1 -93.96492700,34.38810800,1 -93.96492700,34.38815100,1 -93.96490600,34.38817300,1 -93.96488400,34.38819400,1 -93.96488400,34.38823700,1 -93.96488400,34.38828000,1 -93.96486300,34.38830100,1 -93.96486300,34.38834400,1 -93.96484100,34.38836600,1 -93.96482000,34.38840900,1 -93.96482000,34.38843000,1 -93.96484100,34.38847300,1 -93.96471300,34.38860200,1 -93.96467000,34.38862300,1 -93.96462700,34.38862300,1 -93.96460500,34.38864500,1 -93.96449800,34.38864500,1 -93.96424100,34.38866600,1 -93.96419800,34.38868800,1 -93.96415500,34.38873100,1 -93.96415500,34.38877300,1 -93.96402600,34.38881600,1 -93.96398300,34.38879500,1 -93.96387600,34.38885900,1 -93.96379000,34.38888100,1 -93.96374700,34.38890200,1 -93.96370400,34.38890200,1 -93.96349000,34.38898800,1 -93.96344700,34.38898800,1 -93.96338200,34.38898800,1 -93.96333900,34.38896700,1 -93.96329600,34.38896700,1 -93.96325400,34.38896700,1 -93.96316800,34.38911700,1 -93.96316800,34.38916000,1 -93.96318900,34.38920300,1 -93.96321100,34.38941700,1 -93.96323200,34.38946000,1 -93.96323200,34.38948200,1 -93.96325400,34.38952400,1 -93.96329600,34.38958900,1 -93.96333900,34.38961000,1 -93.96336100,34.38963200,1 -93.96340400,34.38963200,1 -93.96342500,34.38965300,1 -93.96342500,34.38967500,1 -93.96344700,34.38971800,1 -93.96346800,34.38973900,1 -93.96349000,34.38976000,1 -93.96349000,34.38980300,1 -93.96351100,34.38984600,1 -93.96353200,34.38988900,1 -93.96353200,34.38993200,1 -93.96353200,34.38997500,1 -93.96353200,34.39001800,1 -93.96353200,34.39006100,1 -93.96355400,34.39010400,1 -93.96355400,34.39014700,1 -93.96355400,34.39019000,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>LiL-missori-1</name>
+<styleUrl>#Blue</styleUrl>
+<LineString>
+<coordinates>-93.97373065,34.43355505,1 -93.97333677,34.43351565,1 -93.97307977,34.43347265,1 -93.97273577,34.43336565,1 -93.97247877,34.43336565,1 -93.97222077,34.43338765,1 -93.97179177,34.43334465,1 -93.97138377,34.43327965,1 -93.97108377,34.43330165,1 -93.97076177,34.43330165,1 -93.97046177,34.43327965,1 -93.97005377,34.43323665,1 -93.97005377,34.43323665,1 -93.96994677,34.43343065,1 -93.96960277,34.43334465,1 -93.96921677,34.43327965,1 -93.96887377,34.43308665,1 -93.96861577,34.43280765,1 -93.96816577,34.43276465,1 -93.96769377,34.43278665,1 -93.96732877,34.43263665,1 -93.96711377,34.43248565,1 -93.96694277,34.43224965,1 -93.96664177,34.43218565,1 -93.96627677,34.43229265,1 -93.96595577,34.43244365,1 -93.96565477,34.43265765,1 -93.96526877,34.43270065,1 -93.96501077,34.43272165,1 -93.96466777,34.43270065,1 -93.96432477,34.43261465,1 -93.96406677,34.43248565,1 -93.96365977,34.43250765,1 -93.96329477,34.43246465,1 -93.96292977,34.43233565,1 -93.96269377,34.43218565,1 -93.96250077,34.43205665,1 -93.96217877,34.43175665,1 -93.96194277,34.43152065,1 -93.96179277,34.43113465,1 -93.96155677,34.43085565,1 -93.96136377,34.43068365,1 -93.96110577,34.43044765,1 -93.96089177,34.43055465,1 -93.96061277,34.43040465,1 -93.96037677,34.43034065,1 -93.96007577,34.43042565,1 -93.95968977,34.43051165,1 -93.95932477,34.43057665,1 -93.95895977,34.43061965,1 -93.95857377,34.43072665,1 -93.95820877,34.43083365,1 -93.95784477,34.43079065,1 -93.95743677,34.43068365,1 -93.95707177,34.43059765,1 -93.95653577,34.43055465,1 -93.95627777,34.43053365,1 -93.95602077,34.43049065,1 -93.95554877,34.43042565,1 -93.95507677,34.43044765,1 -93.95477577,34.43064065,1 -93.95441077,34.43064065,1 -93.95400377,34.43064065,1 -93.95357477,34.43042565,1 -93.95316677,34.43040465,1 -93.95275877,34.43064065,1 -93.95237277,34.43072665,1 -93.95198677,34.43074765,1 -93.95170777,34.43074765,1 -93.95127877,34.43057665,1 -93.95108477,34.43040465,1 -93.94996977,34.43025465,1 -93.94943277,34.43016865,1 -93.94885377,34.43018965,1 -93.94842477,34.43025465,1 -93.94799577,34.43029765,1 -93.94748077,34.43031865,1 -93.94711577,34.43044765,1 -93.94685777,34.43053365,1 -93.94664377,34.43068365,1 -93.94634277,34.43085565,1 -93.94578477,34.43091965,1 -93.94539877,34.43085565,1 -93.94511977,34.43072665,1 -93.94477677,34.43061965,1 -93.94447677,34.43036165,1 -93.94456177,34.43008265,1 -93.94479777,34.42986865,1 -93.94466977,34.42965365,1 -93.94445477,34.42933165,1 -93.94432577,34.42903165,1 -93.94430477,34.42879565,1 -93.94423977,34.42851665,1 -93.94430477,34.42840865,1 -93.94481977,34.42789365,1 -93.94479777,34.42765765,1 -93.94471277,34.42744365,1 -93.94462677,34.42716465,1 -93.94430477,34.42703565,1 -93.94417577,34.42688565,1 -93.94393977,34.42669265,1 -93.94368277,34.42669265,1 -93.94340377,34.42667065,1 -93.94312477,34.42658565,1 -93.94290977,34.42641365,1 -93.94269577,34.42626365,1 -93.94248077,34.42617765,1 -93.94222277,34.42611365,1 -93.94222277,34.42611365,1 -93.94198677,34.42604865,1 -93.94024877,34.42757265,1 -93.93990577,34.42744365,1 -93.93964877,34.42729365,1 -93.93936977,34.42740065,1 -93.93906877,34.42744365,1 -93.93877977,34.42749465,1 -93.93855377,34.42752965,1 -93.93831777,34.42752965,1 -93.93795277,34.42755065,1 -93.93756677,34.42755065,1 -93.93730977,34.42757265,1 -93.93703077,34.42752965,1 -93.93677277,34.42746465,1 -93.93647277,34.42742165,1 -93.93630077,34.42742165,1 -93.93630077,34.42742165,1 -93.93589277,34.42737965,1 -93.93578577,34.42744365,1 -93.93578577,34.42744365,1 -93.93527077,34.42731465,1 -93.93499177,34.42718565,1 -93.93475577,34.42701465,1 -93.93460577,34.42682165,1 -93.93434777,34.42669265,1 -93.93411177,34.42669265,1 -93.93387577,34.42673565,1 -93.93359677,34.42677865,1 -93.93323277,34.42682165,1 -93.93295377,34.42682165,1 -93.93269577,34.42675665,1 -93.93250277,34.42660665,1 -93.93215977,34.42649965,1 -93.93188077,34.42645665,1 -93.93157977,34.42641365,1 -93.93125877,34.42632765,1 -93.93097977,34.42628465,1 -93.93072177,34.42613465,1 -93.93037877,34.42622065,1 -93.93014277,34.42624165,1 -93.92986377,34.42622065,1 -93.92967077,34.42609165,1 -93.92941277,34.42602765,1 -93.92906977,34.42602765,1 -93.92876877,34.42600565,1 -93.92838277,34.42598465,1 -93.92799677,34.42596265,1 -93.92763177,34.42594165,1 -93.92754577,34.42594165,1 -93.92662377,34.42587665,1 -93.92479977,34.42467565,1 -93.92355477,34.42452565,1 -93.92310477,34.42486865,1 -93.92310477,34.42486865,1 -93.92177377,34.42424665,1 -93.92177377,34.42424665,1 -93.92096197,34.42335125,1 -93.92098025,34.42323276,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Purple</name>
+<Style id="Purple">
+<LineStyle>
+<color>ff803389</color>
+<width>3.8</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>LiL-missori-2</name>
+<styleUrl>#Purple</styleUrl>
+<LineString>
+<coordinates>-93.92109110,34.42326023,1 -93.91983410,34.42284923,1 -93.91928810,34.42190923,1 -93.91898810,34.42083623,1 -93.91896710,34.41946223,1 -93.91922410,34.41791823,1 -93.92014710,34.41712423,1 -93.92235710,34.41542823,1 -93.92274310,34.41446323,1 -93.92358010,34.41354023,1 -93.92164910,34.41276823,1 -93.91988910,34.41242423,1 -93.91864510,34.41251023,1 -93.91731410,34.41246723,1 -93.91585510,34.41270323,1 -93.91413910,34.41154523,1 -93.91233610,34.40965623,1 -93.91115610,34.40924923,1 -93.91036210,34.40798323,1 -93.90850010,34.40694023,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>red</name>
+<Style id="red">
+<LineStyle>
+<color>ff0000ff</color>
+<width>3.1</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Athns-Bg frk-1</name>
+<styleUrl>#red</styleUrl>
+<LineString>
+<coordinates>-93.97104300,34.42126000,1 -93.97106400,34.42130300,1 -93.97108600,34.42134600,1 -93.97108600,34.42138900,1 -93.97110700,34.42141100,1 -93.97110700,34.42145300,1 -93.97112800,34.42149600,1 -93.97112800,34.42151800,1 -93.97115000,34.42158200,1 -93.97115000,34.42160400,1 -93.97115000,34.42164700,1 -93.97106400,34.42166800,1 -93.97104300,34.42169000,1 -93.97100000,34.42171100,1 -93.97097800,34.42175400,1 -93.97095700,34.42177500,1 -93.97093500,34.42179700,1 -93.97091400,34.42184000,1 -93.97089200,34.42186100,1 -93.97087100,34.42188300,1 -93.97085000,34.42192600,1 -93.97085000,34.42196800,1 -93.97085000,34.42199000,1 -93.97082800,34.42203300,1 -93.97082800,34.42205400,1 -93.97082800,34.42211900,1 -93.97082800,34.42214000,1 -93.97082800,34.42218300,1 -93.97082800,34.42220400,1 -93.97082800,34.42222600,1 -93.97082800,34.42226900,1 -93.97082800,34.42229000,1 -93.97082800,34.42231200,1 -93.97082800,34.42235500,1 -93.97080700,34.42235500,1 -93.97080700,34.42239800,1 -93.97080700,34.42244100,1 -93.97080700,34.42246200,1 -93.97080700,34.42250500,1 -93.97080700,34.42254800,1 -93.97080700,34.42256900,1 -93.97080700,34.42261200,1 -93.97080700,34.42263400,1 -93.97080700,34.42267700,1 -93.97080700,34.42269800,1 -93.97080700,34.42271900,1 -93.97082800,34.42274100,1 -93.97082800,34.42278400,1 -93.97082800,34.42280500,1 -93.97082800,34.42282700,1 -93.97082800,34.42284800,1 -93.97082800,34.42289100,1 -93.97082800,34.42291300,1 -93.97082800,34.42295600,1 -93.97082800,34.42295600,1 -93.97082800,34.42297700,1 -93.97082800,34.42299800,1 -93.97082800,34.42308400,1 -93.97078500,34.42319200,1 -93.97085000,34.42321300,1 -93.97087100,34.42323400,1 -93.97091400,34.42323400,1 -93.97093500,34.42323400,1 -93.97097800,34.42323400,1 -93.97102100,34.42325600,1 -93.97104300,34.42327700,1 -93.97112800,34.42340600,1 -93.97117100,34.42342800,1 -93.97123600,34.42344900,1 -93.97127900,34.42347100,1 -93.97132200,34.42351300,1 -93.97134300,34.42353500,1 -93.97136500,34.42357800,1 -93.97136500,34.42379200,1 -93.97132200,34.42390000,1 -93.97132200,34.42394300,1 -93.97132200,34.42396400,1 -93.97132200,34.42400700,1 -93.97132200,34.42405000,1 -93.97132200,34.42409300,1 -93.97127900,34.42413600,1 -93.97123600,34.42415700,1 -93.97121400,34.42422200,1 -93.97117100,34.42424300,1 -93.97112800,34.42428600,1 -93.97106400,34.42428600,1 -93.97104300,34.42430700,1 -93.97102100,34.42435000,1 -93.97100000,34.42437200,1 -93.97097800,34.42441500,1 -93.97095700,34.42443600,1 -93.97093500,34.42445800,1 -93.97087100,34.42450000,1 -93.97082800,34.42450000,1 -93.97080700,34.42454300,1 -93.97078500,34.42456500,1 -93.97076400,34.42458600,1 -93.97072100,34.42469400,1 -93.97069900,34.42473700,1 -93.97072100,34.42488700,1 -93.97074200,34.42490800,1 -93.97076400,34.42493000,1 -93.97078500,34.42497300,1 -93.97080700,34.42510100,1 -93.97080700,34.42512300,1 -93.97080700,34.42516600,1 -93.97082800,34.42523000,1 -93.97085000,34.42540200,1 -93.97089200,34.42544500,1 -93.97091400,34.42546600,1 -93.97095700,34.42548800,1 -93.97104300,34.42557300,1 -93.97108600,34.42559500,1 -93.97110700,34.42561600,1 -93.97115000,34.42570200,1 -93.97119300,34.42574500,1 -93.97123600,34.42576600,1 -93.97130000,34.42576600,1 -93.97136500,34.42576600,1 -93.97138600,34.42578800,1 -93.97149300,34.42580900,1 -93.97155800,34.42583100,1 -93.97160100,34.42585200,1 -93.97162200,34.42587400,1 -93.97177200,34.42591700,1 -93.97179400,34.42593800,1 -93.97181500,34.42602400,1 -93.97185800,34.42647500,1 -93.97187900,34.42647500,1 -93.97192200,34.42647500,1 -93.97194400,34.42649600,1 -93.97196500,34.42651700,1 -93.97198700,34.42653900,1 -93.97203000,34.42656000,1 -93.97205100,34.42658200,1 -93.97209400,34.42660300,1 -93.97211600,34.42662500,1 -93.97213700,34.42662500,1 -93.97218000,34.42664600,1 -93.97220100,34.42666800,1 -93.97222300,34.42668900,1 -93.97226600,34.42671100,1 -93.97228700,34.42673200,1 -93.97230900,34.42675400,1 -93.97233000,34.42679600,1 -93.97235200,34.42679600,1 -93.97237300,34.42681800,1 -93.97239400,34.42683900,1 -93.97241600,34.42686100,1 -93.97243700,34.42688200,1 -93.97248000,34.42690400,1 -93.97250200,34.42694700,1 -93.97254500,34.42696800,1 -93.97256600,34.42699000,1 -93.97258800,34.42703200,1 -93.97263100,34.42703200,1 -93.97265200,34.42705400,1 -93.97267300,34.42709700,1 -93.97269500,34.42714000,1 -93.97271600,34.42714000,1 -93.97273800,34.42718300,1 -93.97275900,34.42722600,1 -93.97278100,34.42726900,1 -93.97280200,34.42731100,1 -93.97282400,34.42733300,1 -93.97284500,34.42737600,1 -93.97286700,34.42739700,1 -93.97288800,34.42741900,1 -93.97290900,34.42744000,1 -93.97293100,34.42746200,1 -93.97293100,34.42748300,1 -93.97295200,34.42752600,1 -93.97297400,34.42756900,1 -93.97297400,34.42761200,1 -93.97299500,34.42765500,1 -93.97299500,34.42767600,1 -93.97299500,34.42769800,1 -93.97301700,34.42771900,1 -93.97301700,34.42774100,1 -93.97301700,34.42778300,1 -93.97301700,34.42780500,1 -93.97301700,34.42784800,1 -93.97301700,34.42789100,1 -93.97301700,34.42791200,1 -93.97299500,34.42795500,1 -93.97297400,34.42799800,1 -93.97297400,34.42802000,1 -93.97295200,34.42804100,1 -93.97293100,34.42806200,1 -93.97290900,34.42810500,1 -93.97288800,34.42812700,1 -93.97286700,34.42814800,1 -93.97284500,34.42817000,1 -93.97284500,34.42821300,1 -93.97282400,34.42823400,1 -93.97282400,34.42825600,1 -93.97280200,34.42829800,1 -93.97278100,34.42832000,1 -93.97275900,34.42834100,1 -93.97273800,34.42838400,1 -93.97271600,34.42840600,1 -93.97269500,34.42844900,1 -93.97267300,34.42847000,1 -93.97263100,34.42847000,1 -93.97260900,34.42849200,1 -93.97256600,34.42851300,1 -93.97254500,34.42853500,1 -93.97250200,34.42855600,1 -93.97248000,34.42857700,1 -93.97245900,34.42859900,1 -93.97245900,34.42864200,1 -93.97243700,34.42868500,1 -93.97243700,34.42872800,1 -93.97241600,34.42877100,1 -93.97241600,34.42879200,1 -93.97239400,34.42881300,1 -93.97239400,34.42883500,1 -93.97239400,34.42885600,1 -93.97239400,34.42889900,1 -93.97239400,34.42892100,1 -93.97241600,34.42894200,1 -93.97243700,34.42896400,1 -93.97245900,34.42898500,1 -93.97248000,34.42898500,1 -93.97252300,34.42902800,1 -93.97254500,34.42904900,1 -93.97256600,34.42907100,1 -93.97258800,34.42909200,1 -93.97263100,34.42911400,1 -93.97267300,34.42913500,1 -93.97269500,34.42913500,1 -93.97273800,34.42913500,1 -93.97278100,34.42915700,1 -93.97280200,34.42917800,1 -93.97284500,34.42917800,1 -93.97286700,34.42920000,1 -93.97290900,34.42922100,1 -93.97295200,34.42924300,1 -93.97297400,34.42926400,1 -93.97301700,34.42926400,1 -93.97306000,34.42928600,1 -93.97308100,34.42930700,1 -93.97310300,34.42932800,1 -93.97312400,34.42935000,1 -93.97316700,34.42935000,1 -93.97318800,34.42939300,1 -93.97323100,34.42939300,1 -93.97325300,34.42939300,1 -93.97329600,34.42945700,1 -93.97331700,34.42947900,1 -93.97336000,34.42947900,1 -93.97338200,34.42950000,1 -93.97342400,34.42950000,1 -93.97346700,34.42950000,1 -93.97348900,34.42950000,1 -93.97353200,34.42950000,1 -93.97355300,34.42950000,1 -93.97359600,34.42950000,1 -93.97361800,34.42950000,1 -93.97366000,34.42950000,1 -93.97368200,34.42952200,1 -93.97370300,34.42954300,1 -93.97376800,34.42956400,1 -93.97378900,34.42956400,1 -93.97383200,34.42956400,1 -93.97385400,34.42956400,1 -93.97389700,34.42956400,1 -93.97393900,34.42956400,1 -93.97396100,34.42958600,1 -93.97398200,34.42960700,1 -93.97400400,34.42962900,1 -93.97400400,34.42965000,1 -93.97402500,34.42967200,1 -93.97402500,34.42969300,1 -93.97402500,34.42971500,1 -93.97404700,34.42973600,1 -93.97404700,34.42977900,1 -93.97406800,34.42982200,1 -93.97406800,34.42986500,1 -93.97406800,34.42988600,1 -93.97409000,34.42992900,1 -93.97409000,34.42995100,1 -93.97409000,34.42999400,1 -93.97409000,34.43001500,1 -93.97409000,34.43003700,1 -93.97406800,34.43005800,1 -93.97406800,34.43010100,1 -93.97406800,34.43010100,1 -93.97404700,34.43014400,1 -93.97402500,34.43016500,1 -93.97402500,34.43018700,1 -93.97400400,34.43023000,1 -93.97400400,34.43025100,1 -93.97400400,34.43027300,1 -93.97400400,34.43031500,1 -93.97398200,34.43035800,1 -93.97398200,34.43040100,1 -93.97398200,34.43042300,1 -93.97398200,34.43044400,1 -93.97398200,34.43046600,1 -93.97396100,34.43050900,1 -93.97393900,34.43053000,1 -93.97391800,34.43055200,1 -93.97391800,34.43059400,1 -93.97389700,34.43061600,1 -93.97389700,34.43065900,1 -93.97387500,34.43068000,1 -93.97387500,34.43072300,1 -93.97387500,34.43076600,1 -93.97387500,34.43080900,1 -93.97389700,34.43085200,1 -93.97389700,34.43087300,1 -93.97387500,34.43091600,1 -93.97387500,34.43095900,1 -93.97387500,34.43100200,1 -93.97387500,34.43104500,1 -93.97387500,34.43108800,1 -93.97387500,34.43113100,1 -93.97387500,34.43117400,1 -93.97387500,34.43121700,1 -93.97387500,34.43126000,1 -93.97387500,34.43128100,1 -93.97387500,34.43132400,1 -93.97387500,34.43138800,1 -93.97387500,34.43141000,1 -93.97387500,34.43145300,1 -93.97389700,34.43149600,1 -93.97389700,34.43151700,1 -93.97389700,34.43156000,1 -93.97387500,34.43158200,1 -93.97387500,34.43164600,1 -93.97387500,34.43168900,1 -93.97389700,34.43171000,1 -93.97391800,34.43175300,1 -93.97393900,34.43177500,1 -93.97396100,34.43181800,1 -93.97398200,34.43183900,1 -93.97400400,34.43188200,1 -93.97400400,34.43192500,1 -93.97402500,34.43196800,1 -93.97404700,34.43198900,1 -93.97406800,34.43203200,1 -93.97406800,34.43207500,1 -93.97409000,34.43209600,1 -93.97411100,34.43213900,1 -93.97411100,34.43218200,1 -93.97411100,34.43220400,1 -93.97411100,34.43226800,1 -93.97409000,34.43231100,1 -93.97406800,34.43233300,1 -93.97406800,34.43235400,1 -93.97402500,34.43239700,1 -93.97398200,34.43241800,1 -93.97396100,34.43244000,1 -93.97393900,34.43248300,1 -93.97389700,34.43250400,1 -93.97387500,34.43254700,1 -93.97387500,34.43259000,1 -93.97385400,34.43265400,1 -93.97385400,34.43267600,1 -93.97383200,34.43271900,1 -93.97385400,34.43274000,1 -93.97385400,34.43278300,1 -93.97387500,34.43282600,1 -93.97389700,34.43284800,1 -93.97389700,34.43289000,1 -93.97391800,34.43291200,1 -93.97391800,34.43295500,1 -93.97393900,34.43299800,1 -93.97396100,34.43304100,1 -93.97396100,34.43306200,1 -93.97398200,34.43310500,1 -93.97400400,34.43312600,1 -93.97402500,34.43316900,1 -93.97402500,34.43319100,1 -93.97404700,34.43323400,1 -93.97404700,34.43325500,1 -93.97402500,34.43327700,1 -93.97400400,34.43332000,1 -93.97398200,34.43334100,1 -93.97396100,34.43338400,1 -93.97396100,34.43340500,1 -93.97391800,34.43342700,1 -93.97389700,34.43342700,1 -93.97387500,34.43344800,1 -93.97385400,34.43349100,1 -93.97383200,34.43349100,1 -93.97378900,34.43353400,1 -93.97376800,34.43355600,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Orange</name>
+<Style id="Orange">
+<LineStyle>
+<color>ff2068ff</color>
+<width>3.8</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Viles-Brnch-3</name>
+<styleUrl>#Orange</styleUrl>
+<LineString>
+<coordinates>-93.96436900,34.35390500,1 -93.96441200,34.35386200,1 -93.96445500,34.35384000,1 -93.96447700,34.35381900,1 -93.96452000,34.35379700,1 -93.96456200,34.35377600,1 -93.96460500,34.35375500,1 -93.96464800,34.35371200,1 -93.96469100,34.35369000,1 -93.96471300,34.35364700,1 -93.96475600,34.35362600,1 -93.96479800,34.35360400,1 -93.96484100,34.35358300,1 -93.96486300,34.35356100,1 -93.96490600,34.35356100,1 -93.96494900,34.35354000,1 -93.96503400,34.35354000,1 -93.96507700,34.35351800,1 -93.96512000,34.35351800,1 -93.96516300,34.35351800,1 -93.96520600,34.35349700,1 -93.96524900,34.35349700,1 -93.96529200,34.35347600,1 -93.96535600,34.35345400,1 -93.96537800,34.35345400,1 -93.96544200,34.35343300,1 -93.96548500,34.35341100,1 -93.96554900,34.35341100,1 -93.96559200,34.35339000,1 -93.96561400,34.35336800,1 -93.96567800,34.35334700,1 -93.96570000,34.35332500,1 -93.96576400,34.35330400,1 -93.96585000,34.35326100,1 -93.96593600,34.35326100,1 -93.96606400,34.35319700,1 -93.96615000,34.35317500,1 -93.96619300,34.35315400,1 -93.96625800,34.35315400,1 -93.96630000,34.35315400,1 -93.96651500,34.35315400,1 -93.96655800,34.35315400,1 -93.96660100,34.35315400,1 -93.96664400,34.35315400,1 -93.96668700,34.35317500,1 -93.96673000,34.35319700,1 -93.96675100,34.35321800,1 -93.96679400,34.35324000,1 -93.96683700,34.35326100,1 -93.96688000,34.35328200,1 -93.96690100,34.35330400,1 -93.96694400,34.35332500,1 -93.96698700,34.35334700,1 -93.96700900,34.35339000,1 -93.96703000,34.35341100,1 -93.96705200,34.35343300,1 -93.96707300,34.35347600,1 -93.96711600,34.35349700,1 -93.96713700,34.35351800,1 -93.96718000,34.35356100,1 -93.96722300,34.35358300,1 -93.96726600,34.35360400,1 -93.96730900,34.35362600,1 -93.96733000,34.35364700,1 -93.96737300,34.35366900,1 -93.96741600,34.35369000,1 -93.96743800,34.35371200,1 -93.96748100,34.35373300,1 -93.96752400,34.35375500,1 -93.96754500,34.35377600,1 -93.96758800,34.35381900,1 -93.96763100,34.35384000,1 -93.96765200,34.35386200,1 -93.96769500,34.35388300,1 -93.96771700,34.35390500,1 -93.96773800,34.35390500,1 -93.96778100,34.35392600,1 -93.96782400,34.35394800,1 -93.96786700,34.35396900,1 -93.96791000,34.35396900,1 -93.96795300,34.35399100,1 -93.96797400,34.35401200,1 -93.96801700,34.35401200,1 -93.96806000,34.35401200,1 -93.96810300,34.35401200,1 -93.96814600,34.35403300,1 -93.96818900,34.35405500,1 -93.96821000,34.35405500,1 -93.96825300,34.35407600,1 -93.96829600,34.35407600,1 -93.96833900,34.35407600,1 -93.96838200,34.35409800,1 -93.96842500,34.35409800,1 -93.96848900,34.35409800,1 -93.96853200,34.35409800,1 -93.96859600,34.35409800,1 -93.96863900,34.35411900,1 -93.96868200,34.35411900,1 -93.96872500,34.35411900,1 -93.96876800,34.35411900,1 -93.96883300,34.35411900,1 -93.96887500,34.35411900,1 -93.96894000,34.35411900,1 -93.96898300,34.35411900,1 -93.96902600,34.35411900,1 -93.96911100,34.35409800,1 -93.96915400,34.35409800,1 -93.96919700,34.35409800,1 -93.96924000,34.35409800,1 -93.96930500,34.35407600,1 -93.96934700,34.35407600,1 -93.96939000,34.35405500,1 -93.96943300,34.35403300,1 -93.96949800,34.35401200,1 -93.96954100,34.35399100,1 -93.96958400,34.35396900,1 -93.96960500,34.35394800,1 -93.96964800,34.35392600,1 -93.96966900,34.35390500,1 -93.96971200,34.35388300,1 -93.96984100,34.35386200,1 -93.96988400,34.35388300,1 -93.96992700,34.35388300,1 -93.96994800,34.35392600,1 -93.96999100,34.35394800,1 -93.97003400,34.35396900,1 -93.97007700,34.35399100,1 -93.97012000,34.35399100,1 -93.97016300,34.35401200,1 -93.97020600,34.35401200,1 -93.97024900,34.35403300,1 -93.97031300,34.35403300,1 -93.97035600,34.35403300,1 -93.97039900,34.35403300,1 -93.97044200,34.35403300,1 -93.97048500,34.35403300,1 -93.97052800,34.35401200,1 -93.97059200,34.35399100,1 -93.97061300,34.35399100,1 -93.97065600,34.35399100,1 -93.97072100,34.35396900,1 -93.97078500,34.35396900,1 -93.97082800,34.35396900,1 -93.97089200,34.35396900,1 -93.97091400,34.35396900,1 -93.97095700,34.35396900,1 -93.97100000,34.35396900,1 -93.97106400,34.35399100,1 -93.97110700,34.35399100,1 -93.97115000,34.35399100,1 -93.97119300,34.35399100,1 -93.97121400,34.35401200,1 -93.97125700,34.35401200,1 -93.97130000,34.35401200,1 -93.97132200,34.35403300,1 -93.97136500,34.35403300,1 -93.97138600,34.35403300,1 -93.97142900,34.35403300,1 -93.97147200,34.35405500,1 -93.97151500,34.35407600,1 -93.97155800,34.35407600,1 -93.97162200,34.35409800,1 -93.97164300,34.35411900,1 -93.97168600,34.35411900,1 -93.97172900,34.35414100,1 -93.97177200,34.35416200,1 -93.97181500,34.35418400,1 -93.97185800,34.35420500,1 -93.97190100,34.35422700,1 -93.97194400,34.35427000,1 -93.97196500,34.35429100,1 -93.97198700,34.35433400,1 -93.97198700,34.35435500,1 -93.97200800,34.35439800,1 -93.97203000,34.35442000,1 -93.97203000,34.35446300,1 -93.97207300,34.35448400,1 -93.97209400,34.35452700,1 -93.97211600,34.35454800,1 -93.97213700,34.35459100,1 -93.97215800,34.35463400,1 -93.97215800,34.35467700,1 -93.97215800,34.35472000,1 -93.97218000,34.35476300,1 -93.97218000,34.35480600,1 -93.97220100,34.35482700,1 -93.97222300,34.35487000,1 -93.97224400,34.35491300,1 -93.97226600,34.35495600,1 -93.97228700,34.35497800,1 -93.97233000,34.35502100,1 -93.97235200,34.35504200,1 -93.97241600,34.35506300,1 -93.97245900,34.35508500,1 -93.97250200,34.35508500,1 -93.97254500,34.35508500,1 -93.97260900,34.35508500,1 -93.97267300,34.35508500,1 -93.97269500,34.35506300,1 -93.97273800,34.35506300,1 -93.97278100,34.35506300,1 -93.97280200,34.35504200,1 -93.97286700,34.35504200,1 -93.97290900,34.35502100,1 -93.97295200,34.35499900,1 -93.97299500,34.35497800,1 -93.97301700,34.35493500,1 -93.97306000,34.35489200,1 -93.97316700,34.35478400,1 -93.97318800,34.35476300,1 -93.97323100,34.35474200,1 -93.97325300,34.35472000,1 -93.97327400,34.35469900,1 -93.97329600,34.35465600,1 -93.97333900,34.35463400,1 -93.97336000,34.35463400,1 -93.97338200,34.35461300,1 -93.97342400,34.35459100,1 -93.97344600,34.35457000,1 -93.97348900,34.35454800,1 -93.97353200,34.35452700,1 -93.97357500,34.35452700,1 -93.97359600,34.35450600,1 -93.97366000,34.35448400,1 -93.97370300,34.35448400,1 -93.97374600,34.35446300,1 -93.97381100,34.35446300,1 -93.97383200,34.35444100,1 -93.97387500,34.35444100,1 -93.97391800,34.35444100,1 -93.97396100,34.35444100,1 -93.97402500,34.35444100,1 -93.97406800,34.35444100,1 -93.97411100,34.35444100,1 -93.97415400,34.35442000,1 -93.97419700,34.35442000,1 -93.97426100,34.35442000,1 -93.97430400,34.35442000,1 -93.97434700,34.35442000,1 -93.97439000,34.35442000,1 -93.97443300,34.35442000,1 -93.97447600,34.35442000,1 -93.97449700,34.35442000,1 -93.97456200,34.35446300,1 -93.97458300,34.35448400,1 -93.97462600,34.35448400,1 -93.97469000,34.35450600,1 -93.97473300,34.35452700,1 -93.97477600,34.35452700,1 -93.97484100,34.35454800,1 -93.97488400,34.35454800,1 -93.97492600,34.35457000,1 -93.97496900,34.35459100,1 -93.97501200,34.35461300,1 -93.97507700,34.35463400,1 -93.97509800,34.35465600,1 -93.97514100,34.35467700,1 -93.97518400,34.35469900,1 -93.97520500,34.35472000,1 -93.97522700,34.35474200,1 -93.97524800,34.35476300,1 -93.97529100,34.35480600,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Athns-Bg frk-6</name>
+<styleUrl>#Orange</styleUrl>
+<LineString>
+<coordinates>-93.97198700,34.41536000,1 -93.97198700,34.41531700,1 -93.97198700,34.41529500,1 -93.97198700,34.41527400,1 -93.97198700,34.41523100,1 -93.97200800,34.41520900,1 -93.97200800,34.41516600,1 -93.97200800,34.41514500,1 -93.97198700,34.41510200,1 -93.97196500,34.41508100,1 -93.97194400,34.41503800,1 -93.97192200,34.41499500,1 -93.97192200,34.41495200,1 -93.97190100,34.41493000,1 -93.97190100,34.41488700,1 -93.97187900,34.41486600,1 -93.97187900,34.41482300,1 -93.97187900,34.41478000,1 -93.97187900,34.41473700,1 -93.97187900,34.41471600,1 -93.97187900,34.41469400,1 -93.97185800,34.41465100,1 -93.97185800,34.41463000,1 -93.97183700,34.41458700,1 -93.97181500,34.41452300,1 -93.97179400,34.41450100,1 -93.97179400,34.41445800,1 -93.97177200,34.41443700,1 -93.97175100,34.41441500,1 -93.97172900,34.41437200,1 -93.97170800,34.41435100,1 -93.97168600,34.41430800,1 -93.97166500,34.41428700,1 -93.97164300,34.41424400,1 -93.97160100,34.41422200,1 -93.97157900,34.41420100,1 -93.97153600,34.41417900,1 -93.97151500,34.41415800,1 -93.97145000,34.41413600,1 -93.97142900,34.41409300,1 -93.97138600,34.41407200,1 -93.97136500,34.41405100,1 -93.97134300,34.41400800,1 -93.97130000,34.41398600,1 -93.97127900,34.41394300,1 -93.97125700,34.41392200,1 -93.97123600,34.41390000,1 -93.97121400,34.41387900,1 -93.97119300,34.41383600,1 -93.97117100,34.41381500,1 -93.97115000,34.41377200,1 -93.97112800,34.41375000,1 -93.97108600,34.41370700,1 -93.97106400,34.41368600,1 -93.97104300,34.41364300,1 -93.97102100,34.41362100,1 -93.97100000,34.41360000,1 -93.97097800,34.41355700,1 -93.97095700,34.41353600,1 -93.97093500,34.41351400,1 -93.97091400,34.41349300,1 -93.97089200,34.41347100,1 -93.97085000,34.41345000,1 -93.97080700,34.41340700,1 -93.97078500,34.41338500,1 -93.97074200,34.41336400,1 -93.97069900,34.41334200,1 -93.97065600,34.41334200,1 -93.97063500,34.41332100,1 -93.97061300,34.41327800,1 -93.97059200,34.41325700,1 -93.97059200,34.41321400,1 -93.97057100,34.41319200,1 -93.97057100,34.41314900,1 -93.97054900,34.41312800,1 -93.97052800,34.41310600,1 -93.97052800,34.41306400,1 -93.97052800,34.41304200,1 -93.97050600,34.41302100,1 -93.97048500,34.41299900,1 -93.97046300,34.41295600,1 -93.97044200,34.41293500,1 -93.97044200,34.41291300,1 -93.97042000,34.41289200,1 -93.97039900,34.41287000,1 -93.97039900,34.41282700,1 -93.97037700,34.41280600,1 -93.97035600,34.41276300,1 -93.97035600,34.41272000,1 -93.97033500,34.41269900,1 -93.97031300,34.41265600,1 -93.97027000,34.41263400,1 -93.97024900,34.41259100,1 -93.97022700,34.41257000,1 -93.97020600,34.41252700,1 -93.97018400,34.41248400,1 -93.97018400,34.41244100,1 -93.97016300,34.41239800,1 -93.97012000,34.41227000,1 -93.97012000,34.41224800,1 -93.97016300,34.41224800,1 -93.97020600,34.41224800,1 -93.97020600,34.41220500,1 -93.97018400,34.41218400,1 -93.97018400,34.41214100,1 -93.97016300,34.41209800,1 -93.97018400,34.41205500,1 -93.97020600,34.41201200,1 -93.97022700,34.41196900,1 -93.97022700,34.41192600,1 -93.97020600,34.41188300,1 -93.97024900,34.41177600,1 -93.97029200,34.41173300,1 -93.97029200,34.41171200,1 -93.97033500,34.41169000,1 -93.97035600,34.41166900,1 -93.97037700,34.41162600,1 -93.97039900,34.41160400,1 -93.97042000,34.41156100,1 -93.97044200,34.41154000,1 -93.97046300,34.41149700,1 -93.97048500,34.41143300,1 -93.97050600,34.41143300,1 -93.97050600,34.41141100,1 -93.97052800,34.41136800,1 -93.97052800,34.41134700,1 -93.97054900,34.41130400,1 -93.97059200,34.41130400,1 -93.97061300,34.41126100,1 -93.97063500,34.41124000,1 -93.97067800,34.41121800,1 -93.97069900,34.41119700,1 -93.97069900,34.41115400,1 -93.97069900,34.41111100,1 -93.97069900,34.41106800,1 -93.97072100,34.41104700,1 -93.97072100,34.41102500,1 -93.97072100,34.41098200,1 -93.97072100,34.41096100,1 -93.97074200,34.41093900,1 -93.97074200,34.41089600,1 -93.97074200,34.41085300,1 -93.97072100,34.41083200,1 -93.97072100,34.41081000,1 -93.97072100,34.41078900,1 -93.97072100,34.41076800,1 -93.97076400,34.41074600,1 -93.97080700,34.41072500,1 -93.97080700,34.41068200,1 -93.97082800,34.41068200,1 -93.97082800,34.41063900,1 -93.97087100,34.41061700,1 -93.97089200,34.41059600,1 -93.97091400,34.41059600,1 -93.97095700,34.41057400,1 -93.97097800,34.41055300,1 -93.97100000,34.41055300,1 -93.97102100,34.41053200,1 -93.97100000,34.41051000,1 -93.97100000,34.41048900,1 -93.97097800,34.41044600,1 -93.97089200,34.41038100,1 -93.97087100,34.41033800,1 -93.97087100,34.41029500,1 -93.97087100,34.41027400,1 -93.97087100,34.41025300,1 -93.97087100,34.41021000,1 -93.97087100,34.41018800,1 -93.97087100,34.41016700,1 -93.97087100,34.41010200,1 -93.97089200,34.41005900,1 -93.97089200,34.41003800,1 -93.97089200,34.40999500,1 -93.97089200,34.40995200,1 -93.97091400,34.40993100,1 -93.97091400,34.40990900,1 -93.97093500,34.40986600,1 -93.97093500,34.40984500,1 -93.97095700,34.40982300,1 -93.97095700,34.40980200,1 -93.97097800,34.40975900,1 -93.97100000,34.40973800,1 -93.97102100,34.40971600,1 -93.97102100,34.40967300,1 -93.97104300,34.40965200,1 -93.97106400,34.40960900,1 -93.97108600,34.40960900,1 -93.97110700,34.40956600,1 -93.97112800,34.40952300,1 -93.97115000,34.40950200,1 -93.97117100,34.40945900,1 -93.97119300,34.40943700,1 -93.97121400,34.40941600,1 -93.97123600,34.40939400,1 -93.97125700,34.40935100,1 -93.97127900,34.40930800,1 -93.97130000,34.40926600,1 -93.97134300,34.40922300,1 -93.97136500,34.40920100,1 -93.97138600,34.40918000,1 -93.97142900,34.40915800,1 -93.97145000,34.40911500,1 -93.97145000,34.40909400,1 -93.97147200,34.40905100,1 -93.97149300,34.40900800,1 -93.97151500,34.40896500,1 -93.97153600,34.40894400,1 -93.97155800,34.40890100,1 -93.97157900,34.40885800,1 -93.97162200,34.40883600,1 -93.97164300,34.40883600,1 -93.97168600,34.40881500,1 -93.97170800,34.40879300,1 -93.97170800,34.40877200,1 -93.97172900,34.40875100,1 -93.97175100,34.40872900,1 -93.97177200,34.40870800,1 -93.97177200,34.40866500,1 -93.97179400,34.40864300,1 -93.97181500,34.40862200,1 -93.97183700,34.40860000,1 -93.97185800,34.40855700,1 -93.97187900,34.40855700,1 -93.97192200,34.40851500,1 -93.97194400,34.40849300,1 -93.97196500,34.40849300,1 -93.97200800,34.40847200,1 -93.97203000,34.40847200,1 -93.97207300,34.40845000,1 -93.97211600,34.40842900,1 -93.97213700,34.40840700,1 -93.97218000,34.40840700,1 -93.97222300,34.40838600,1 -93.97224400,34.40836400,1 -93.97226600,34.40832100,1 -93.97228700,34.40830000,1 -93.97230900,34.40825700,1 -93.97233000,34.40825700,1 -93.97235200,34.40821400,1 -93.97239400,34.40819300,1 -93.97241600,34.40815000,1 -93.97243700,34.40812800,1 -93.97245900,34.40808500,1 -93.97248000,34.40804200,1 -93.97250200,34.40800000,1 -93.97252300,34.40797800,1 -93.97254500,34.40795700,1 -93.97258800,34.40791400,1 -93.97260900,34.40789200,1 -93.97265200,34.40787100,1 -93.97267300,34.40782800,1 -93.97271600,34.40780600,1 -93.97275900,34.40778500,1 -93.97280200,34.40776300,1 -93.97282400,34.40776300,1 -93.97286700,34.40776300,1 -93.97290900,34.40774200,1 -93.97295200,34.40772100,1 -93.97301700,34.40772100,1 -93.97306000,34.40769900,1 -93.97312400,34.40769900,1 -93.97316700,34.40767800,1 -93.97318800,34.40763500,1 -93.97323100,34.40763500,1 -93.97325300,34.40761300,1 -93.97329600,34.40759200,1 -93.97331700,34.40757000,1 -93.97336000,34.40752700,1 -93.97340300,34.40750600,1 -93.97342400,34.40748500,1 -93.97346700,34.40746300,1 -93.97351000,34.40744200,1 -93.97355300,34.40739900,1 -93.97355300,34.40737700,1 -93.97357500,34.40733400,1 -93.97359600,34.40727000,1 -93.97361800,34.40722700,1 -93.97363900,34.40718400,1 -93.97363900,34.40714100,1 -93.97366000,34.40709800,1 -93.97368200,34.40707700,1 -93.97368200,34.40705500,1 -93.97370300,34.40701200,1 -93.97372500,34.40697000,1 -93.97374600,34.40692700,1 -93.97376800,34.40688400,1 -93.97378900,34.40684100,1 -93.97381100,34.40677600,1 -93.97389700,34.40669100,1 -93.97389700,34.40664800,1 -93.97389700,34.40660500,1 -93.97391800,34.40658300,1 -93.97391800,34.40651900,1 -93.97391800,34.40647600,1 -93.97391800,34.40645500,1 -93.97391800,34.40643300,1 -93.97391800,34.40639000,1 -93.97391800,34.40634700,1 -93.97391800,34.40632600,1 -93.97391800,34.40626100,1 -93.97391800,34.40624000,1 -93.97391800,34.40619700,1 -93.97389700,34.40615400,1 -93.97389700,34.40611100,1 -93.97389700,34.40606800,1 -93.97387500,34.40604700,1 -93.97387500,34.40600400,1 -93.97385400,34.40596100,1 -93.97385400,34.40591800,1 -93.97385400,34.40587500,1 -93.97383200,34.40585400,1 -93.97383200,34.40581100,1 -93.97383200,34.40576800,1 -93.97381100,34.40572500,1 -93.97378900,34.40570400,1 -93.97378900,34.40566100,1 -93.97376800,34.40563900,1 -93.97374600,34.40559600,1 -93.97372500,34.40555300,1 -93.97370300,34.40551000,1 -93.97368200,34.40548900,1 -93.97366000,34.40544600,1 -93.97366000,34.40542500,1 -93.97363900,34.40538200,1 -93.97361800,34.40533900,1 -93.97361800,34.40531700,1 -93.97359600,34.40525300,1 -93.97359600,34.40523100,1 -93.97357500,34.40518900,1 -93.97357500,34.40514600,1 -93.97357500,34.40510300,1 -93.97355300,34.40503800,1 -93.97355300,34.40499500,1 -93.97357500,34.40495300,1 -93.97357500,34.40491000,1 -93.97359600,34.40488800,1 -93.97361800,34.40484500,1 -93.97361800,34.40482400,1 -93.97361800,34.40480200,1 -93.97366000,34.40475900,1 -93.97368200,34.40469500,1 -93.97368200,34.40463100,1 -93.97368200,34.40460900,1 -93.97368200,34.40458800,1 -93.97368200,34.40456600,1 -93.97368200,34.40452300,1 -93.97366000,34.40448000,1 -93.97363900,34.40441600,1 -93.97361800,34.40437300,1 -93.97359600,34.40435200,1 -93.97357500,34.40430900,1 -93.97355300,34.40426600,1 -93.97353200,34.40424400,1 -93.97351000,34.40420200,1 -93.97348900,34.40418000,1 -93.97346700,34.40415900,1 -93.97344600,34.40413700,1 -93.97342400,34.40409400,1 -93.97340300,34.40403000,1 -93.97338200,34.40398700,1 -93.97338200,34.40396500,1 -93.97336000,34.40392300,1 -93.97333900,34.40388000,1 -93.97333900,34.40385800,1 -93.97331700,34.40381500,1 -93.97331700,34.40377200,1 -93.97331700,34.40372900,1 -93.97329600,34.40370800,1 -93.97329600,34.40368700,1 -93.97329600,34.40364400,1 -93.97327400,34.40362200,1 -93.97327400,34.40357900,1 -93.97325300,34.40355800,1 -93.97325300,34.40353600,1 -93.97325300,34.40349300,1 -93.97323100,34.40345000,1 -93.97323100,34.40342900,1 -93.97321000,34.40338600,1 -93.97321000,34.40334300,1 -93.97318800,34.40330000,1 -93.97316700,34.40325700,1 -93.97316700,34.40323600,1 -93.97314500,34.40319300,1 -93.97314500,34.40317200,1 -93.97312400,34.40312900,1 -93.97308100,34.40310700,1 -93.97306000,34.40308600,1 -93.97301700,34.40304300,1 -93.97297400,34.40302100,1 -93.97290900,34.40300000,1 -93.97284500,34.40297800,1 -93.97282400,34.40295700,1 -93.97280200,34.40293600,1 -93.97278100,34.40291400,1 -93.97275900,34.40289300,1 -93.97273800,34.40287100,1 -93.97271600,34.40282800,1 -93.97269500,34.40280700,1 -93.97265200,34.40278500,1 -93.97263100,34.40276400,1 -93.97260900,34.40274200,1 -93.97258800,34.40272100,1 -93.97256600,34.40267800,1 -93.97254500,34.40265700,1 -93.97252300,34.40263500,1 -93.97250200,34.40259200,1 -93.97248000,34.40259200,1 -93.97245900,34.40254900,1 -93.97243700,34.40252800,1 -93.97243700,34.40248500,1 -93.97241600,34.40244200,1 -93.97241600,34.40239900,1 -93.97241600,34.40237800,1 -93.97239400,34.40233500,1 -93.97239400,34.40231300,1 -93.97237300,34.40229200,1 -93.97237300,34.40224900,1 -93.97235200,34.40222700,1 -93.97230900,34.40220600,1 -93.97226600,34.40220600,1 -93.97224400,34.40216300,1 -93.97222300,34.40216300,1 -93.97218000,34.40214200,1 -93.97215800,34.40212000,1 -93.97213700,34.40209900,1 -93.97209400,34.40207700,1 -93.97207300,34.40205600,1 -93.97207300,34.40203400,1 -93.97203000,34.40199100,1 -93.97200800,34.40197000,1 -93.97198700,34.40194800,1 -93.97196500,34.40192700,1 -93.97196500,34.40190600,1 -93.97194400,34.40186300,1 -93.97192200,34.40184100,1 -93.97190100,34.40179800,1 -93.97187900,34.40177700,1 -93.97185800,34.40173400,1 -93.97185800,34.40169100,1 -93.97181500,34.40162700,1 -93.97179400,34.40162700,1 -93.97177200,34.40158400,1 -93.97177200,34.40156200,1 -93.97175100,34.40151900,1 -93.97172900,34.40149800,1 -93.97172900,34.40147600,1 -93.97170800,34.40143300,1 -93.97170800,34.40141200,1 -93.97168600,34.40136900,1 -93.97168600,34.40134800,1 -93.97166574,34.40130710,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>LiL-missori-4</name>
+<styleUrl>#Orange</styleUrl>
+<LineString>
+<coordinates>-93.87842000,34.37557747,1 -93.88011500,34.37538437,1 -93.88279700,34.37555637,1 -93.88427800,34.37471937,1 -93.88580100,34.37476237,1 -93.88708900,34.37497647,1 -93.88846200,34.37409647,1 -93.88867700,34.37306637,1 -93.89123000,34.37341037,1 -93.89417000,34.37313147,1 -93.89487800,34.37203647,1 -93.89599400,34.36901137,1 -93.89646600,34.36791737,1 -93.89659500,34.36613637,1 -93.89768900,34.36523447,1 -93.89893300,34.36493447,1 -93.89966300,34.36401147,1 -93.90106800,34.36414037,1 -93.90114400,34.36414037,1 -93.90131500,34.36420447,1 -93.90131500,34.36420447,1 -93.90138000,34.36416147,1 -93.90138000,34.36416147,1 -93.90146500,34.36411937,1 -93.90155100,34.36407637,1 -93.90155100,34.36407637,1 -93.90163700,34.36399037,1 -93.90165900,34.36399037,1 -93.90168000,34.36396847,1 -93.90168000,34.36392547,1 -93.90170200,34.36388347,1 -93.90170200,34.36386137,1 -93.90170200,34.36381837,1 -93.90172300,34.36379747,1 -93.90172300,34.36375447,1 -93.90172300,34.36373237,1 -93.90174400,34.36368937,1 -93.90174400,34.36364737,1 -93.90176600,34.36362547,1 -93.90174400,34.36338937,1 -93.90174400,34.36336847,1 -93.90174400,34.36334637,1 -93.90174400,34.36332547,1 -93.90174400,34.36330337,1 -93.90172300,34.36326037,1 -93.90172300,34.36323947,1 -93.90170200,34.36319647,1 -93.90168000,34.36317437,1 -93.90165900,34.36313237,1 -93.90163700,34.36311047,1 -93.90161600,34.36308937,1 -93.90159400,34.36306747,1 -93.90159400,34.36302447,1 -93.90159400,34.36298147,1 -93.90157300,34.36296037,1 -93.90159400,34.36291737,1 -93.90161600,34.36289547,1 -93.90161600,34.36287437,1 -93.90163700,34.36283137,1 -93.90168000,34.36278837,1 -93.90170200,34.36274537,1 -93.90174400,34.36272437,1 -93.90176600,34.36268137,1 -93.90180900,34.36265947,1 -93.90183000,34.36263837,1 -93.90185200,34.36259537,1 -93.90187300,34.36255237,1 -93.90189500,34.36253147,1 -93.90191600,34.36250937,1 -93.90193800,34.36246637,1 -93.90195900,34.36242337,1 -93.90198000,34.36238137,1 -93.90200200,34.36233837,1 -93.90202300,34.36229537,1 -93.90202300,34.36225237,1 -93.90204500,34.36223047,1 -93.90206600,34.36218747,1 -93.90208800,34.36216637,1 -93.90210900,34.36214447,1 -93.90213100,34.36208037,1 -93.90215200,34.36205947,1 -93.90217400,34.36201647,1 -93.90221700,34.36197347,1 -93.90221700,34.36193047,1 -93.90223800,34.36190837,1 -93.90223800,34.36186637,1 -93.90225890,34.36184447,1 -93.90228100,34.36182337,1 -93.90230190,34.36178037,1 -93.90232400,34.36175847,1 -93.90234490,34.36171547,1 -93.90238790,34.36169437,1 -93.90241000,34.36167247,1 -93.90243090,34.36165137,1 -93.90247390,34.36162947,1 -93.90249500,34.36160837,1 -93.90251690,34.36158747,1 -93.90256000,34.36154447,1 -93.90256000,34.36152237,1 -93.90260300,34.36147937,1 -93.90262400,34.36145847,1 -93.90264600,34.36141537,1 -93.90266700,34.36139337,1 -93.90268900,34.36135147,1 -93.90271000,34.36130847,1 -93.90271000,34.36128637,1 -93.90273100,34.36126547,1 -93.90275300,34.36122247,1 -93.90275300,34.36120037,1 -93.90277400,34.36117947,1 -93.90279600,34.36113647,1 -93.90281700,34.36109347,1 -93.90283900,34.36107237,1 -93.90286000,34.36105047,1 -93.90288200,34.36102937,1 -93.90290300,34.36098637,1 -93.90290300,34.36096447,1 -93.90292500,34.36092147,1 -93.90294600,34.36090037,1 -93.90296800,34.36085737,1 -93.90296800,34.36083647,1 -93.90298900,34.36081437,1 -93.90301000,34.36079347,1 -93.90303200,34.36077137,1 -93.90305300,34.36072837,1 -93.90307500,34.36070747,1 -93.90311800,34.36066447,1 -93.90313900,34.36064237,1 -93.90318200,34.36062147,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>Green</name>
+<Style id="Green">
+<LineStyle>
+<color>ff00ff00</color>
+<width>3.8</width>
+</LineStyle>
+<PolyStyle>
+<fill>0</fill>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Athns-Bg frk-5</name>
+<styleUrl>#Green</styleUrl>
+<LineString>
+<coordinates>-93.96355400,34.39021100,1 -93.96355400,34.39025400,1 -93.96357500,34.39027500,1 -93.96359700,34.39031800,1 -93.96359700,34.39034000,1 -93.96361800,34.39038300,1 -93.96361800,34.39042600,1 -93.96361800,34.39046900,1 -93.96361800,34.39051200,1 -93.96361800,34.39053300,1 -93.96359700,34.39057600,1 -93.96359700,34.39059700,1 -93.96357500,34.39064000,1 -93.96355400,34.39068300,1 -93.96355400,34.39070500,1 -93.96353200,34.39074800,1 -93.96353200,34.39076900,1 -93.96351100,34.39081200,1 -93.96349000,34.39083300,1 -93.96344700,34.39087600,1 -93.96340400,34.39089800,1 -93.96336100,34.39091900,1 -93.96336100,34.39096200,1 -93.96333900,34.39098400,1 -93.96331800,34.39104800,1 -93.96329600,34.39109100,1 -93.96329600,34.39113400,1 -93.96329600,34.39115500,1 -93.96329600,34.39117700,1 -93.96329600,34.39122000,1 -93.96331800,34.39124100,1 -93.96333900,34.39126300,1 -93.96336100,34.39128400,1 -93.96338200,34.39132700,1 -93.96340400,34.39134800,1 -93.96344700,34.39137000,1 -93.96346800,34.39139100,1 -93.96351100,34.39141300,1 -93.96353200,34.39143400,1 -93.96355400,34.39145600,1 -93.96359700,34.39145600,1 -93.96361800,34.39147700,1 -93.96364000,34.39149900,1 -93.96366100,34.39152000,1 -93.96370400,34.39154100,1 -93.96372600,34.39158400,1 -93.96374700,34.39160600,1 -93.96379000,34.39162700,1 -93.96381100,34.39164900,1 -93.96385400,34.39167000,1 -93.96387600,34.39167000,1 -93.96389700,34.39169200,1 -93.96391900,34.39171300,1 -93.96396200,34.39175600,1 -93.96398300,34.39175600,1 -93.96402600,34.39177800,1 -93.96406900,34.39179900,1 -93.96411200,34.39182000,1 -93.96413300,34.39184200,1 -93.96415500,34.39186300,1 -93.96419800,34.39188500,1 -93.96421900,34.39192800,1 -93.96424100,34.39194900,1 -93.96428300,34.39199200,1 -93.96430500,34.39201400,1 -93.96434800,34.39203500,1 -93.96439100,34.39205600,1 -93.96443400,34.39209900,1 -93.96445500,34.39212100,1 -93.96449800,34.39214200,1 -93.96452000,34.39216400,1 -93.96456200,34.39218500,1 -93.96458400,34.39220700,1 -93.96460500,34.39222800,1 -93.96464800,34.39225000,1 -93.96469100,34.39227100,1 -93.96471300,34.39227100,1 -93.96475600,34.39229300,1 -93.96477700,34.39231400,1 -93.96475600,34.39235700,1 -93.96475600,34.39240000,1 -93.96473400,34.39242100,1 -93.96471300,34.39244300,1 -93.96469100,34.39248600,1 -93.96467000,34.39252900,1 -93.96464800,34.39257100,1 -93.96464800,34.39259300,1 -93.96462700,34.39263600,1 -93.96462700,34.39267900,1 -93.96460500,34.39270000,1 -93.96460500,34.39272200,1 -93.96458400,34.39276500,1 -93.96458400,34.39280700,1 -93.96456200,34.39285000,1 -93.96456200,34.39287200,1 -93.96454100,34.39291500,1 -93.96452000,34.39295800,1 -93.96449800,34.39297900,1 -93.96447700,34.39300100,1 -93.96447700,34.39302200,1 -93.96445500,34.39306500,1 -93.96441200,34.39308600,1 -93.96439100,34.39310800,1 -93.96439100,34.39315100,1 -93.96436900,34.39317200,1 -93.96434800,34.39319400,1 -93.96432600,34.39323700,1 -93.96432600,34.39325800,1 -93.96430500,34.39334400,1 -93.96430500,34.39336500,1 -93.96430500,34.39340800,1 -93.96432600,34.39345100,1 -93.96432600,34.39347300,1 -93.96432600,34.39351600,1 -93.96432600,34.39353700,1 -93.96432600,34.39355900,1 -93.96434800,34.39360100,1 -93.96434800,34.39364400,1 -93.96436900,34.39366600,1 -93.96439100,34.39370900,1 -93.96441200,34.39375200,1 -93.96441200,34.39377300,1 -93.96441200,34.39381600,1 -93.96441200,34.39385900,1 -93.96441200,34.39390200,1 -93.96439100,34.39394500,1 -93.96439100,34.39396600,1 -93.96439100,34.39400900,1 -93.96439100,34.39405200,1 -93.96436900,34.39409500,1 -93.96434800,34.39411600,1 -93.96434800,34.39415900,1 -93.96432600,34.39418100,1 -93.96432600,34.39422400,1 -93.96432600,34.39426700,1 -93.96430500,34.39431000,1 -93.96428300,34.39433100,1 -93.96426200,34.39437400,1 -93.96424100,34.39441700,1 -93.96421900,34.39450300,1 -93.96419800,34.39456700,1 -93.96417600,34.39463100,1 -93.96415500,34.39465300,1 -93.96413300,34.39469600,1 -93.96411200,34.39471700,1 -93.96409000,34.39476000,1 -93.96406900,34.39478200,1 -93.96404700,34.39482500,1 -93.96402600,34.39486700,1 -93.96400500,34.39488900,1 -93.96396200,34.39491000,1 -93.96394000,34.39495300,1 -93.96391900,34.39497500,1 -93.96389700,34.39499600,1 -93.96385400,34.39503900,1 -93.96383300,34.39506100,1 -93.96381100,34.39510300,1 -93.96376800,34.39514600,1 -93.96376800,34.39518900,1 -93.96374700,34.39521100,1 -93.96370400,34.39523200,1 -93.96368300,34.39523200,1 -93.96366100,34.39525400,1 -93.96361800,34.39529700,1 -93.96359700,34.39531800,1 -93.96357500,34.39533900,1 -93.96355400,34.39538200,1 -93.96351100,34.39540400,1 -93.96349000,34.39542500,1 -93.96346800,34.39546800,1 -93.96349000,34.39549000,1 -93.96349000,34.39551100,1 -93.96353200,34.39555400,1 -93.96355400,34.39557600,1 -93.96359700,34.39559700,1 -93.96361800,34.39561800,1 -93.96368300,34.39568300,1 -93.96372600,34.39570400,1 -93.96374700,34.39572600,1 -93.96381100,34.39572600,1 -93.96383300,34.39574700,1 -93.96385400,34.39576900,1 -93.96391900,34.39579000,1 -93.96394000,34.39581200,1 -93.96400500,34.39583300,1 -93.96404700,34.39583300,1 -93.96411200,34.39585400,1 -93.96417600,34.39587600,1 -93.96421900,34.39589700,1 -93.96426200,34.39591900,1 -93.96430500,34.39591900,1 -93.96434800,34.39594000,1 -93.96436900,34.39596200,1 -93.96441200,34.39598300,1 -93.96445500,34.39600500,1 -93.96449800,34.39600500,1 -93.96454100,34.39602600,1 -93.96458400,34.39602600,1 -93.96462700,34.39604800,1 -93.96467000,34.39604800,1 -93.96471300,34.39606900,1 -93.96475600,34.39609100,1 -93.96479800,34.39609100,1 -93.96484100,34.39611200,1 -93.96488400,34.39613300,1 -93.96490600,34.39613300,1 -93.96494900,34.39615500,1 -93.96499200,34.39617600,1 -93.96501300,34.39617600,1 -93.96505600,34.39619800,1 -93.96509900,34.39621900,1 -93.96512000,34.39621900,1 -93.96516300,34.39624100,1 -93.96520600,34.39624100,1 -93.96522800,34.39626200,1 -93.96527100,34.39628400,1 -93.96531300,34.39630500,1 -93.96535600,34.39632700,1 -93.96537800,34.39634800,1 -93.96542100,34.39636900,1 -93.96546400,34.39639100,1 -93.96548500,34.39639100,1 -93.96552800,34.39641200,1 -93.96557100,34.39643400,1 -93.96559200,34.39645500,1 -93.96563500,34.39647700,1 -93.96567800,34.39652000,1 -93.96572100,34.39652000,1 -93.96574300,34.39654100,1 -93.96578600,34.39658400,1 -93.96580700,34.39662700,1 -93.96582800,34.39664800,1 -93.96585000,34.39669100,1 -93.96589300,34.39671300,1 -93.96591400,34.39675600,1 -93.96595700,34.39679900,1 -93.96597900,34.39684200,1 -93.96597900,34.39688400,1 -93.96600000,34.39690600,1 -93.96602200,34.39694900,1 -93.96604300,34.39699200,1 -93.96606400,34.39701300,1 -93.96608600,34.39705600,1 -93.96610700,34.39709900,1 -93.96612900,34.39712000,1 -93.96615000,34.39714200,1 -93.96617200,34.39718500,1 -93.96619300,34.39720600,1 -93.96621500,34.39724900,1 -93.96625800,34.39727100,1 -93.96627900,34.39731400,1 -93.96632200,34.39733500,1 -93.96632200,34.39735700,1 -93.96634300,34.39739900,1 -93.96636500,34.39742100,1 -93.96638600,34.39746400,1 -93.96642900,34.39748500,1 -93.96647200,34.39750700,1 -93.96651500,34.39752800,1 -93.96653700,34.39755000,1 -93.96657900,34.39757100,1 -93.96660100,34.39759300,1 -93.96664400,34.39761400,1 -93.96668700,34.39763500,1 -93.96670800,34.39765700,1 -93.96675100,34.39767800,1 -93.96679400,34.39770000,1 -93.96683700,34.39772100,1 -93.96685800,34.39774300,1 -93.96690100,34.39776400,1 -93.96692300,34.39776400,1 -93.96696600,34.39778600,1 -93.96700900,34.39780700,1 -93.96703000,34.39782900,1 -93.96709400,34.39782900,1 -93.96711600,34.39785000,1 -93.96715900,34.39785000,1 -93.96720200,34.39785000,1 -93.96724500,34.39785000,1 -93.96728800,34.39787100,1 -93.96733000,34.39787100,1 -93.96737300,34.39789300,1 -93.96741600,34.39789300,1 -93.96745900,34.39791400,1 -93.96750200,34.39791400,1 -93.96754500,34.39793600,1 -93.96756600,34.39795700,1 -93.96760900,34.39797900,1 -93.96767400,34.39797900,1 -93.96771700,34.39800000,1 -93.96776000,34.39802200,1 -93.96780300,34.39802200,1 -93.96784500,34.39804300,1 -93.96791000,34.39804300,1 -93.96795300,34.39806500,1 -93.96799600,34.39808600,1 -93.96803900,34.39808600,1 -93.96808100,34.39810800,1 -93.96812400,34.39810800,1 -93.96816700,34.39812900,1 -93.96821000,34.39815000,1 -93.96825300,34.39815000,1 -93.96829600,34.39817200,1 -93.96833900,34.39817200,1 -93.96838200,34.39819300,1 -93.96840300,34.39819300,1 -93.96844600,34.39821500,1 -93.96848900,34.39823600,1 -93.96853200,34.39823600,1 -93.96857500,34.39823600,1 -93.96861800,34.39825800,1 -93.96870400,34.39830100,1 -93.96879000,34.39827900,1 -93.96883300,34.39827900,1 -93.96885400,34.39830100,1 -93.96889700,34.39830100,1 -93.96894000,34.39832200,1 -93.96898300,34.39832200,1 -93.96902600,34.39834400,1 -93.96906900,34.39834400,1 -93.96909000,34.39836500,1 -93.96913300,34.39836500,1 -93.96917600,34.39838600,1 -93.96921900,34.39840800,1 -93.96924000,34.39842900,1 -93.96928300,34.39845100,1 -93.96934700,34.39847200,1 -93.96936900,34.39849400,1 -93.96943300,34.39853700,1 -93.96947600,34.39855800,1 -93.96951900,34.39858000,1 -93.96956200,34.39860100,1 -93.96960500,34.39862300,1 -93.96964800,34.39864400,1 -93.96969100,34.39868700,1 -93.96971200,34.39870800,1 -93.96975500,34.39873000,1 -93.96979800,34.39875100,1 -93.96984100,34.39877300,1 -93.96986200,34.39879400,1 -93.96990500,34.39881600,1 -93.96994800,34.39881600,1 -93.96999100,34.39883700,1 -93.97003400,34.39883700,1 -93.97007700,34.39885900,1 -93.97009900,34.39888000,1 -93.97012000,34.39888000,1 -93.97016300,34.39890100,1 -93.97020600,34.39892300,1 -93.97027000,34.39896600,1 -93.97031300,34.39900900,1 -93.97037700,34.39903000,1 -93.97046300,34.39905200,1 -93.97052800,34.39909500,1 -93.97057100,34.39911600,1 -93.97059200,34.39915900,1 -93.97063500,34.39918000,1 -93.97067800,34.39920200,1 -93.97072100,34.39920200,1 -93.97076400,34.39922300,1 -93.97082800,34.39924500,1 -93.97087100,34.39926600,1 -93.97093500,34.39933100,1 -93.97100000,34.39935200,1 -93.97104300,34.39939500,1 -93.97110700,34.39943800,1 -93.97115000,34.39945900,1 -93.97119300,34.39950200,1 -93.97123600,34.39952400,1 -93.97127900,34.39956700,1 -93.97132200,34.39958800,1 -93.97136500,34.39961000,1 -93.97138600,34.39965200,1 -93.97142900,34.39969500,1 -93.97145000,34.39971700,1 -93.97147200,34.39976000,1 -93.97149300,34.39980300,1 -93.97151500,34.39984600,1 -93.97151500,34.39988900,1 -93.97149300,34.39997400,1 -93.97149300,34.39999600,1 -93.97151500,34.40001700,1 -93.97151500,34.40006000,1 -93.97153600,34.40010300,1 -93.97155800,34.40012500,1 -93.97157900,34.40012500,1 -93.97162200,34.40014600,1 -93.97164300,34.40014600,1 -93.97170800,34.40016700,1 -93.97172900,34.40016700,1 -93.97177200,34.40016700,1 -93.97181500,34.40016700,1 -93.97185800,34.40016700,1 -93.97190100,34.40018900,1 -93.97194400,34.40023200,1 -93.97196500,34.40025300,1 -93.97198700,34.40027500,1 -93.97203000,34.40029600,1 -93.97203000,34.40031800,1 -93.97207300,34.40036100,1 -93.97209400,34.40038200,1 -93.97213700,34.40040400,1 -93.97215800,34.40042500,1 -93.97218000,34.40046800,1 -93.97222300,34.40051100,1 -93.97222300,34.40053200,1 -93.97224400,34.40057500,1 -93.97228700,34.40059700,1 -93.97233000,34.40061800,1 -93.97237300,34.40064000,1 -93.97241600,34.40064000,1 -93.97245900,34.40066100,1 -93.97252300,34.40066100,1 -93.97256600,34.40070400,1 -93.97260900,34.40072500,1 -93.97265200,34.40074700,1 -93.97267300,34.40076800,1 -93.97269500,34.40081100,1 -93.97271600,34.40083300,1 -93.97273800,34.40085400,1 -93.97280200,34.40085400,1 -93.97290900,34.40089700,1 -93.97286700,34.40094000,1 -93.97282400,34.40094000,1 -93.97275900,34.40091800,1 -93.97273800,34.40089700,1 -93.97267300,34.40091800,1 -93.97263100,34.40091800,1 -93.97258800,34.40091800,1 -93.97252300,34.40091800,1 -93.97245900,34.40091800,1 -93.97239400,34.40087600,1 -93.97235200,34.40087600,1 -93.97228700,34.40089700,1 -93.97224400,34.40091800,1 -93.97220100,34.40096100,1 -93.97215800,34.40098300,1 -93.97211600,34.40100400,1 -93.97207300,34.40104700,1 -93.97200800,34.40106900,1 -93.97196500,34.40109000,1 -93.97190100,34.40111200,1 -93.97185800,34.40113300,1 -93.97181500,34.40115500,1 -93.97177200,34.40117600,1 -93.97172900,34.40119700,1 -93.97168600,34.40121900,1 -93.97166500,34.40124000,1 -93.97166500,34.40128300,1 -93.97166500,34.40130500,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Viles-Brnch-2</name>
+<styleUrl>#Green</styleUrl>
+<LineString>
+<coordinates>-93.94424200,34.35045000,1 -93.94430600,34.35049300,1 -93.94432800,34.35053600,1 -93.94437100,34.35055700,1 -93.94441400,34.35057900,1 -93.94445700,34.35062200,1 -93.94450000,34.35066500,1 -93.94452100,34.35068600,1 -93.94456400,34.35070800,1 -93.94460700,34.35072900,1 -93.94465000,34.35075000,1 -93.94467100,34.35077200,1 -93.94471400,34.35079300,1 -93.94477800,34.35083600,1 -93.94482100,34.35083600,1 -93.94484300,34.35085800,1 -93.94488600,34.35087900,1 -93.94492900,34.35087900,1 -93.94497200,34.35090100,1 -93.94501400,34.35092200,1 -93.94505700,34.35094400,1 -93.94510000,34.35096500,1 -93.94514300,34.35098600,1 -93.94518600,34.35100800,1 -93.94522900,34.35102900,1 -93.94527200,34.35105100,1 -93.94531500,34.35107200,1 -93.94533600,34.35109400,1 -93.94537900,34.35111500,1 -93.94542200,34.35115800,1 -93.94546500,34.35118000,1 -93.94548700,34.35120100,1 -93.94552900,34.35122300,1 -93.94557200,34.35126500,1 -93.94561500,34.35128700,1 -93.94565800,34.35130800,1 -93.94570100,34.35133000,1 -93.94574400,34.35135100,1 -93.94578700,34.35137300,1 -93.94583000,34.35139400,1 -93.94587300,34.35139400,1 -93.94589400,34.35141600,1 -93.94593700,34.35143700,1 -93.94598000,34.35143700,1 -93.94602300,34.35145900,1 -93.94608700,34.35145900,1 -93.94613000,34.35148000,1 -93.94617300,34.35150100,1 -93.94623800,34.35152300,1 -93.94628000,34.35156600,1 -93.94630200,34.35156600,1 -93.94634500,34.35158700,1 -93.94636600,34.35158700,1 -93.94640900,34.35160900,1 -93.94645200,34.35160900,1 -93.94649500,34.35163000,1 -93.94653800,34.35165200,1 -93.94658100,34.35167300,1 -93.94660200,34.35169500,1 -93.94666700,34.35169500,1 -93.94671000,34.35171600,1 -93.94675300,34.35173800,1 -93.94679500,34.35173800,1 -93.94686000,34.35175900,1 -93.94688100,34.35175900,1 -93.94692400,34.35175900,1 -93.94698900,34.35178000,1 -93.94703200,34.35178000,1 -93.94707400,34.35178000,1 -93.94713900,34.35175900,1 -93.94718200,34.35175900,1 -93.94722500,34.35175900,1 -93.94728900,34.35175900,1 -93.94735300,34.35175900,1 -93.94739600,34.35175900,1 -93.94743900,34.35173800,1 -93.94750400,34.35173800,1 -93.94754600,34.35173800,1 -93.94758900,34.35173800,1 -93.94763200,34.35173800,1 -93.94767500,34.35173800,1 -93.94771800,34.35173800,1 -93.94776100,34.35173800,1 -93.94782500,34.35173800,1 -93.94784700,34.35173800,1 -93.94791100,34.35173800,1 -93.94795400,34.35173800,1 -93.94801900,34.35173800,1 -93.94806100,34.35173800,1 -93.94810400,34.35173800,1 -93.94814700,34.35173800,1 -93.94819000,34.35171600,1 -93.94821200,34.35169500,1 -93.94823300,34.35167300,1 -93.94825500,34.35165200,1 -93.94829800,34.35163000,1 -93.94831900,34.35160900,1 -93.94834000,34.35158700,1 -93.94838300,34.35154400,1 -93.94842600,34.35152300,1 -93.94844800,34.35150100,1 -93.94846900,34.35148000,1 -93.94851200,34.35145900,1 -93.94853400,34.35141600,1 -93.94857600,34.35139400,1 -93.94859800,34.35139400,1 -93.94864100,34.35137300,1 -93.94868400,34.35137300,1 -93.94874800,34.35137300,1 -93.94881200,34.35137300,1 -93.94883400,34.35139400,1 -93.94885500,34.35143700,1 -93.94896300,34.35152300,1 -93.94900600,34.35152300,1 -93.94904900,34.35148000,1 -93.94907000,34.35141600,1 -93.94915600,34.35143700,1 -93.94917700,34.35143700,1 -93.94924200,34.35145900,1 -93.94928500,34.35148000,1 -93.94932700,34.35148000,1 -93.94937000,34.35150100,1 -93.94943500,34.35150100,1 -93.94945600,34.35150100,1 -93.94952100,34.35152300,1 -93.94956400,34.35152300,1 -93.94962800,34.35152300,1 -93.94967100,34.35152300,1 -93.94971400,34.35154400,1 -93.94975700,34.35154400,1 -93.94982100,34.35154400,1 -93.94986400,34.35154400,1 -93.94992800,34.35154400,1 -93.94997100,34.35154400,1 -93.95001400,34.35154400,1 -93.95007800,34.35154400,1 -93.95012100,34.35154400,1 -93.95016400,34.35154400,1 -93.95020700,34.35154400,1 -93.95025000,34.35154400,1 -93.95029300,34.35152300,1 -93.95035700,34.35150100,1 -93.95037900,34.35150100,1 -93.95042200,34.35150100,1 -93.95046500,34.35150100,1 -93.95050800,34.35148000,1 -93.95055100,34.35148000,1 -93.95059300,34.35145900,1 -93.95061500,34.35145900,1 -93.95065800,34.35145900,1 -93.95072200,34.35145900,1 -93.95076500,34.35145900,1 -93.95083000,34.35143700,1 -93.95087200,34.35145900,1 -93.95091500,34.35148000,1 -93.95093700,34.35150100,1 -93.95095800,34.35154400,1 -93.95098000,34.35154400,1 -93.95102300,34.35156600,1 -93.95113000,34.35152300,1 -93.95119400,34.35154400,1 -93.95123700,34.35154400,1 -93.95130200,34.35156600,1 -93.95132300,34.35158700,1 -93.95136600,34.35160900,1 -93.95140900,34.35163000,1 -93.95149500,34.35163000,1 -93.95155900,34.35165200,1 -93.95158100,34.35167300,1 -93.95164500,34.35167300,1 -93.95168800,34.35165200,1 -93.95190200,34.35158700,1 -93.95194500,34.35158700,1 -93.95198800,34.35160900,1 -93.95201000,34.35160900,1 -93.95216000,34.35163000,1 -93.95222400,34.35165200,1 -93.95228900,34.35165200,1 -93.95233200,34.35165200,1 -93.95239600,34.35165200,1 -93.95243900,34.35167300,1 -93.95250300,34.35167300,1 -93.95254600,34.35167300,1 -93.95258900,34.35169500,1 -93.95265300,34.35171600,1 -93.95269600,34.35173800,1 -93.95273900,34.35175900,1 -93.95280400,34.35178000,1 -93.95282500,34.35180200,1 -93.95286800,34.35182300,1 -93.95291100,34.35182300,1 -93.95295400,34.35184500,1 -93.95299700,34.35184500,1 -93.95304000,34.35186600,1 -93.95306100,34.35184500,1 -93.95310400,34.35184500,1 -93.95314700,34.35186600,1 -93.95319000,34.35186600,1 -93.95323300,34.35188800,1 -93.95329700,34.35188800,1 -93.95336200,34.35188800,1 -93.95340400,34.35188800,1 -93.95344700,34.35188800,1 -93.95351200,34.35188800,1 -93.95355500,34.35184500,1 -93.95359800,34.35184500,1 -93.95366200,34.35180200,1 -93.95374800,34.35178000,1 -93.95379100,34.35175900,1 -93.95385500,34.35175900,1 -93.95391900,34.35173800,1 -93.95398400,34.35173800,1 -93.95404800,34.35173800,1 -93.95409100,34.35173800,1 -93.95413400,34.35173800,1 -93.95419800,34.35173800,1 -93.95426300,34.35173800,1 -93.95432700,34.35173800,1 -93.95437000,34.35173800,1 -93.95443400,34.35175900,1 -93.95447700,34.35178000,1 -93.95454200,34.35178000,1 -93.95460600,34.35180200,1 -93.95464900,34.35182300,1 -93.95471300,34.35184500,1 -93.95475600,34.35186600,1 -93.95479900,34.35190900,1 -93.95484200,34.35195200,1 -93.95490600,34.35197400,1 -93.95494900,34.35199500,1 -93.95497100,34.35201600,1 -93.95501400,34.35203800,1 -93.95505700,34.35205900,1 -93.95514300,34.35205900,1 -93.95518500,34.35208100,1 -93.95522800,34.35208100,1 -93.95531400,34.35210200,1 -93.95535700,34.35210200,1 -93.95540000,34.35208100,1 -93.95552900,34.35203800,1 -93.95570000,34.35193100,1 -93.95574300,34.35190900,1 -93.95578600,34.35186600,1 -93.95585100,34.35184500,1 -93.95589400,34.35184500,1 -93.95595800,34.35184500,1 -93.95597900,34.35184500,1 -93.95604400,34.35184500,1 -93.95608700,34.35184500,1 -93.95613000,34.35184500,1 -93.95619400,34.35186600,1 -93.95625800,34.35186600,1 -93.95632300,34.35186600,1 -93.95649400,34.35190900,1 -93.95660200,34.35195200,1 -93.95666600,34.35193100,1 -93.95675200,34.35193100,1 -93.95677300,34.35193100,1 -93.95681600,34.35195200,1 -93.95683800,34.35197400,1 -93.95688100,34.35199500,1 -93.95690200,34.35201600,1 -93.95694500,34.35203800,1 -93.95698800,34.35205900,1 -93.95703100,34.35208100,1 -93.95705200,34.35208100,1 -93.95709500,34.35210200,1 -93.95713800,34.35212400,1 -93.95716000,34.35212400,1 -93.95718100,34.35214500,1 -93.95724500,34.35216700,1 -93.95726700,34.35218800,1 -93.95728800,34.35221000,1 -93.95733100,34.35223100,1 -93.95735300,34.35225200,1 -93.95739600,34.35227400,1 -93.95743800,34.35229500,1 -93.95748100,34.35229500,1 -93.95752400,34.35231700,1 -93.95756700,34.35233800,1 -93.95761000,34.35233800,1 -93.95765300,34.35236000,1 -93.95771700,34.35238100,1 -93.95776000,34.35238100,1 -93.95780300,34.35240300,1 -93.95786800,34.35242400,1 -93.95791100,34.35244600,1 -93.95795300,34.35244600,1 -93.95797500,34.35246700,1 -93.95801800,34.35248900,1 -93.95806100,34.35251000,1 -93.95808200,34.35253100,1 -93.95812500,34.35253100,1 -93.95818900,34.35255300,1 -93.95821100,34.35257400,1 -93.95827500,34.35259600,1 -93.95829700,34.35261700,1 -93.95834000,34.35263900,1 -93.95838300,34.35266000,1 -93.95842600,34.35268200,1 -93.95849000,34.35268200,1 -93.95853300,34.35270300,1 -93.95857600,34.35270300,1 -93.95864000,34.35270300,1 -93.95868300,34.35270300,1 -93.95872600,34.35270300,1 -93.95876900,34.35268200,1 -93.95883300,34.35268200,1 -93.95887600,34.35268200,1 -93.95889800,34.35268200,1 -93.95896200,34.35268200,1 -93.95900500,34.35266000,1 -93.95904800,34.35266000,1 -93.95911200,34.35266000,1 -93.95915500,34.35263900,1 -93.95919800,34.35263900,1 -93.95921900,34.35261700,1 -93.95926200,34.35261700,1 -93.95930500,34.35259600,1 -93.95934800,34.35257400,1 -93.95939100,34.35257400,1 -93.95943400,34.35257400,1 -93.95949800,34.35257400,1 -93.95954100,34.35257400,1 -93.95960600,34.35257400,1 -93.95964900,34.35257400,1 -93.95969200,34.35257400,1 -93.95973400,34.35257400,1 -93.95977700,34.35257400,1 -93.95982000,34.35259600,1 -93.95986300,34.35259600,1 -93.95992800,34.35259600,1 -93.95999200,34.35257400,1 -93.96005600,34.35255300,1 -93.96009900,34.35253100,1 -93.96014200,34.35253100,1 -93.96020700,34.35251000,1 -93.96024900,34.35251000,1 -93.96031400,34.35248900,1 -93.96035700,34.35246700,1 -93.96037800,34.35244600,1 -93.96042100,34.35244600,1 -93.96044300,34.35242400,1 -93.96048500,34.35240300,1 -93.96050700,34.35238100,1 -93.96055000,34.35236000,1 -93.96059300,34.35236000,1 -93.96063600,34.35233800,1 -93.96067900,34.35231700,1 -93.96072200,34.35229500,1 -93.96074300,34.35227400,1 -93.96078600,34.35225200,1 -93.96082900,34.35223100,1 -93.96087200,34.35221000,1 -93.96093600,34.35221000,1 -93.96100000,34.35218800,1 -93.96104300,34.35216700,1 -93.96110800,34.35216700,1 -93.96112900,34.35216700,1 -93.96117200,34.35214500,1 -93.96123600,34.35214500,1 -93.96127900,34.35214500,1 -93.96132200,34.35214500,1 -93.96138700,34.35214500,1 -93.96145100,34.35212400,1 -93.96151500,34.35214500,1 -93.96155800,34.35214500,1 -93.96160100,34.35216700,1 -93.96166600,34.35221000,1 -93.96173000,34.35223100,1 -93.96177300,34.35223100,1 -93.96181600,34.35227400,1 -93.96185900,34.35229500,1 -93.96190200,34.35231700,1 -93.96194500,34.35236000,1 -93.96196600,34.35238100,1 -93.96200900,34.35240300,1 -93.96203000,34.35244600,1 -93.96205200,34.35246700,1 -93.96207300,34.35251000,1 -93.96209500,34.35255300,1 -93.96209500,34.35259600,1 -93.96211600,34.35263900,1 -93.96211600,34.35268200,1 -93.96211600,34.35272500,1 -93.96211600,34.35276700,1 -93.96213800,34.35281000,1 -93.96213800,34.35283200,1 -93.96215900,34.35287500,1 -93.96218100,34.35291800,1 -93.96220200,34.35293900,1 -93.96222400,34.35298200,1 -93.96224500,34.35302500,1 -93.96226600,34.35304600,1 -93.96228800,34.35308900,1 -93.96230900,34.35311100,1 -93.96233100,34.35315400,1 -93.96235200,34.35319700,1 -93.96237400,34.35321800,1 -93.96239500,34.35326100,1 -93.96241700,34.35330400,1 -93.96243800,34.35332500,1 -93.96246000,34.35336800,1 -93.96248100,34.35341100,1 -93.96250200,34.35343300,1 -93.96252400,34.35347600,1 -93.96256700,34.35349700,1 -93.96258800,34.35354000,1 -93.96261000,34.35356100,1 -93.96265300,34.35360400,1 -93.96269600,34.35362600,1 -93.96271700,34.35366900,1 -93.96276000,34.35369000,1 -93.96280300,34.35371200,1 -93.96282400,34.35373300,1 -93.96284600,34.35373300,1 -93.96282400,34.35373300,1 -93.96284600,34.35375500,1 -93.96288900,34.35377600,1 -93.96295300,34.35381900,1 -93.96299600,34.35384000,1 -93.96303900,34.35384000,1 -93.96310300,34.35386200,1 -93.96314600,34.35388300,1 -93.96318900,34.35390500,1 -93.96323200,34.35390500,1 -93.96327500,34.35392600,1 -93.96331800,34.35394800,1 -93.96336100,34.35394800,1 -93.96340400,34.35396900,1 -93.96344700,34.35396900,1 -93.96349000,34.35399100,1 -93.96353200,34.35399100,1 -93.96355400,34.35401200,1 -93.96359700,34.35401200,1 -93.96364000,34.35403300,1 -93.96370400,34.35403300,1 -93.96374700,34.35403300,1 -93.96379000,34.35403300,1 -93.96383300,34.35401200,1 -93.96387600,34.35401200,1 -93.96391900,34.35399100,1 -93.96398300,34.35399100,1 -93.96404700,34.35399100,1 -93.96409000,34.35399100,1 -93.96411200,34.35401200,1 -93.96415500,34.35399100,1 -93.96421900,34.35399100,1 -93.96428300,34.35394800,1 -93.96432600,34.35392600,1 </coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>LiL-missori-3</name>
+<styleUrl>#Green</styleUrl>
+<LineString>
+<coordinates>-93.90850084,34.40694002,1 -93.90847339,34.40691627,1 -93.90837717,34.40690890,1 -93.90642987,34.40664270,1 -93.90641487,34.40664930,1 -93.90405477,34.40823740,1 -93.90201587,34.40765840,1 -93.90072877,34.40600540,1 -93.89868977,34.40555530,1 -93.89624377,34.40463230,1 -93.89474187,34.40426740,1 -93.89369087,34.40334540,1 -93.89306777,34.40167130,1 -93.89175877,34.40167130,1 -93.88922677,34.40132830,1 -93.88695277,34.40036230,1 -93.88663087,34.39931130,1 -93.88562287,34.39838830,1 -93.88446377,34.39787330,1 -93.88328377,34.39695030,1 -93.88302577,34.39514840,1 -93.88206077,34.39356030,1 -93.88115877,34.39253040,1 -93.88019377,34.39167230,1 -93.88002177,34.39064230,1 -93.87950677,34.38935440,1 -93.87916387,34.38738040,1 -93.87950677,34.38613630,1 -93.87903487,34.38506330,1 -93.87984977,34.38364730,1 -93.88180277,34.38341040,1 -93.88289677,34.38248830,1 -93.88420577,34.38248830,1 -93.88585877,34.38218740,1 -93.88727487,34.38113630,1 -93.88716777,34.37993440,1 -93.88660977,34.37862540,1 -93.88532187,34.37720930,1 -93.88532744,34.37721783,1 -93.88499566,34.37669719,1 -93.88453462,34.37629472,1 -93.88358683,34.37614826,1 -93.88249739,34.37597577,1 -93.88246476,34.37597600,1 -93.88083107,34.37576233,1 -93.88028701,34.37573919,1 -93.87842024,34.37558515,1 </coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>

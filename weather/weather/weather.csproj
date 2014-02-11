@@ -93,10 +93,10 @@
     <Content Include="Content\toastr.css.map">
       <DependentUpon>toastr.css</DependentUpon>
     </Content>
+    <Content Include="cta.kml" />
+    <Content Include="Eagle Rock Loop - Ouachita National Forest.kmz" />
     <Content Include="Eagle-Rock-Loop.kmz" />
     <Content Include="Glendale-Eagle-Rock-loop.kml" />
-    <Content Include="Eagle Rock Loop - Ouachita National Forest.kmz" />
-    <Content Include="cta.kml" />
     <Content Include="myplaces.kml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
