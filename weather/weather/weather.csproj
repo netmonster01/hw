@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\controllers\menuCtrl.js" />
+    <Content Include="app\directives\ngAutocomplete.js" />
     <Content Include="Content\compass.less" />
     <Content Include="Content\hw.less" />
     <Content Include="Content\toastr.less" />
@@ -67,8 +69,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="images\hiking.png" />
     <Content Include="Scripts\angular-animate.min.js.map" />
     <Content Include="Scripts\angular-cookies.min.js.map" />
+    <Content Include="Scripts\angular-google-maps.js" />
+    <Content Include="Scripts\angular-google-maps.min.js" />
     <Content Include="Scripts\angular-loader.min.js.map" />
     <Content Include="Scripts\angular-local-storage.min.js.map" />
     <Content Include="Scripts\angular-resource.min.js.map" />
@@ -79,6 +84,20 @@
     <Content Include="Scripts\errors.json" />
     <Content Include="Scripts\jquery-2.0.3.min.map" />
     <Content Include="Scripts\toastr.min.js.map" />
+    <Content Include="Content\compass.css.map">
+      <DependentUpon>compass.css</DependentUpon>
+    </Content>
+    <Content Include="Content\hw.css.map">
+      <DependentUpon>hw.css</DependentUpon>
+    </Content>
+    <Content Include="Content\toastr.css.map">
+      <DependentUpon>toastr.css</DependentUpon>
+    </Content>
+    <Content Include="Eagle-Rock-Loop.kmz" />
+    <Content Include="Glendale-Eagle-Rock-loop.kml" />
+    <Content Include="Eagle Rock Loop - Ouachita National Forest.kmz" />
+    <Content Include="cta.kml" />
+    <Content Include="myplaces.kml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -109,11 +128,15 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\compass.css" />
+    <Content Include="Content\compass.css">
+      <DependentUpon>compass.less</DependentUpon>
+    </Content>
     <Content Include="Content\compass.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
-    <Content Include="Content\hw.css" />
+    <Content Include="Content\hw.css">
+      <DependentUpon>hw.less</DependentUpon>
+    </Content>
     <Content Include="Content\hw.min.css" />
     <Content Include="Content\themes\base\images\animated-overlay.gif" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
@@ -177,7 +200,9 @@
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tooltip.min.css" />
-    <Content Include="Content\toastr.css" />
+    <Content Include="Content\toastr.css">
+      <DependentUpon>toastr.less</DependentUpon>
+    </Content>
     <Content Include="Content\toastr.min.css" />
     <Content Include="default.htm" />
     <Content Include="fonts\fontawesome-webfont.svg" />
@@ -215,10 +240,14 @@
     <Content Include="Scripts\toastr.js" />
     <Content Include="Scripts\toastr.min.js" />
     <Content Include="Scripts\ui-bootstrap-tpls-0.10.0.min.js" />
+    <Content Include="Scripts\underscore-min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="files\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

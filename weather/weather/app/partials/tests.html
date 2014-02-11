@@ -1,3 +1,47 @@
-﻿<div>
-    {{isSupported}}
-</div>
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>KML Layers</title>
+    <style>
+        html, body, #map-canvas {
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+        }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?&libraries=geometry,places,weather&sensor=false"></script>
+    <script>
+        function initialize() {
+            var chicago = new google.maps.LatLng(34.5862171, -94.2396554);
+            var mapOptions = {
+                zoom: 11,
+                center: chicago
+            };
+
+            
+            var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+            //var weatherLayer = new google.maps.weather.WeatherLayer({
+            //    temperatureUnits: google.maps.weather.TemperatureUnit.FAHRENHEIT
+            //});
+           // weatherLayer.setMap(map);
+
+            var cloudLayer = new google.maps.weather.CloudLayer();
+            cloudLayer.setMap(map);
+
+            //var ctaLayer = new google.maps.KmlLayer({
+            //    url: 'https://dl.dropboxusercontent.com/u/137415965/Eagle-Rock-Loop.kmz'
+            //});
+            //ctaLayer.setMap(map);
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+</head>
+<body>
+    <div id="map-canvas"></div>
+</body>
+</html>

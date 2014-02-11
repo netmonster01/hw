@@ -1,4 +1,4 @@
-﻿.north {
+.north {
   display: block;
   width: 48px;
   height: 50px;
@@ -70,3 +70,4 @@
   height: 50px;
   background: url(../images/compass.png) no-repeat -375px 0;
 }
+/*# sourceMappingURL=compass.css.map */

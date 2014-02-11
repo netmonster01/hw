@@ -1,5 +1,3 @@
-
-
 <div>
     <div class="row">
         <div id="title">
@@ -12,30 +10,43 @@
             <h2>{{ tripDate | date:'EEEE, MMMM yyyy' }}</h2>
         </div>
     </div>
-    <!--<div class="row">
-        <div class="col-md-8 col-md-offset-2" ng-repeat="someString in isoKeys"> {{isoKeys[$index]}} </div> 
-    </div>-->
-    <div class="row rowspace"></div>
-    <!--<div class="row">
+    <div class="row rowspace">
+        
+    </div>
+    <div class="row angular-google-map-container">
         <div class="col-md-6 col-md-offset-3">
-            <span>Pulled from cache:{{pulledFromCache}}</span>
-            <span>{{user.usgsStation}}</span>
+            <div class="google-map" center="map.center" zoom="map.zoom" draggable="true">
+                <layer type="TrafficLayer" show="map.showTraffic"></layer>
+                <layer type="WeatherLayer" namespace="weather" show="map.showWeather"></layer>
+                <layer type="CloudLayer" namespace="weather" show="map.showCloud"></layer>
+                <layer type="KmlLayer" options="kmlLayerOptions" show="map.showKml"></layer>
+                <marker ng-repeat="m in map.markers" coords="m" icon="m.icon" click="onMarkerClicked(m)">
+                    <marker-label content="m.title" anchor="22 0" class="marker-labels" />
+                    <window show="m.showWindow" closeclick="m.closeClick()">
+                        <p>This is an info window at {{ m.latitude | number:4 }}, {{ m.longitude | number:4 }}!</p>
+                        <p class="muted">My marker will stay open when the window is popped up!</p>
+                    </window>
+                </marker>
+            </div>
+            <div>
+                Traffic:
+                <input type="checkbox" ng-model="map.showTraffic" />Weather:
+                <input type="checkbox" ng-model="map.showWeather" />Kml:
+                <input type="checkbox" ng-model="map.showKml" />
+                <br>kml Source url: <a href="{{kmlLayerOptions.url}}">{{kmlLayerOptions.url}}</a>
+            </div>
         </div>
-    </div>-->
+    </div>
+    <div class="row rowspace">
+        
+    </div>
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
             <img class="img-thumbnail" src="{{riverMapUrl}}" alt="river data" />
         </div>
     </div>
     <div class="row rowspace"></div>
-    <!--<div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            River Name:
-            <span>{{siteName}}</span>
-        </div>
-    </div>-->
     <div class="row">
-        <!--<div id="currentConditions">-->
         <div class="col-md-4 col-md-offset-4 current">
             <div class="row currentHeader">
                 <div id="location">
@@ -53,27 +64,28 @@
                     <div class="row">
                         <div class="col-md-4 col-md-offset-1 {{currentConditions.wind_dir | lowercase}}"></div>
                         <div class="col-md-7 pull-left"><h4>{{currentConditions.wind_dir}}</h4></div>
-                       
                     </div>
-                   
                 </div>
             </div>
         </div>
-        <!--</div>-->
     </div>
-    <div class="row rowspace"></div>
-      <div id="forecast">
-        <ul class="row list-unstyled">
-            <li ng-repeat="day in weather.forecast.forecastday | limitTo:user.daysToShow" class="col-md-3">
-                <div ng-class="{today: $index == 0}" class="current">
-                    <h4 ng-if="$index == 0">Today</h4>
-                    <h4 ng-if="$index != 0">{{ day.date.weekday }}</h4>
-                    <hr />
-                    <img class="{{ day.icon }}" ng-src="{{ day.icon_url }}" />
-                    <hr />
-                    <h4>{{ day.high.fahrenheit }}&deg; / {{ day.low.fahrenheit }}&deg;</h4>
-                </div>
-            </li>
-        </ul>
-      </div>
+    <div class="row rowspace">
+        
+    </div>
+    <div class="row">
+        <div id=" forecast">
+            <ul class="row list-unstyled">
+                <li ng-repeat="day in weather.forecast.forecastday | limitTo:user.daysToShow" class="col-md-3">
+                    <div ng-class="{today: $index == 0}" class="current">
+                        <h4 ng-if="$index == 0">Today</h4>
+                        <h4 ng-if="$index != 0">{{ day.date.weekday }}</h4>
+                        <hr />
+                        <img class="{{ day.icon }}" ng-src="{{ day.icon_url }}" />
+                        <hr />
+                        <h4>{{ day.high.fahrenheit }}&deg; / {{ day.low.fahrenheit }}&deg;</h4>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
 </div>
