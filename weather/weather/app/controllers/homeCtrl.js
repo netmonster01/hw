@@ -12,6 +12,8 @@
             $scope.tripTitle = '';
             $scope.user = UserService.user;
 
+            $scope.loading = true;
+
             var kmlUrl = 'https://dl.dropboxusercontent.com/u/137415965/20140211111505-03158-map.kmz?rand=' + (new Date()).valueOf();
             var kmlRadar = 'http://radar.weather.gov/ridge/kml/animation/NCR/LZK_NCR_loop.kml?rand=' + (new Date()).valueOf();
             // Options
@@ -90,10 +92,6 @@
 
                 $scope.isoKeys = localStorageService.keys();
             };
-            //var getAllKeys = function() {
-            //    $scope.isoKeys = localStorageService.getKeysForLocalStorage;
-            //};
-
             var getData = function () {
                
                 Weather.getWeatherCurrentConditions($scope.search)
@@ -116,7 +114,7 @@
                     .then(function (data) {
                         $scope.astronomy = data;
                         localStorageService.add(config.CacheTypes.Astronomy, data);
-
+                        $scope.loading = false;
                     });
 
                 //usgsService.getRiverData('test').then(function (data) {
@@ -129,6 +127,7 @@
                 //    //}, log);
                 //});
                 localStorageService.add(config.CacheTypes.CacheLastUpdate, new Date());
+               
             };
 
             var updateTime = function () {
