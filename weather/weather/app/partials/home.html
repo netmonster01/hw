@@ -1,9 +1,9 @@
 <div>
     <div class="row">
         <div id="title">
-        <h1>{{user.tripTitle}}</h1>
+            <h1>{{user.tripTitle}}</h1>
         </div>
-   </div>
+    </div>
     <div class="row">
         <div id="datetime">
             <h1><timer end-time="tripDate">{{days}} days, {{hours}} hours, {{minutes}} minutes, {{seconds}} seconds.</timer></h1>
@@ -11,15 +11,16 @@
         </div>
     </div>
     <div class="row rowspace">
-        
+
     </div>
-    <div class="row angular-google-map-container">
-        <div class="col-md-6 col-md-offset-3">
-            <div class="google-map" center="map.center" zoom="map.zoom" draggable="true">
+    <div class="row">
+        <div class="col-md-5 col-md-offset-1  angular-google-map-container">
+            <div class="google-map" options="mapOptions" center=" map.center" zoom="map.zoom" draggable="true">
                 <layer type="TrafficLayer" show="map.showTraffic"></layer>
-                <layer type="WeatherLayer" namespace="weather" show="map.showWeather"></layer>
+                <layer type="WeatherLayer" options="weatherOptions" namespace="weather" show="map.showWeather"></layer>
                 <layer type="CloudLayer" namespace="weather" show="map.showCloud"></layer>
                 <layer type="KmlLayer" options="kmlLayerOptions" show="map.showKml"></layer>
+                <layer type="KmlLayer" options="kmlRadarLayerOptions" show="map.showRadarKml"></layer>
                 <marker ng-repeat="m in map.markers" coords="m" icon="m.icon" click="onMarkerClicked(m)">
                     <marker-label content="m.title" anchor="22 0" class="marker-labels" />
                     <window show="m.showWindow" closeclick="m.closeClick()">
@@ -30,20 +31,26 @@
             </div>
             <div>
                 Traffic:
-                <input type="checkbox" ng-model="map.showTraffic" />Weather:
-                <input type="checkbox" ng-model="map.showWeather" />Kml:
+                <input type="checkbox" ng-model="map.showTraffic" />
+                Cloud:
+                <input type="checkbox" ng-model="map.showCloud" />
+                Weather:
+                <input type="checkbox" ng-model="map.showWeather" />
+                Kml:
                 <input type="checkbox" ng-model="map.showKml" />
-                <br>kml Source url: <a href="{{kmlLayerOptions.url}}">{{kmlLayerOptions.url}}</a>
+                Radar:
+                <input type="checkbox" ng-model="map.showRadarKml" />
             </div>
+        </div>
+        <div class="col-md-5 col-md-offset-1">
+            <img class="img-thumbnail" src="{{riverMapUrl}}" alt="river data" />
         </div>
     </div>
     <div class="row rowspace">
-        
+
     </div>
     <div class="row">
-        <div class="col-md-6 col-md-offset-3">
-            <img class="img-thumbnail" src="{{riverMapUrl}}" alt="river data" />
-        </div>
+       
     </div>
     <div class="row rowspace"></div>
     <div class="row">
@@ -70,7 +77,7 @@
         </div>
     </div>
     <div class="row rowspace">
-        
+
     </div>
     <div class="row">
         <div id=" forecast">

@@ -8,8 +8,8 @@
             usgsStation: '07360200', //USGS 07360200 Little Missouri River near Langley, AR
             locationInfo: {
                 title: 'AR/Mena',
-                lon: -94.2396554,
-                lat: 34.5862171
+                lon: -93.8765528,
+                lat: 34.3749583
             }
         };
 

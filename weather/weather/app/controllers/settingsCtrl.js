@@ -9,10 +9,6 @@
         $scope.details = {};
         $scope.options = {};
 
-        //$scope.$watch('details', function () {
-        //    //$scope.user.locationInfo.lon = $scope.details.geom
-        //    alert('hey, details has changed!');
-        //});
         $scope.$watch('details', function (newVal, oldVal) {
             if (newVal !== oldVal) {
                 $scope.user.locationInfo.lon = newVal.geometry.location.e;
@@ -24,8 +20,6 @@
          
             localStorageService.clearAll();
         };
-
-
         $scope.save = function () {
             if (!angular.equals($scope.user, $scope.usertemp))
             {
@@ -47,17 +41,7 @@
                 }
             }
             UserService.save();
-            //update local storage with settings
-            //localStorageService.clearAll();
-            //var saved = localStorageService.add(config.CacheTypes.Location, $scope.user.location);
             $scope.usertemp = angular.copy($scope.user);
-            //if (saved) {
-            //    toastr.success('saved location:' + $scope.user.location);
-            //} else {
-            //    toastr.warning('Error: saving location data to local storage:');
-            //}
-            
             $location.path('/');
         };
-        //initlizeModel();
     });

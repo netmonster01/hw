@@ -12,32 +12,44 @@
             $scope.tripTitle = '';
             $scope.user = UserService.user;
 
-            var kmlUrl = 'http://gmaps-samples.googlecode.com/svn/trunk/ggeoxml/cta.kml';
-
+            var kmlUrl = 'https://dl.dropboxusercontent.com/u/137415965/20140211111505-03158-map.kmz?rand=' + (new Date()).valueOf();
+            var kmlRadar = 'http://radar.weather.gov/ridge/kml/animation/NCR/LZK_NCR_loop.kml?rand=' + (new Date()).valueOf();
+            // Options
             $scope.kmlLayerOptions = {
                 url: kmlUrl,
             };
-           
+            $scope.kmlRadarLayerOptions = {
+                url: kmlRadar,
+            };
+            $scope.weatherOptions = {
+                temperatureUnits: google.maps.weather.TemperatureUnit.FAHRENHEIT
+            };
+            $scope.mapOptions = {
+                mapTypeId: google.maps.MapTypeId.SATELLITE,
+            };
+
+            //Map
             $scope.map = {
                 center: {
-                    latitude:41.875696,//$scope.user.locationInfo.lat,
-                    longitude:-87.624207//$scope.user.locationInfo.lon
+                    latitude:$scope.user.locationInfo.lat,
+                    longitude:$scope.user.locationInfo.lon
                 },
-                //mapTypeId: google.maps.MapTypeId.SATELLITE,
+                
                 zoom: 10,
                 showWeather: false,
                 showTraffic: false,
                 showCloud: false,
-                showKml: false,
-                //markers: [
-                //{
-                //    icon: '/images/hiking.png',
-                //    latitude: $scope.user.locationInfo.lat,
-                //    longitude:$scope.user.locationInfo.lon,
-                //    showWindow: true,
-                //    title: $scope.user.tripTitle
-                //}
-                //]
+                showKml: true,
+                showRadarKml: false,
+                markers: [
+                {
+                    icon: '/images/hiking.png',
+                    latitude: $scope.user.locationInfo.lat,
+                    longitude:$scope.user.locationInfo.lon,
+                    showWindow: true,
+                    title: $scope.user.tripTitle
+                }
+                ]
             };
           
 
