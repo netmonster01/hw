@@ -45,7 +45,7 @@
                 showRadarKml: false,
                 markers: [
                 {
-                    icon: '/images/hiking.png',
+                    icon: 'images/hiking.png',
                     latitude: $scope.user.locationInfo.lat,
                     longitude:$scope.user.locationInfo.lon,
                     showWindow: true,
