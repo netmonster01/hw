@@ -124,7 +124,7 @@
       <DependentUpon>menuCtrl.min.js</DependentUpon>
     </Content>
     <Content Include="app\controllers\settingsCtrl.min.js.map">
-      <DependentUpon>settingsCtrl.min.js</DependentUpon>
+      <DependentUpon>settingsCtrl.js</DependentUpon>
     </Content>
     <Content Include="app\controllers\testsCtrl.min.js.map">
       <DependentUpon>testsCtrl.min.js</DependentUpon>

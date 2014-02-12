@@ -9,7 +9,9 @@
             locationInfo: {
                 title: 'AR/Mena',
                 lon: -93.8765528,
-                lat: 34.3749583
+                lat: 34.3749583,
+                kmlFilePath: 'https://dl.dropboxusercontent.com/u/137415965/20140211111505-03158-map.kmz',
+                kmlRadarFilePath: 'http://radar.weather.gov/ridge/kml/animation/NCR/LZK_NCR_loop.kml',
             }
         };
 

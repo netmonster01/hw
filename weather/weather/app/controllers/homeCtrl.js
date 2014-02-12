@@ -14,8 +14,8 @@
 
             $scope.loading = true;
 
-            var kmlUrl = 'https://dl.dropboxusercontent.com/u/137415965/20140211111505-03158-map.kmz?rand=' + (new Date()).valueOf();
-            var kmlRadar = 'http://radar.weather.gov/ridge/kml/animation/NCR/LZK_NCR_loop.kml?rand=' + (new Date()).valueOf();
+            var kmlUrl = $scope.user.locationInfo.kmlFilePath +'?rand=' + (new Date()).valueOf();
+            var kmlRadar =  $scope.user.locationInfo.kmlRadarFilePath +'?rand=' + (new Date()).valueOf();
             // Options
             $scope.kmlLayerOptions = {
                 url: kmlUrl,
@@ -43,12 +43,53 @@
                 showCloud: false,
                 showKml: true,
                 showRadarKml: false,
+                //clickedMarker: {
+                //    title: 'You clicked here',
+                //    latitude: null,
+                //    longitude: null
+                //},
+                //events: {
+                //    tilesloaded: function (map, eventName, originalEventArgs) {
+                //    },
+                //    click: function (mapModel, eventName, originalEventArgs) {
+                //        // 'this' is the directive's scope
+                //        $log.log("user defined event: " + eventName, mapModel, originalEventArgs);
+
+                //        var e = originalEventArgs[0];
+
+                //        if (!$scope.map.clickedMarker) {
+                //            $scope.map.clickedMarker = {
+                //                title: 'You clicked here',
+                //                latitude: e.latLng.lat(),
+                //                longitude: e.latLng.lng()
+                //            };
+                //        }
+                //        else {
+                //            $scope.map.clickedMarker.latitude = e.latLng.lat();
+                //            $scope.map.clickedMarker.longitude = e.latLng.lng();
+                //        }
+
+                //        $scope.$apply();
+                //    },
+                //    dragend: function () {
+                //        self = this;
+                //        $timeout(function () {
+                //            modified = _.map($scope.map.mexiMarkers, function(marker) {
+                //                return {
+                //                    latitude: marker.latitude + rndAddToLatLon(),
+                //                    longitude: marker.longitude + rndAddToLatLon()
+                //                };
+                //            });
+                //            $scope.map.mexiMarkers = modified;
+                //        });
+                //    }
+                //},
                 markers: [
                 {
-                    icon: 'images/hiking.png',
+                    icon: '../images/hiking.png',
                     latitude: $scope.user.locationInfo.lat,
                     longitude:$scope.user.locationInfo.lon,
-                    showWindow: true,
+                    showWindow: false,
                     title: $scope.user.tripTitle
                 }
                 ]
@@ -57,7 +98,33 @@
 
             $scope.pulledFromCache = false;
 
-            
+            //onMarkerClicked = function (marker) {
+            //    marker.showWindow = true;
+            //    //window.alert("Marker: lat: " + marker.latitude + ", lon: " + marker.longitude + " clicked!!")
+            //};
+
+            //_.each($scope.map.markers, function (marker) {
+            //    marker.closeClick = function () {
+            //        marker.showWindow = false;
+            //        $scope.$apply();
+            //    };
+            //    marker.onClicked = function () {
+            //        onMarkerClicked(marker);
+            //    };
+            //});
+
+            //_.each($scope.map.markers2, function (marker) {
+            //    marker.closeClick = function () {
+            //        marker.showWindow = false;
+            //        $scope.$apply();
+            //    };
+            //    marker.onClicked = function () {
+            //        onMarkerClicked(marker);
+            //    };
+            //});
+
+
+            //$scope.onMarkerClicked = onMarkerClicked;
 
             var initlizeModel = function () {
                 $scope.riverMapUrl = 'http://waterdata.usgs.gov/nwisweb/graph?agency_cd=USGS&site_no=' + $scope.user.usgsStation + '&parm_cd=00065&period=7';

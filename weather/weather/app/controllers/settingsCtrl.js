@@ -39,6 +39,15 @@
                 if (!angular.equals($scope.user.usgsStation, $scope.usertemp.usgsStation)) {
                     toastr.success('updated USGS Station:' + $scope.user.usgsStation);
                 }
+                if (!angular.equals($scope.user.locationInfo.lon, $scope.usertemp.locationInfo.lon)) {
+                    toastr.success('Updated longitude:' + $scope.user.locationInfo.lon);
+                }
+                if (!angular.equals($scope.user.locationInfo.lat, $scope.usertemp.locationInfo.lat)) {
+                    toastr.success('Updated latitude:' + $scope.user.locationInfo.lat);
+                }
+                if (!angular.equals($scope.user.locationInfo.kmlFilePath, $scope.usertemp.locationInfo.kmlFilePath)) {
+                    toastr.success('Updated kml file path:' + $scope.user.locationInfo.kmlFilePath);
+                }
             }
             UserService.save();
             $scope.usertemp = angular.copy($scope.user);
