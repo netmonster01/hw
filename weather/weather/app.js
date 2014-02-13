@@ -1,4 +1,4 @@
-angular.module('hwApp', ['ngRoute', 'LocalStorageModule', 'timer', 'google-maps', 'ngAutocomplete'])
+angular.module('hwApp', ['ngRoute', 'LocalStorageModule', 'timer', 'google-maps', 'ngAutocomplete', 'ui.bootstrap'])
 .config(['$routeProvider', function ($routeProvider) {
   $routeProvider
     .when('/', {

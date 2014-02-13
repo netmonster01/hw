@@ -83,16 +83,16 @@
 
     </div>
     <div class="row">
-        <div id=" forecast">
+        <div id="forecast">
             <ul class="row list-unstyled">
-                <li ng-repeat="day in weather.forecast.forecastday | limitTo:user.daysToShow" class="col-md-3">
-                    <div ng-class="{today: $index == 0}" class="current">
-                        <h4 ng-if="$index == 0">Today</h4>
-                        <h4 ng-if="$index != 0">{{ day.date.weekday }}</h4>
-                        <hr />
+                <li ng-repeat="day in weather.forecast.forecastday | limitTo:user.daysToShow" class="col-md-1">
+                    <div ng-class="{today: $index == 0}" class="upcomingforcast">
+                        <h5 ng-if="$index == 0">Today</h5>
+                        <h5 ng-if="$index != 0">{{ day.date.weekday_short}}</h5>
+                        <!--<hr />-->
                         <img class="{{ day.icon }}" ng-src="{{ day.icon_url }}" />
-                        <hr />
-                        <h4>{{ day.high.fahrenheit }}&deg; / {{ day.low.fahrenheit }}&deg;</h4>
+                        <!--<hr />-->
+                        <h5>{{ day.high.fahrenheit }}&deg; / {{ day.low.fahrenheit }}&deg;</h5>
                     </div>
                 </li>
             </ul>

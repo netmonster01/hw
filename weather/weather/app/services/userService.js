@@ -4,7 +4,7 @@
             tripTitle: 'ERL Hike 2014',
             location: 'AR/Mena',
             tripDate: '2014-06-08',
-            daysToShow: 3,//
+            daysToShow: 10,//
             usgsStation: '07360200', //USGS 07360200 Little Missouri River near Langley, AR
             locationInfo: {
                 title: 'AR/Mena',

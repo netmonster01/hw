@@ -32,6 +32,10 @@ h3 {
     font-size: 4em;
      color:@color-base ! important;
 }
+h5 {
+    /*font-size: 4em;*/
+     color:@color-base ! important;
+}
 #datetime {
   text-align: center;
 }
@@ -59,7 +63,7 @@ h3 {
 
 #forecast ul li h3 {
    
-  font-size: 1.5em;
+  font-size: 1em;
 }
 #current h3 {
 
@@ -100,16 +104,22 @@ h4{
 .badge-error:hover {
   background-color:@color-error-dark;
 }
+.rowspace {
+    height:10px;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+}
 .current {
    border: 1px solid @color-border-light; 
    border-radius:25px;
    background-color: @color-border-light;
    /*box-shadow: 10px 10px 5px #888888;*/
 }
-.rowspace {
-    height:10px;
-    border-bottom-left-radius: 22px;
-    border-bottom-right-radius: 22px;
+.upcomingforcast {
+   border: 1px solid @color-border-light; 
+   /*border-radius:25px;*/
+   background-color: @color-border-light;
+   /*box-shadow: 10px 10px 5px #888888;*/
 }
 .current-dark {
     background-color: @color-list-dark;
@@ -122,7 +132,6 @@ h4{
     border-bottom-left-radius: 22px;
     border-bottom-right-radius: 22px;
 }
-
 .current-top
 {
     width: 100%;
@@ -156,14 +165,20 @@ legend {
 }
 li
 {
-    margin-top: 9pt;
-    margin-bottom: 9pt;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
-.angular-google-map-container { height: 400px; }
+.angular-google-map-container { height: 325px; }
 
-#kml {
+/*#kml {
     width:400px;
 }
 #kmlradar {
     width:400px;
+}*/
+th {
+    color:#000000;
+}
+em {
+    color:#000000;
 }

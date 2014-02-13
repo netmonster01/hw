@@ -8,7 +8,7 @@
                 <div class="control-group">
                     <label class="control-label" for="textinputtripTitle">Trip Title:</label>
                     <div class="controls">
-                        <input name="textinputtripTitle" ng-model="user.tripTitle" id="textinputtripTitle" type="text" placeholder="Trip Title">
+                        <input class="form-control" name="textinputtripTitle" ng-model="user.tripTitle" id="textinputtripTitle" type="text" placeholder="Trip Title">
                     </div>
                 </div>
                 <!-- Text input-->
@@ -20,7 +20,7 @@
                                timezone="user.timezone"
                                auto-fill="fetchCities"
                                autocomplete="off"
-                               placeholder="Location" />
+                               placeholder="Location" class="form-control" />
                     </div>
                 </div>
 
@@ -28,7 +28,7 @@
                 <div class="control-group">
                     <label class="control-label" for="textinputUSGS Station">USGS Station:</label>
                     <div class="controls">
-                        <input type="text" ng-model="user.usgsStation" placeholder="USGS Station Number" id="usgsStation" />
+                        <input type="text" class="form-control" ng-model="user.usgsStation" placeholder="USGS Station Number" id="usgsStation" />
                     </div>
                 </div>
 
@@ -36,14 +36,20 @@
                 <div class="control-group">
                     <label class="control-label" for="textinputtripDate">Trip Date:</label>
                     <div class="controls">
-                        <input name="textinputtripDate" ng-model="user.tripDate" id="textinputtripDate" type="text" placeholder="Trip Date">
+                        <p class="input-group">
+                            <input type="text" class="form-control" datepicker-popup="{{format}}" ng-model="user.tripDate" is-open="opened" placeholder="Trip Date" min="minDate" max="'2015-06-22'" datepicker-options="dateOptions" date-disabled="disabled(date, mode)" ng-required="true" close-text="Close" />
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                            </span>
+                        </p>
+                        <!--<input name="textinputtripDate" ng-model="user.tripDate" id="textinputtripDate" type="text" placeholder="Trip Date">-->
                     </div>
                 </div>
                 <!-- Text input-->
                 <div class="control-group">
                     <label class="control-label" for="daystoshow">Days to show:</label>
                     <div class="controls">
-                        <select id="daystoshow" ng-model="user.daysToShow">
+                        <select id="daystoshow" ng-model="user.daysToShow" class="form-control">
                             <option value="10">10</option>
                             <option value="3">3</option>
                         </select>
@@ -52,32 +58,32 @@
                 <div class="control-group">
                     <label for="Autocomplete2">Map Locaiton(city)</label>
                     <div class="controls">
-                        <input type="text" id="Autocomplete2" ng-model="autocomplete" class="form-control" ng-autocomplete options="options" details="details" />
+                        <input type="text" class="form-control" id="Autocomplete2" ng-model="autocomplete" class="form-control" ng-autocomplete options="options" details="details"  />
                         <b>Details (formatted address)</b>: {{details.formatted_address}}
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="lon">Longitude:</label>
                     <div class="controls">
-                        <input type="text" value="{{user.locationInfo.lon}}" id="lon" />
+                        <input type="text" value="{{user.locationInfo.lon}}" id="lon" class="form-control" placeholder="Longitude" />
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="lat">Latitude:</label>
                     <div class="controls">
-                        <input type="text" value="{{user.locationInfo.lat}}" id="lat" />
+                        <input type="text" value="{{user.locationInfo.lat}}" id="lat" class="form-control" placeholder="Latitude" />
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="kml">Kml File:</label>
                     <div class="controls">
-                        <input type="text" value="{{user.locationInfo.kmlFilePath}}" id="kml" placeholder="kml File" />
+                        <input class="form-control" type="text" value="{{user.locationInfo.kmlFilePath}}" id="kml" placeholder="kml File" />
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="kmlradar">Radar Kml File:</label>
                     <div class="controls">
-                        <input type="text" value="{{user.locationInfo.kmlRadarFilePath}}" id="kmlradar" placeholder="kml Radar File" />
+                        <input class="form-control" type="text" value="{{user.locationInfo.kmlRadarFilePath}}" id="kmlradar" placeholder="kml Radar File" />
                     </div>
                 </div>
                 <!-- Button (Double) -->
@@ -90,8 +96,6 @@
                         <button class="btn btn-warning" ng-click="resetCache()">Clear Cache</button>
                     </div>
                 </div>
-
-
             </fieldset>
         </div>
     </div>

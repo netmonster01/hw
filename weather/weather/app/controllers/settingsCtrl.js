@@ -16,6 +16,22 @@
             }
         });
 
+        $scope.open = function ($event) {
+            $event.preventDefault();
+            $event.stopPropagation();
+
+            $scope.opened = true;
+        };
+        $scope.dateOptions = {
+            'year-format': "'yy'",
+            'starting-day': 1
+        };
+        $scope.showWeeks = true;
+        $scope.toggleWeeks = function () {
+            $scope.showWeeks = !$scope.showWeeks;
+        };
+        $scope.formats = ['dd-MMMM-yyyy', 'yyyy-MM-dd','yyyy/MM/dd', 'shortDate'];
+        $scope.format = $scope.formats[1];
         $scope.resetCache = function () {
          
             localStorageService.clearAll();

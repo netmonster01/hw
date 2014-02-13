@@ -1,4 +1,4 @@
-﻿/* Include this file in your html if you are using the CSP mode. */
+/* Include this file in your html if you are using the CSP mode. */
 @charset "UTF-8";
 body {
   margin-top: 100px;
@@ -27,6 +27,10 @@ h3 {
   font-size: 4em;
   color: #0072c6 ! important;
 }
+h5 {
+  /*font-size: 4em;*/
+  color: #0072c6 ! important;
+}
 #datetime {
   text-align: center;
 }
@@ -45,7 +49,7 @@ h3 {
   text-align: center;
 }
 #forecast ul li h3 {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 #current h3 {
   font-size: 4.5em;
@@ -83,16 +87,22 @@ h4 {
 .badge-error:hover {
   background-color: #953b39;
 }
+.rowspace {
+  height: 10px;
+  border-bottom-left-radius: 22px;
+  border-bottom-right-radius: 22px;
+}
 .current {
   border: 1px solid #ffffff;
   border-radius: 25px;
   background-color: #ffffff;
   /*box-shadow: 10px 10px 5px #888888;*/
 }
-.rowspace {
-  height: 10px;
-  border-bottom-left-radius: 22px;
-  border-bottom-right-radius: 22px;
+.upcomingforcast {
+  border: 1px solid #ffffff;
+  /*border-radius:25px;*/
+  background-color: #ffffff;
+  /*box-shadow: 10px 10px 5px #888888;*/
 }
 .current-dark {
   background-color: #666666;
@@ -134,15 +144,17 @@ legend {
   color: #0072c6;
 }
 li {
-  margin-top: 9pt;
-  margin-bottom: 9pt;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .angular-google-map-container {
-  height: 400px;
+  height: 325px;
 }
-#kml {
-  width: 400px;
+/*# sourceMappingURL=hw.css.map */
+th {
+  color: #000000;
 }
-#kmlradar {
-  width: 400px;
+em {
+  color: #000000;
 }
+/*# sourceMappingURL=hw.css.map */
